@@ -12,7 +12,7 @@ zokou({nomCom:"bot",reaction:"📡",categorie:"AI"},async(dest,zk,commandeOption
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("My Name is Master. I'm listening to you.")}
+    {return repondre("My Name is Shanuka. I'm listening to you.")}
     //var quest = arg.join(' ');
   try{
     
