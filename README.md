@@ -1,7 +1,7 @@
 e## <p align="center"> SHANUWA-MD WHATSAPP BOT
 <br>
 
-<p align="center"><a href="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SHANHWA+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SHANU;RELEASED+DATE+15%2F06%2F2024."alt="Typing SVG" /></a>
+<p align="center"><a href="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SHANHWA+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SHANU;RELEASED+DATE+15%2F06%2F2024."alt="Typing SVG"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
