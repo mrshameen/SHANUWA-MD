@@ -6,7 +6,7 @@ e## <p align="center"> SHANUWA-MD WHATSAPP BOT
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://telegra.ph/file/dddcc6c76f2b07627d327.jpg" width="900" height="320" />
+<img src="https://telegra.ph/file/dddcc6c76f2b07627d327.jpg" width="900" height="280" />
 </p>         
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
