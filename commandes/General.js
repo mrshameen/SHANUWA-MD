@@ -1,21 +1,4 @@
 
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                    //
-//                                             W H A T S A P P _ U S E R _ BOT                                        //
-//                                                                                                                    //
-//                                                     V E R S I O N：１.0                                             //
-//                                                                                                                    //
-//            ███╗░░░███╗░░█████╗░░███████╗░█████████░░███████╗░████████╗░░░░░░░░░░░░███╗░░░███╗░░██████╗░░░░░        //   
-//            ████╗░████║░██╔══██╗░██╔════╝░╚══██║═══╝░██║════╝░██╔═══██╗░░░░░░░░░░░░████╗ ████║░░██╔══██╗░░░░        //
-//            ██╔████╔██║░███████║░███████╗░░░░██║░░░░░███████║░███████╔╝░░███████░░░██╔████╔██║░░██║░░██║░░░░        // 
-//            ██║░██║╚██║░██╔══██║░╚════██║░░░░██║░░░░░██║════╝░██╔═══██╗░░╚══════╝░░██║░██░░██║░░██║░░██║░░░░        //
-//            ██║░╚═╝░██║░██║░░██║░███████║░░░░██║░░░░░███████║░██║░░░░██░░░░░░░░░░░░██║░╚═╝░██║░░██████╔╝░░░░        //
-//            ╚═╝░░░░░╚═╝░╚═╝░░╚═╝░╚══════╝░░░░╚═╝░░░░░╚══════╝░╚═╝░░░░╚═╝░░░░░░░░░░░╚═╝░░░░░╚═╝░░╚═════╝░░░░░        //
-//                                                                                                                    //
-//                                 C R E A T E D _ B Y _ M R _ S A H A N _ O F C _ S L _ R G                          //  
-//                                                                                                                    //
-//                                                                                                                    //
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
@@ -73,7 +56,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "👨‍💻" }, as
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: " *✔️.Creater :Sahan Maduwantha* ", numero: "94720797915" },
+      { nom: " *✔️.Creater :Shanuwa* ", numero: "94724389699" },
       { nom: " *✔️.Co Leader : Hemal Veenath* ", numero: "94719552053" },
         { nom: " *✔️.Bug Test : Kanishka de Silva* ", numero: "94722477361" },
         { nom: " *✔️.Test : Cyber Buddy* ", numero: "94728103228" },
@@ -81,7 +64,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "👨‍💻" }, as
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *WELCOME TO MASTER-MD WHATSAPP USER BOT.. MASTER-MD DEVELOPERS ARE* \n\n";
+    let message = "👋 *WELCOME TO SHANUWA-MD WHATSAPP USER BOT.. SHANUWA-MD DEVELOPERS ARE* \n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -115,22 +98,20 @@ else {
 zokou({ nomCom: "support", categorie: "Help" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*MASTER-MD Developer @Sahan's Number*")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94720797915?text=Hey_MASTER-MD_Owner_👨‍💻✅`},{quoted :ms})
+  repondre("*SHANUWA-MD Developer @Shanuwa's Number*")
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94724389699?text=Hey_SHANUWA-MD_Owner_👨‍💻✅`},{quoted :ms})
 
 });
-zokou({ nomCom: "sahan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "shanuwa", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *MASTER-MD BOT CREATED BY SAHAN 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALEWELA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94720797915?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+  repondre("💀 *SHANUWA-MD BOT CREATED BY SHANUWA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALLE💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *..👨‍💻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94724389699?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });   
 zokou({ nomCom: "ping" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("*MASTER-MD PING* \n *72 MS*")
-  await zk.sendMessage(auteurMessage,{text : `*© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ*`},{quoted :ms})
+  repondre("*SHANUWA-MD PING* \n *72 MS*")
+  await zk.sendMessage(auteurMessage,{text : `*© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *`},{quoted :ms})
 })
-
-
