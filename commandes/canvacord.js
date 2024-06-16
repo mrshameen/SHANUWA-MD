@@ -1,20 +1,3 @@
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                    //
-//                                             W H A T S A P P _ U S E R _ BOT                                        //
-//                                                                                                                    //
-//                                                     V E R S I O N：１.0                                             //
-//                                                                                                                    //
-//            ███╗░░░███╗░░█████╗░░███████╗░█████████░░███████╗░████████╗░░░░░░░░░░░░███╗░░░███╗░░██████╗░░░░░        //   
-//            ████╗░████║░██╔══██╗░██╔════╝░╚══██║═══╝░██║════╝░██╔═══██╗░░░░░░░░░░░░████╗ ████║░░██╔══██╗░░░░        //
-//            ██╔████╔██║░███████║░███████╗░░░░██║░░░░░███████║░███████╔╝░░███████░░░██╔████╔██║░░██║░░██║░░░░        // 
-//            ██║░██║╚██║░██╔══██║░╚════██║░░░░██║░░░░░██║════╝░██╔═══██╗░░╚══════╝░░██║░██░░██║░░██║░░██║░░░░        //
-//            ██║░╚═╝░██║░██║░░██║░███████║░░░░██║░░░░░███████║░██║░░░░██░░░░░░░░░░░░██║░╚═╝░██║░░██████╔╝░░░░        //
-//            ╚═╝░░░░░╚═╝░╚═╝░░╚═╝░╚══════╝░░░░╚═╝░░░░░╚══════╝░╚═╝░░░░╚═╝░░░░░░░░░░░╚═╝░░░░░╚═╝░░╚═════╝░░░░░        //
-//                                                                                                                    //
-//                                 C R E A T E D _ B Y _ M R _ S A H A N _ O F C _ S L _ R G                          //  
-//                                                                                                                    //
-//                                                                                                                    //
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 const { zokou } = require("../framework/zokou");
 const canvacord = require("canvacord");
 const {uploadImageToImgur} = require("../framework/imgur")
@@ -40,7 +23,7 @@ function createCanvacordCommand(commandName, canvacordFunction) {
         
         img = await zk.profilePictureUrl(auteurMsgRepondu, 'image'); }
       } else {
-        img = "https://i.pinimg.com/564x/84/09/12/840912dd744e6662ab211b8070b5d84c.jpg";
+        img = "https://telegra.ph/file/dddcc6c76f2b07627d327.jpg";
       }
 
       const result = await canvacordFunction(img);
@@ -72,17 +55,3 @@ createCanvacordCommand("affect", canvacord.Canvacord.affect);
         createCanvacordCommand("facepalm", canvacord.Canvacord.facepalm);
         createCanvacordCommand("greyscale", canvacord.Canvacord.greyscale);
         createCanvacordCommand("joke", canvacord.Canvacord.jokeOverHead);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
