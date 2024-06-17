@@ -2,4 +2,4 @@ build:
   docker:
       worker: Dockerfile
 run:
-   worker:   npm run shanuwamd
+   worker:   npm run flashmd
