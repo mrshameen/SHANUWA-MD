@@ -1,5 +1,5 @@
 {
-  "name": "MASTER-MD",
+  "name": "SHANUWA-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "master-Md",
+    "shanuwa-Md",
     "whatsapp",
     "whatsapp-bot",
-    "master"
+    "shanuwa"
   ],
-  "author": "sahan",
+  "author": "shanuww",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
