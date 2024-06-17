@@ -9,7 +9,7 @@ var dlsize = 1000 // 1000mb
 
 cmd({
 
-            pattern: "settings",           
+            Pattern: "settings",           
             desc: "(setting list).",
             category: "help",
             react: "⚙️",
