@@ -1,1 +1,999 @@
-'use strict';const _0x239fa8=_0x2a7d;(function(_0x58b674,_0x4bc6a6){const _0x2169fc=_0x2a7d,_0xd3e4fc=_0x58b674();while(!![]){try{const _0x308e07=-parseInt(_0x2169fc(0x3f1))/(-0xcd0+0x1e41+-0x174*0xc)*(-parseInt(_0x2169fc(0x1b6))/(0x6*-0x54a+0x8d2*0x4+-0x2*0x1c5))+parseInt(_0x2169fc(0x194))/(0x1985*0x1+-0x1940+0x2*-0x21)*(parseInt(_0x2169fc(0x467))/(-0xa4e*-0x3+0xaec*0x1+-0x29d2))+parseInt(_0x2169fc(0x18f))/(-0x23f*0x7+0x168*-0xc+-0x1*-0x209e)*(-parseInt(_0x2169fc(0x29b))/(-0x1*0xfbb+0x24c8+-0x1507))+-parseInt(_0x2169fc(0x562))/(-0x2*-0x10b4+0xd6*0x19+-0x18d*0x23)*(parseInt(_0x2169fc(0x2b2))/(-0x224e+-0x5*0x85+-0x1*-0x24ef))+-parseInt(_0x2169fc(0x329))/(-0x1226*0x2+-0x1*-0x1ab+0xae*0x33)+parseInt(_0x2169fc(0x443))/(0x2*0x1261+0x23b3+0x486b*-0x1)*(parseInt(_0x2169fc(0x1b1))/(0xbe1*0x1+0x194b+0x1*-0x2521))+parseInt(_0x2169fc(0x424))/(0xa32+0x1625+-0x204b)*(parseInt(_0x2169fc(0x3a2))/(0x9*-0x39+-0x10e+0x2*0x18e));if(_0x308e07===_0x4bc6a6)break;else _0xd3e4fc['push'](_0xd3e4fc['shift']());}catch(_0xaf240e){_0xd3e4fc['push'](_0xd3e4fc['shift']());}}}(_0x3e3b,-0x17*-0x3b9+0xe334d+-0x5139f));function _0x3e3b(){const _0x5548b9=['=\x20New\x20mess','child','function','action','ll\x20be\x20remo','\x20concernan','age','nt\x20By\x20:\x20','----','2|0|4|6|5|','PREFIXE','\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20','SbQSD','\x20\x20*MASTER-','VUBxz','com/djaleg','zAVUt','12CYSnFe','\x20Sending\x20o','\x0a*MASTER-M',',\x20reconnex','QrGuG','RTdjl','prototype','\x20BY\x20MASTER','2547509486','ercontent.','split','AUTO_DOWNL','concat','XZhlq','YsLie','xMRLr','up\x20descrip','utf8','pushName','conversati','SCRIPTION*','\x20a\x20','EixrH','Africa/Nai','-message😈\x0a','dGxTB','ours\x20...\x20','./media/ch','TdzaH','age\x20======','sticker','10mXQmHr','MvhqO','88647fd8de','node-cron','badSession','includes','nmQAj','pprimer\x20me','mVolL','OWRuo','erty','hAUIk','\x20qr\x20svp','groupMetad','ihebp','usoLU','oTXTY','bdd\x20err\x20','Sender\x20mus','hTKKY','cache','sydBg','recupererT','edHdV','.js','Timeout','Timeout\x20mu','wsyft','\x20\x20\x20\x20\x20\x20\x20\x20\x0a*','BdNEl','chatJid','\x20H\x20','legra.ph/f','mWrYM','media/remo','dexCa','692564sWDzEX','fkQQI','admin','jhKTa','ed\x20,\x20your\x20','defineProp','mmeWd','BAES','silent','pEfea','parse','goodbye','afoxG','./bdd/cron','oDFxd','cement','oLzCB','ator:\x20*SAH','wBnQF','removing\x20@','VosxD','epccR','Cuwjr','quotedMess','essage','Sldsa','\x20\x20\x20\x20\x20\x20\x20\x0a\x20◇','UgBLP','filter','mise\x20à\x20jou','ℹ️\x20Connexio','WARN_COUNT','unmute_at','ted\x20the\x20an','coqoR','getOwnProp','robi','epeat\x20Comm','KHydo','ygiFZ','./bdd/warn','ti-promoti','create','selectedBu','herefore\x20b','https://ra','uWIaR','TWVUY','Cczli','ZKTWh','se\x20of\x20reac','.update','nd\x20Avoid\x20g','length','t\x20be\x20a\x20fun','Disconnect','cIKIM','notify','UYEbB','eIYco','\x20Message\x20f','utomute\x20po','xYRcf','GSOVI','reactions','w.githubus','ciVxR','\x0a║❒Ram\x20:\x20','ukHUG','RIsFo','__importDe','mKLWA','werCase','message\x20ty','YFxqu','\x20installé\x20','dRtkN','lete\x20\x0a\x20@','PEwGx','qlzaL','joShj','redemarrag','groupSetti','ZzQwu','readFileSy','Hello\x20@','n\x20rule\x20by\x20','ser','oup\x20de\x20l\x27e','a8000/Zoko','--------/-',',,,\x20reconn','\x20have\x20been','vUTtK','videoMessa','pAwKp','PqxWH','\x20en\x20ligne\x20','shgCE','nned\x20from\x20','XpLsl','/auth/cred','QTHto','eqprK','QRZxu','euillez\x20re','dOBeL','makeCachea','HaeXw','writeFileS','selectedRo','PM_PERMIT','\x20පිට\x20විය..','9551f.jpg','wa-sticker','txKLA','qsJlz','group;\x20say','s\x20time\x20to\x20','jIXpD','!!!\x20connex','\x20▶️','NUMERO_OWN','eeOKe','mENHw','watchFile','n\x20en\x20cours','RFqvC','inYmT','bited!.','sender','jPTWi','log','Cas\x20de\x20sup','▬▬▬▬▬\x0a\x0a\x20\x20\x20','@g.us','eys','server','ther\x20group','Les\x20crons\x20','yQkuP','ync','YyVhj','ted,\x20\x0a','ZuJTh','redémarrag','aNvTd','aLtVA','ChatJid\x20mu','zWyJe','TloZS','qarKg','oUjTu','CChGv','CKNFV','groupParti','MwgfD','RoZpe','fetchLates','leAuthStat','HBjVM','contacts','ights.','WVYpu','hEcmk','UVjqJ','hdeaJ','output','FmdkJ','ubCgg','déjà\x20ouver','dUmqY','exion\x20en\x20c','NqYbM','UWRdn','downloadAn','available','Goodbye\x20\x0a\x20','tion\x20FOR\x20m','rono.webp','😡😡\x20','pjfzd','ZjDLK','gsWaA','\x20එක්\x20අයෙකු','JhLWy','KZQqW','EJPMh','pm2\x20restar','ceUpdate','\x20\x0a║❒Date\x20:','OCYTE','IuCmd','audio/mp4','textInfo','mtype','BAE5','LGTnp','st\x20be\x20a\x20st','SeVno','︎\x0a║❒User\x20:','Good\x20morni','LXDMX','✅\x20connexio','SSuKm','sage\x20conte','readMessag','number','vrekh','JMLnV','HeEjC','XmoAM','ction','public','OWOfy','tBaileysVe','strative\x20r','ANkRH','ITmzA','BjtdK','/framework','text','oqbXU','ccurred,\x20R','rom\x20@','\x0a║❒Time\x20:\x20','./bdd/banU','elcomed\x20he','TvlCM','ver.gif','2547512841','XsyeP','buJHM','lmTkV','status','FVztw','pzNAL','status@bro','GBTwC','xRwiI','au\x20serveur','DrxmH',',,\x20une\x20ses','VATZb','chargement','axios','Admin','ng\x20warn-li','JtqND','RlNBt','2547578350','434jZwpqp','yyuYH','valide\x20','t\x20all','dSaveMedia','message\x20se','vQdnW','ndes\x20...\x0a','IIpMs','makeInMemo','PrFbX','PFnjb','kdWDp','FmKxy','demote','freemem','yzmAI','leted-mess','vnAxk','ata','oudcv','lFbrY','messages','outesLesVa','...[][]','path','de\x20;\x0a\x20rest','map','xyIuj','./set','sMabr','LhGco','adcast','OBwvN','3|1|2|4|0','m\x20:\x20','XUoeG','./bdd/anti','up\x20:\x20','ent\x20d\x27un\x20a','VpFBQ','\x20des\x20comma','iDsBh','onara.','ad\x20the\x20gro','leted\x20\x0a\x20@','ᴇᴅ\x20𝐁ʏ\x20𝐌ʀ\x20𝐒','string','rom\x20group.','hing\x20warn-','gExnZ','aFioA','kRNIx','ime\x20to\x20ope','nUfNV','author','call','error','txpOW','POEjr','ed\x20;you\x20wi','session','ion\x20fermée','iOKCZ','creds.upda','txnhf','default','find','\x20of\x20reachi','JLeHN','tEgri','SgPgv','MyVKA','st\x20be\x20an\x20o','./bdd/sudo','xrhWZ','zvlrd','ttonId','bmXUH','LBOuo','unlink','uired','n\x27ont\x20pas\x20','not_announ','pdate','s\x20actifs','ion','message\x20de','AIPxc','Clfjt','You\x20don\x27t\x20','2547420636','raHsp','yqAth','unavailabl','iOCJO','xSiRt','pprimer','zpQIF','\x20\x20◇\x0a\x0a','bind','bmqdB','LDiJe','Hello,\x20it\x27','JigLH','xmNjY','\x20MIND]*\x0a','nxUrc','fRdyV','ng;\x20It\x27s\x20t','368870iRRxmD','close\x20the\x20','rMOah','exrUs','statusCode','9UrosDh','kSWgO','n\x20reussie!','Options\x20mu','\x20*GROUP\x20DE','rSjWv','promote','n\x20trouver','KWgJh','owner','sendMessag','ofIXA','\x20*\x20*\x20*','DwJfg','ckets/bail','1|3','HcNPx','....\x20','ion\x20en\x20cou','Message\x20su','PQBlF','ssage','stfTv','administra','and!','aCjac','roup','gqSZD','es\x20raisons','1643807RIpPOr','bot\x20comman','ETAT','er\x20le\x20code','pwrlI','2168rAmWNB','#000000','store','\x20Supported','antiien\x20','OAD_STATUS','01337904@g','t\x20:\x20','hZJfH','n\x20the\x20grou','Upxpw','timeout','vvPAM','le\x20bot\x20est','/app','oth\x20','rs\x20...','FngsD','ADM','zZULq','shift','hRyuX','URL','KksTL','MASTER-MD}','platform','------\x20mes','CcDNI','__createBi','hbTEJ','NBMCP','piEWK','message','ngAQH','rNHCv','ds\x20here','assign','XdWZw','rreur\x20\x20','kQBCf','mtIwA','SWKBK','off','ted\x20,\x20you\x20','sNiuV','hELVV','is\x20pas\x20au\x20','wId','OQyva','esSHx','rgé\x20pour\x20l','NmzKW','MVMsj','keys','PxWiE','./store.js','gBBpX','audio','Link\x20detec','yes','bot','jPbRk','YUydA','BAutE','connection','icYgH','\x09\x20[][]...{','u-MD/main/','announceme','NqlpP','ponseMessa','message\x20fr','BzKMy','qGJmd','rCKEM','antidemote','tcBhG','=====','ImHvU','buttonsRes','Closed','hkjMq','\x20☺️','TcIJB','Message\x20no','\x0a║❒Platfor','EIcKL','vvAwj','hum\x20','eyStore','xnBia','YXUvv','jLMZm','AIClL','iamZx','uLpyp','kfLQM','DjXjf','vous\x20êtes\x20','DkZSK','rom\x20admini','object','PEnze','en\x20cour\x20..','sehjA','FKKrW','contacts.u','BTnzK','mimetype','You\x20MAY\x20re','-formatter','réplacée\x20,','extname','hZGrO','st1.webp','pour\x20','UFMsr','eKKJk','\x0a║❒Total\x20C','CzDDi','\x20Avoid\x20sen','video','ssion\x20est\x20','IiByF','fJpAq','rGHHF','1|2|3|6|4|','MODE','child_proc','transparen','imVUw','EvdKc','jsNWn','u\x20être\x20cha','je\x20fais\x20ri','erUser\x20je\x20','ObOQY','/auth','\x20removed\x20f','zPmyx','BPYOG','----------','pqSSO','welcome','forEach','seMessage','ile/ebdb1b','group-part','\x20\x20\x20\x20\x0a║❒Cre','PQTHJ','bFJHp','AUTO_READ_','\x20suivantes','./bdd/welc','re.*\x20\x0a\x20\x20\x20\x20','DnzVg','nlzzP','GwuzY','Session\x20In','🕸\x0a\x0a','cvPAq','profilePic','xAvkp','zuERj','lien\x20detec','JkBtc','oved*\x0a\x20\x20\x20\x20','messageCon','été\x20activé','__setModul','NOM_OWNER','PpIrC','add','RrkoF','\x20]\x0a║❒Mode\x20','Type','ABDYn','STATUS','An\x20Error\x20O','limit','ed,\x20\x0a','antipromot','resolve','te\x20veuille','writeToFil','delay','loggedOut','iWpQS','LEAcR','have\x20acces','dSgyP','@s.whatsap','VWJxW','1203631587','FgGgb','remove','D\x20IS\x20CONNE','\x20qr\x20svp\x20..','AN*\x0a║❒Pref','ptor','\x20\x20\x20\x20\x20\x20\x20\x20😈A','rnjTi','readdirSyn','\x20has\x20viola','file-type','vFmOE','FSIbX','cipantsUpd','ntentFromM','eys/lib/Ut','participan','HvhIi','group_id','dLFek','nPsVD','NPlLd','url','bject','0|5','MOfti','ndes\x20termi','SXGsn','as\x20been\x20st','vrNwx','Message','BOFYg','gInXl','fais\x20rien','drADQ','6VMTnLX','==========','__esModule','connecting','./bdd/ment','aBhJE','trim','zzjGH','mute_at','WkenV','CTED\x20✅*\x0a\x0a\x20','osfoh','ez\x20rescann','SOkcP','jidDecode','\x20érronée\x20v','age.jpg','ix\x20:\x20[\x20','eZsGo','ding\x20link.','Reason','sKDiA','MNGcD','90488ZhpXOD','PYUnK','lojDK','eenath\x0a▬▬▬','ybxGg','z\x20la\x20ferme','xRBAp','LONxu','bHWPI','flRWy','on\x20rule,\x20t','AAnMm','toLowerCas','user','UZFCW','Master-Md','Replaced','reaction','SIUNO','kEvmL','move\x20becau','utounmute\x20','xXZqX','.\x20📌\x20[POWER','ZNzTc','wWZWn','kDvbW','xtMessage','MNnEI','RAWXX','XbMuX','nPjQp','12345','ygBJe','hasOwnProp','UPrkB','\x20was\x20upgra','FsvBt','jJMAQ','VhdkH','loadMessag','e\x20en\x20cours','icipants.u','uZLDT','ommands\x20:\x20','non','EVCuD','TurMe','etablissem','dwUsJ','◇MASTER-MD','zjYWK','bbqGv','KAtkq','VlTJe','SFtvS','itSxY','level','\x20and\x20@','XjdSH','subject','GUfCr','msg','bghMK','SZGvv','TohDO','bYVJA','yWBVy','st\x20be\x20a\x20nu','HQJNZ','ngUpdate','ess','image','kSIDF','PRBVa','JEGKe','GfbIV','iIvrI','Filter\x20mus','EQadX','Kwtyb','fault','ZfUoD','reactionMe','downloadCo','sCYlk','vFxYv','CcVIX','vlRSy','totalmem','AVXCR','CLpkU','yHEbi','will\x20be\x20re','MjCnY','oEuvU','4|2|0|1|3','endsWith','./bdd/leve','./bdd/only','*You\x20are\x20w','test','NdTCh','ZkvaE','OWNER_NAME','jApaH','getContent','slice','replace','restartReq','fromMe','ggLae','QpWvp','déconnecté','type','fzHrD','leurs','KOcPh','Xizys','11024253SeokkL','XPTfa','YcbuX','KSlYR','lqDjw','MD*','ve\x20because','fs-extra','t\x20be\x20a\x20str','xXRFq','ore\x20info\x20a','PfHEm','ᴀʜᴀɴ\x20𝐎ꜰᴄ*','fOShU',',,,\x20veuill','/commandes','ing','You\x20are\x20ba','KAeno','xatZF','existsSync','JSHTL','mbiAs','desc','ECqHu','cmeLf','sendPresen','\x20:\x20','eolVb','yzRUj','nti-delete','toFile','kEuSv','tureUrl','dZHkY','startsWith','hummm','messages.u','ripped\x20of\x20','WxEYP','pWJfD','JkIrF','schedule','xAjYS','\x20warn_coun','bot\x20detect','lDsDF','cUYLZ','floor','irRyd','ertyDescri','.\x20Conseque','UQmlf','tQFse','configurab','eDefault','SuIJr','swZRs','EaMFp','itQYp','fonction','p.net','né\x20✅','open','s.json','psert','bhAiJ','warn_count','contextInf','t\x20was\x20upgr','...','tSgES','fiIvG','mber','.net','from','\x20perdue\x20😞\x20','Je\x20ne\x20reag','.us','Flash-Md','pe\x20:\x20','delete','eqkCo','https://','@whiskeyso','rWGFM','@hapi/boom','recording','caption','etting\x20rem','ctReply','FIpWd','https://te','rsion','xnOoo','ext','lien','GfDGd','protocolMe','okuWx','mentionedJ','composing','uddop','undefined','mEjfH','__importSt','\x0a\x0a*©\x20𝐂ʀᴇᴀᴛ','./bdd/banG','fpEBj','sWlTl','NOJeh','nDrXW','vxSNV','JtBWx','antibot\x20','close','unwatchFil','▬▬▬▬▬▬▬▬▬▬','YKKUE','xEzEX','2|0|1|3|4','11087362WXaWrs','nt\x20------','XjYgU','Hcmte','FNWaM','s.whatsapp','jRbEL','1.0.0','link\x20detec','aKmwX','\x20*සමුහයෙන්','suRJd','warn','ring','nomCom','ryStore','FULL','MfIrI','key','BUgPe','push','PlgFQ','▬▬▬▬▬▬▬\x0a║❒','ti-demotio','store.json','ZDyIw','e\x20is\x20prohi','IAXlo','aQoyY','ur\x20','kXxIx','vxJQf','dRKIi','writable','random','vsZEA','fkpSI','OzIeY','r\x20svp\x20!!!','fromBuffer','connexion\x20','RJrEi','pbIaI','dcsME','mit','then','ils/logger','OZmsO','4|2|1|3|0','oNRUB','bleSignalK','ntly,\x20he\x20h','dhIrK','singleSele','DvuDc','/zokou','Session\x20id','listRespon','MQAZk','get','ade\x20;\x0a\x20res','CQfmK','pino','vejQa','alwhq','remoteJid','CnLcW','./media/de','CjVJt','creds','toLocaleLo','extendedTe','wzOqR','nding','private','RLAJZ','zknDo','PomYE','e\x20sur\x20le\x20c','1013lGoXbb','sQvsX','tive\x20right','oUBaH','om\x20the\x20gro','Lost','QRFsH','\x20to\x20comman','pvzYD','\x20n\x27a\x20pas\x20p','toBuffer','\x20links\x20her','EQdZu','tKfhU','zokk','\x0a▬▬▬▬▬▬▬▬▬','rjoIR','\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20','------','ted\x20,\x20your','mdPcO','brodR','ome','awaitForMe','scanner\x20le','imageMessa','Boom','QoWLK','ate','XNgxW','mention\x20pa','\x20:\x20Hemal\x20v','useMultiFi','safari'];_0x3e3b=function(){return _0x5548b9;};return _0x3e3b();}var __createBinding=this&&this[_0x239fa8(0x1d2)+_0x239fa8(0x3eb)]||(Object[_0x239fa8(0x491)]?function(_0x5f22cb,_0x1ff9a1,_0x33ae19,_0x3df7c4){const _0xac8675=_0x239fa8,_0x578c7a={'ybxGg':function(_0x373967,_0x51409b){return _0x373967===_0x51409b;},'xyIuj':function(_0xdc3d01,_0x30b840){return _0xdc3d01 in _0x30b840;},'XjYgU':_0xac8675(0x3dd)};if(_0x578c7a[_0xac8675(0x2b6)](_0x3df7c4,undefined))_0x3df7c4=_0x33ae19;var _0x25dce3=Object[_0xac8675(0x48a)+_0xac8675(0x35b)+_0xac8675(0x27d)](_0x1ff9a1,_0x33ae19);(!_0x25dce3||(_0x578c7a[_0xac8675(0x57e)](_0x578c7a[_0xac8675(0x3a4)],_0x25dce3)?!_0x1ff9a1[_0xac8675(0x29d)]:_0x25dce3[_0xac8675(0x3c3)]||_0x25dce3[_0xac8675(0x35f)+'le']))&&(_0x25dce3={'enumerable':!![],'get':function(){return _0x1ff9a1[_0x33ae19];}}),Object[_0xac8675(0x46c)+_0xac8675(0x44d)](_0x5f22cb,_0x3df7c4,_0x25dce3);}:function(_0x224943,_0x4310fb,_0x3ee22c,_0x54dd72){const _0x3cbb11=_0x239fa8,_0xd94899={'QpWvp':function(_0x2e8686,_0x15bfda){return _0x2e8686===_0x15bfda;}};if(_0xd94899[_0x3cbb11(0x322)](_0x54dd72,undefined))_0x54dd72=_0x3ee22c;_0x224943[_0x54dd72]=_0x4310fb[_0x3ee22c];}),__setModuleDefault=this&&this[_0x239fa8(0x25f)+_0x239fa8(0x360)]||(Object[_0x239fa8(0x491)]?function(_0x2444e3,_0x4a48f8){const _0x4d751c=_0x239fa8,_0xe93495={'PQTHJ':_0x4d751c(0x5a4)};Object[_0x4d751c(0x46c)+_0x4d751c(0x44d)](_0x2444e3,_0xe93495[_0x4d751c(0x24b)],{'enumerable':!![],'value':_0x4a48f8});}:function(_0x28f753,_0x569256){const _0x3b8838=_0x239fa8,_0x3ab0aa={'zvlrd':_0x3b8838(0x5a4)};_0x28f753[_0x3ab0aa[_0x3b8838(0x5ae)]]=_0x569256;}),__importStar=this&&this[_0x239fa8(0x392)+'ar']||function(_0xa45933){const _0x53210e=_0x239fa8,_0x133795={'mbiAs':_0x53210e(0x3a1),'ngAQH':function(_0x4e4c51,_0x5b64cf){return _0x4e4c51!=_0x5b64cf;},'VhdkH':function(_0x1647da,_0x599f3d){return _0x1647da!==_0x599f3d;},'eqprK':_0x53210e(0x5a4),'alwhq':function(_0x5e36f4,_0x13d884,_0x46055e,_0x148c24){return _0x5e36f4(_0x13d884,_0x46055e,_0x148c24);},'Kwtyb':function(_0x16ee70,_0x147650,_0x57f47a){return _0x16ee70(_0x147650,_0x57f47a);}},_0x405e40=_0x133795[_0x53210e(0x33f)][_0x53210e(0x42e)]('|');let _0x335769=-0x7*0x252+0x1710*0x1+-0x2*0x369;while(!![]){switch(_0x405e40[_0x335769++]){case'0':var _0x1f989f={};continue;case'1':if(_0x133795[_0x53210e(0x1d7)](_0xa45933,null)){for(var _0x49d9b6 in _0xa45933)if(_0x133795[_0x53210e(0x2d9)](_0x49d9b6,_0x133795[_0x53210e(0x4ce)])&&Object[_0x53210e(0x42a)][_0x53210e(0x2d4)+_0x53210e(0x44d)][_0x53210e(0x59a)](_0xa45933,_0x49d9b6))_0x133795[_0x53210e(0x3e2)](__createBinding,_0x1f989f,_0xa45933,_0x49d9b6);}continue;case'2':if(_0xa45933&&_0xa45933[_0x53210e(0x29d)])return _0xa45933;continue;case'3':_0x133795[_0x53210e(0x302)](__setModuleDefault,_0x1f989f,_0xa45933);continue;case'4':return _0x1f989f;}break;}},__importDefault=this&&this[_0x239fa8(0x4ad)+_0x239fa8(0x303)]||function(_0x14fc2f){const _0x2a4aa6=_0x239fa8;return _0x14fc2f&&_0x14fc2f[_0x2a4aa6(0x29d)]?_0x14fc2f:{'default':_0x14fc2f};};Object[_0x239fa8(0x46c)+_0x239fa8(0x44d)](exports,_0x239fa8(0x29d),{'value':!![]});const baileys_1=__importStar(require(_0x239fa8(0x37d)+_0x239fa8(0x1a2)+_0x239fa8(0x4ef))),logger_1=__importDefault(require(_0x239fa8(0x37d)+_0x239fa8(0x1a2)+_0x239fa8(0x287)+_0x239fa8(0x3d0))),logger=logger_1[_0x239fa8(0x5a4)][_0x239fa8(0x414)]({});logger[_0x239fa8(0x2eb)]=_0x239fa8(0x46f);const pino=require(_0x239fa8(0x3e0)),boom_1=require(_0x239fa8(0x37f)),conf=require(_0x239fa8(0x57f)),axios=require(_0x239fa8(0x55c));let fs=require(_0x239fa8(0x330)),path=require(_0x239fa8(0x57b));const FileType=require(_0x239fa8(0x282)),{Sticker,createSticker,StickerTypes}=require(_0x239fa8(0x4d9)+_0x239fa8(0x224)),{verifierEtatJid,recupererActionJid}=require(_0x239fa8(0x587)+_0x239fa8(0x389)),{atbverifierEtatJid,atbrecupererActionJid}=require(_0x239fa8(0x587)+_0x239fa8(0x1f2));let evt=require(__dirname+(_0x239fa8(0x543)+_0x239fa8(0x3d9)));const {isUserBanned,addUserToBanList,removeUserFromBanList}=require(_0x239fa8(0x549)+_0x239fa8(0x4be)),{addGroupToBanList,isGroupBanned,removeGroupFromBanList}=require(_0x239fa8(0x394)+_0x239fa8(0x1ae)),{isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList}=require(_0x239fa8(0x315)+_0x239fa8(0x55d));function _0x2a7d(_0x2485e2,_0x5b229b){const _0x27190c=_0x3e3b();return _0x2a7d=function(_0x3d1cad,_0x5c2a72){_0x3d1cad=_0x3d1cad-(-0x4*-0x186+0x1ade+0xfb9*-0x2);let _0x35d9c7=_0x27190c[_0x3d1cad];return _0x35d9c7;},_0x2a7d(_0x2485e2,_0x5b229b);}let {reagir}=require(__dirname+(_0x239fa8(0x543)+_0x239fa8(0x1c4)));var session=conf[_0x239fa8(0x59f)][_0x239fa8(0x31e)](/MASTER-MD;;;=>/g,'');const prefixe=conf[_0x239fa8(0x41d)];async function authentification(){const _0xa71e78=_0x239fa8,_0x824952={'UVjqJ':function(_0x2bde76,_0x40dfee){return _0x2bde76+_0x40dfee;},'BAutE':_0xa71e78(0x4cc)+_0xa71e78(0x369),'mdPcO':_0xa71e78(0x3ca)+_0xa71e78(0x21d)+'.','uddop':function(_0x2f9a32,_0x2bc41f){return _0x2f9a32(_0x2bc41f);},'IiByF':_0xa71e78(0x435),'ANkRH':function(_0x5ec3d3,_0x207923){return _0x5ec3d3+_0x207923;},'cvPAq':function(_0xaf8a60,_0x420e81){return _0xaf8a60!=_0x420e81;},'HvhIi':_0xa71e78(0x3ff),'JigLH':function(_0xe68e3d,_0x17873e){return _0xe68e3d+_0x17873e;},'kSWgO':_0xa71e78(0x254)+_0xa71e78(0x564)};try{if(!fs[_0xa71e78(0x33d)](_0x824952[_0xa71e78(0x50c)](__dirname,_0x824952[_0xa71e78(0x1f5)])))console[_0xa71e78(0x4eb)](_0x824952[_0xa71e78(0x405)]),await fs[_0xa71e78(0x4d4)+_0xa71e78(0x4f4)](_0x824952[_0xa71e78(0x50c)](__dirname,_0x824952[_0xa71e78(0x1f5)]),_0x824952[_0xa71e78(0x38f)](atob,session),_0x824952[_0xa71e78(0x231)]);else fs[_0xa71e78(0x33d)](_0x824952[_0xa71e78(0x540)](__dirname,_0x824952[_0xa71e78(0x1f5)]))&&_0x824952[_0xa71e78(0x256)](session,_0x824952[_0xa71e78(0x289)])&&await fs[_0xa71e78(0x4d4)+_0xa71e78(0x4f4)](_0x824952[_0xa71e78(0x189)](__dirname,_0x824952[_0xa71e78(0x1f5)]),_0x824952[_0xa71e78(0x38f)](atob,session),_0x824952[_0xa71e78(0x231)]);}catch(_0x2983ca){console[_0xa71e78(0x4eb)](_0x824952[_0xa71e78(0x189)](_0x824952[_0xa71e78(0x195)],_0x2983ca));return;}}authentification();const store=(-0x14e9+0x98a+0xb5f*0x1,baileys_1[_0x239fa8(0x56b)+_0x239fa8(0x3b1)])({'logger':pino()[_0x239fa8(0x414)]({'level':_0x239fa8(0x46f),'stream':_0x239fa8(0x1b8)})});setTimeout(()=>{const _0x5ec6e8=_0x239fa8,_0x938df1={'TdzaH':function(_0x4d20b1,_0x4b70f5){return _0x4d20b1(_0x4b70f5);},'FVztw':function(_0x1e204a,_0x30bbad){return _0x1e204a+_0x30bbad;},'sydBg':function(_0x47ca07,_0x152182){return _0x47ca07==_0x152182;},'swZRs':_0x5ec6e8(0x4a0),'bmqdB':_0x5ec6e8(0x4ee),'EaMFp':_0x5ec6e8(0x554)+_0x5ec6e8(0x582),'ImHvU':function(_0x5157f8,_0x3886ca){return _0x5157f8||_0x3886ca;},'XjdSH':function(_0x50ec5b,_0x5f3d9f){return _0x50ec5b(_0x5f3d9f);},'cmeLf':_0x5ec6e8(0x34e)+_0x5ec6e8(0x36a),'RFqvC':function(_0x5dacc4,_0x243395){return _0x5dacc4(_0x243395);},'PpIrC':_0x5ec6e8(0x268)+_0x5ec6e8(0x546)+_0x5ec6e8(0x48c)+_0x5ec6e8(0x1ac),'RAWXX':_0x5ec6e8(0x3ba),'KWgJh':function(_0x4e517f,_0x12e00e){return _0x4e517f+_0x12e00e;},'vejQa':function(_0xb1e8f0,_0x5bbfea){return _0xb1e8f0==_0x5bbfea;},'nlzzP':function(_0x123439,_0x3240b5){return _0x123439*_0x3240b5;},'IuCmd':function(_0x2295a1,_0x401e18){return _0x2295a1==_0x401e18;},'MVMsj':_0x5ec6e8(0x437)+'on','EQdZu':_0x5ec6e8(0x40a)+'ge','lDsDF':_0x5ec6e8(0x4c5)+'ge','SIUNO':_0x5ec6e8(0x3e9)+_0x5ec6e8(0x2cd),'nDrXW':_0x5ec6e8(0x205)+_0x5ec6e8(0x1fc)+'ge','rNHCv':_0x5ec6e8(0x3db)+_0x5ec6e8(0x247),'SWKBK':function(_0x53fce5,_0xd28b7f){return _0x53fce5==_0xd28b7f;},'tQFse':_0x5ec6e8(0x25d)+_0x5ec6e8(0x529),'nPsVD':function(_0xfb3263,_0x4e2110){return _0xfb3263(_0x4e2110);},'hAUIk':_0x5ec6e8(0x5ac),'pWJfD':_0x5ec6e8(0x561)+'36','sCYlk':_0x5ec6e8(0x54d)+'90','hEcmk':_0x5ec6e8(0x42c)+'96','oEuvU':_0x5ec6e8(0x5bd)+'32','fRdyV':function(_0x29966d){return _0x29966d();},'NdTCh':_0x5ec6e8(0x1f8)+_0x5ec6e8(0x1ce)+_0x5ec6e8(0x57a),'aKmwX':_0x5ec6e8(0x29c)+_0x5ec6e8(0x413)+_0x5ec6e8(0x441)+_0x5ec6e8(0x203),'bYVJA':_0x5ec6e8(0x1fd)+_0x5ec6e8(0x3f5)+_0x5ec6e8(0x588),'UYEbB':function(_0x1ac5d8,_0x329534){return _0x1ac5d8+_0x329534;},'KAeno':_0x5ec6e8(0x567)+_0x5ec6e8(0x41a),'coqoR':_0x5ec6e8(0x344),'LDiJe':_0x5ec6e8(0x275)+_0x5ec6e8(0x366),'ciVxR':_0x5ec6e8(0x4b0)+_0x5ec6e8(0x379),'jJMAQ':_0x5ec6e8(0x1d0)+_0x5ec6e8(0x534)+_0x5ec6e8(0x3a3),'gBBpX':_0x5ec6e8(0x517),'DnzVg':_0x5ec6e8(0x38e),'VWJxW':_0x5ec6e8(0x380),'TurMe':_0x5ec6e8(0x5c0)+'e','RLAJZ':function(_0x3812ed,_0x4243f1){return _0x3812ed===_0x4243f1;},'VosxD':_0x5ec6e8(0x1f1),'POEjr':_0x5ec6e8(0x1a7)+_0x5ec6e8(0x44a)+_0x5ec6e8(0x418)+'t','edHdV':_0x5ec6e8(0x1ed)+'on','oUBaH':_0x5ec6e8(0x435),'XUoeG':function(_0x36501b,_0x209cbf){return _0x36501b<_0x209cbf;},'Hcmte':_0x5ec6e8(0x390),'ZNzTc':_0x5ec6e8(0x20a)+_0x5ec6e8(0x19b),'YXUvv':_0x5ec6e8(0x3e5)+_0x5ec6e8(0x573)+_0x5ec6e8(0x2ab),'QRFsH':function(_0x4594d2,_0x222fc0){return _0x4594d2===_0x222fc0;},'LBOuo':_0x5ec6e8(0x277)+_0x5ec6e8(0x1bc)+_0x5ec6e8(0x377),'UgBLP':_0x5ec6e8(0x3a7)+_0x5ec6e8(0x373),'UQmlf':_0x5ec6e8(0x314)+'l','BzKMy':_0x5ec6e8(0x34d),'RIsFo':_0x5ec6e8(0x29f)+_0x5ec6e8(0x5b8),'YyVhj':_0x5ec6e8(0x2df),'zuERj':_0x5ec6e8(0x40f)+_0x5ec6e8(0x5b7),'dGxTB':_0x5ec6e8(0x2fa),'bhAiJ':_0x5ec6e8(0x22f),'txKLA':_0x5ec6e8(0x442),'yQkuP':_0x5ec6e8(0x2d2),'eeOKe':_0x5ec6e8(0x237)+'t','YsLie':_0x5ec6e8(0x1ef),'aNvTd':_0x5ec6e8(0x528),'zPmyx':_0x5ec6e8(0x37c),'JhLWy':_0x5ec6e8(0x25a)+'té','BdNEl':_0x5ec6e8(0x23c)+'en','mEjfH':_0x5ec6e8(0x3aa)+_0x5ec6e8(0x4f6),'nUfNV':_0x5ec6e8(0x494)+_0x5ec6e8(0x4a8)+_0x5ec6e8(0x42d)+_0x5ec6e8(0x422)+_0x5ec6e8(0x4c0)+_0x5ec6e8(0x1f9)+_0x5ec6e8(0x465)+_0x5ec6e8(0x54c),'pEfea':_0x5ec6e8(0x2c1),'ihebp':_0x5ec6e8(0x1b7),'hZGrO':_0x5ec6e8(0x228),'ggLae':_0x5ec6e8(0x279),'XZhlq':_0x5ec6e8(0x41c)+_0x5ec6e8(0x1a3),'FSIbX':function(_0x22a643,_0x55734a){return _0x22a643+_0x55734a;},'dUmqY':_0x5ec6e8(0x1ba),'NmzKW':_0x5ec6e8(0x37a),'zzjGH':_0x5ec6e8(0x3ae),'cIKIM':_0x5ec6e8(0x48f),'dLFek':function(_0x3a4571,_0x409a4d){return _0x3a4571>=_0x409a4d;},'uZLDT':_0x5ec6e8(0x312),'TcIJB':function(_0x434dd0,_0x3cf0e4){return _0x434dd0-_0x3cf0e4;},'xAjYS':_0x5ec6e8(0x454),'BUgPe':_0x5ec6e8(0x46e),'PQBlF':_0x5ec6e8(0x52b),'xRBAp':function(_0x2eaed6,_0x1ae3dc){return _0x2eaed6||_0x1ae3dc;},'ZKTWh':_0x5ec6e8(0x305)+_0x5ec6e8(0x1a9),'JMLnV':_0x5ec6e8(0x376)+_0x5ec6e8(0x1e4)+_0x5ec6e8(0x4a7),'PrFbX':_0x5ec6e8(0x356)+_0x5ec6e8(0x26a),'YFxqu':_0x5ec6e8(0x234)+_0x5ec6e8(0x290),'FgGgb':function(_0x5f43b1,_0x51c48a){return _0x5f43b1+_0x51c48a;},'ZuJTh':_0x5ec6e8(0x39b),'kSIDF':_0x5ec6e8(0x3d2),'nPjQp':function(_0x44c5b3,_0x2251b7){return _0x44c5b3+_0x2251b7;},'sNiuV':_0x5ec6e8(0x1a5),'iWpQS':function(_0x4d6246,_0x36e01e){return _0x4d6246!=_0x36e01e;},'FngsD':function(_0x169e01,_0x908b93){return _0x169e01===_0x908b93;},'yzRUj':_0x5ec6e8(0x5bc)+_0x5ec6e8(0x273)+_0x5ec6e8(0x3f8)+_0x5ec6e8(0x1d9),'GUfCr':function(_0x36acbf,_0x5759b5){return _0x36acbf&&_0x5759b5;},'xEzEX':function(_0x38c40a,_0x4e26f7){return _0x38c40a(_0x4e26f7);},'vrekh':_0x5ec6e8(0x33a)+_0x5ec6e8(0x4ca)+_0x5ec6e8(0x1b2)+'ds','FKKrW':function(_0x30a0d3,_0x56df84,_0x41faff,_0x358d3e,_0x2627d7){return _0x30a0d3(_0x56df84,_0x41faff,_0x358d3e,_0x2627d7);},'buJHM':function(_0x1158aa,_0x2cb8ff){return _0x1158aa+_0x2cb8ff;},'uWIaR':_0x5ec6e8(0x51b),'vxSNV':function(_0x17a2b1,_0x1f7b7d){return _0x17a2b1+_0x1f7b7d;},'eZsGo':_0x5ec6e8(0x385)+_0x5ec6e8(0x463)+_0x5ec6e8(0x248)+_0x5ec6e8(0x445)+_0x5ec6e8(0x4d8),'tSgES':function(_0x53502c,_0x11be04){return _0x53502c==_0x11be04;},'VlTJe':_0x5ec6e8(0x262),'aFioA':function(_0x4c8fc8,_0x18e242,_0x2ebabd){return _0x4c8fc8(_0x18e242,_0x2ebabd);},'UFMsr':_0x5ec6e8(0x245),'PomYE':_0x5ec6e8(0x472),'OWRuo':_0x5ec6e8(0x19a),'CjVJt':_0x5ec6e8(0x26b)+'e','fOShU':function(_0x17b704,_0x3a55b5){return _0x17b704==_0x3a55b5;},'bghMK':function(_0x55679d,_0x5081d8){return _0x55679d==_0x5081d8;},'pAwKp':_0x5ec6e8(0x4ec)+_0x5ec6e8(0x23d)+_0x5ec6e8(0x299),'oqbXU':_0x5ec6e8(0x570),'qlzaL':_0x5ec6e8(0x201),'mmeWd':_0x5ec6e8(0x584),'iOKCZ':function(_0x3c3527,_0x56a7db){return _0x3c3527==_0x56a7db;},'rCKEM':function(_0x1e7de1,_0x515359){return _0x1e7de1==_0x515359;},'LEAcR':_0x5ec6e8(0x1fa)+'nt','stfTv':_0x5ec6e8(0x43f)+_0x5ec6e8(0x51a),'KAtkq':_0x5ec6e8(0x188)+_0x5ec6e8(0x4dd)+_0x5ec6e8(0x190)+_0x5ec6e8(0x4dc)+_0x5ec6e8(0x58d),'gqSZD':_0x5ec6e8(0x5b5)+_0x5ec6e8(0x476),'GSOVI':_0x5ec6e8(0x530)+_0x5ec6e8(0x18e)+_0x5ec6e8(0x597)+_0x5ec6e8(0x1bf)+'p.','itQYp':_0x5ec6e8(0x446),'rSjWv':_0x5ec6e8(0x474),'ZzQwu':function(_0x24984b,_0x1bd262){return _0x24984b>_0x1bd262;},'ygiFZ':function(_0x68e230,_0x173922){return _0x68e230!=_0x173922;},'yyuYH':_0x5ec6e8(0x43b)+_0x5ec6e8(0x48b),'esSHx':_0x5ec6e8(0x4f2)+_0x5ec6e8(0x5b4)+_0x5ec6e8(0x25e)+'s','LhGco':_0x5ec6e8(0x45b),'dhIrK':function(_0x588afd,_0x3037bb){return _0x588afd(_0x3037bb);},'WVYpu':_0x5ec6e8(0x338)+'/','jPbRk':_0x5ec6e8(0x4b2)+'✔️','CLpkU':_0x5ec6e8(0x29e),'KOcPh':_0x5ec6e8(0x485)+_0x5ec6e8(0x4e5)+_0x5ec6e8(0x36f),'CcDNI':_0x5ec6e8(0x368),'BjtdK':_0x5ec6e8(0x532)+_0x5ec6e8(0x196)+_0x5ec6e8(0x208),'kfLQM':_0x5ec6e8(0x403),'vsZEA':_0x5ec6e8(0x243)+_0x5ec6e8(0x4c1)+_0x5ec6e8(0x41b),'MNnEI':_0x5ec6e8(0x1c3)+_0x5ec6e8(0x4c8)+_0x5ec6e8(0x255),'KksTL':_0x5ec6e8(0x55b)+_0x5ec6e8(0x58b)+_0x5ec6e8(0x569),'MyVKA':_0x5ec6e8(0x338),'dwUsJ':_0x5ec6e8(0x53c),'zZULq':_0x5ec6e8(0x3ec),'XPTfa':_0x5ec6e8(0x55b)+_0x5ec6e8(0x58b)+_0x5ec6e8(0x292)+_0x5ec6e8(0x367),'hTKKY':function(_0x4e8f1c){return _0x4e8f1c();},'EixrH':_0x5ec6e8(0x39c),'jIXpD':function(_0x1c3b4a,_0x3e8618){return _0x1c3b4a===_0x3e8618;},'yHEbi':_0x5ec6e8(0x3da)+_0x5ec6e8(0x2aa)+_0x5ec6e8(0x4d0)+_0x5ec6e8(0x409)+_0x5ec6e8(0x27b)+'.','xnBia':_0x5ec6e8(0x4df)+_0x5ec6e8(0x5a0)+_0x5ec6e8(0x427)+_0x5ec6e8(0x1a6)+_0x5ec6e8(0x1c6),'HBjVM':function(_0x4a66ec){return _0x4a66ec();},'MNGcD':function(_0x41ccd2,_0x7fb255){return _0x41ccd2===_0x7fb255;},'GfbIV':_0x5ec6e8(0x3ca)+_0x5ec6e8(0x557)+_0x5ec6e8(0x375)+_0x5ec6e8(0x4c2)+_0x5ec6e8(0x513)+_0x5ec6e8(0x43e),'bbqGv':_0x5ec6e8(0x3ca)+_0x5ec6e8(0x225)+_0x5ec6e8(0x559)+_0x5ec6e8(0x230)+_0x5ec6e8(0x511)+_0x5ec6e8(0x26d)+_0x5ec6e8(0x2b7)+_0x5ec6e8(0x3c8),'mWrYM':_0x5ec6e8(0x218)+_0x5ec6e8(0x323)+_0x5ec6e8(0x337)+_0x5ec6e8(0x2a7)+_0x5ec6e8(0x1b4)+_0x5ec6e8(0x44f),'CzDDi':_0x5ec6e8(0x4f8)+_0x5ec6e8(0x2db)+_0x5ec6e8(0x4e0),'hkjMq':_0x5ec6e8(0x4b8)+_0x5ec6e8(0x3f0)+_0x5ec6e8(0x4bf)+_0x5ec6e8(0x1dc),'jPTWi':_0x5ec6e8(0x236)+_0x5ec6e8(0x2f9),'Clfjt':_0x5ec6e8(0x523)+_0x5ec6e8(0x565),'mtIwA':_0x5ec6e8(0x20e),'tEgri':function(_0x378a3b){return _0x378a3b();},'ZfUoD':_0x5ec6e8(0x45c),'DrxmH':function(_0x16c5b8,_0x2368f1){return _0x16c5b8!==_0x2368f1;},'TWVUY':_0x5ec6e8(0x21b),'JkIrF':_0x5ec6e8(0x197)+_0x5ec6e8(0x5ab)+_0x5ec6e8(0x28f),'Upxpw':function(_0x999947,_0x95a4){return _0x999947!==_0x95a4;},'lmTkV':_0x5ec6e8(0x591),'SFtvS':_0x5ec6e8(0x455)+_0x5ec6e8(0x331)+_0x5ec6e8(0x339),'vFmOE':function(_0x5d208a,_0x78d48){return _0x5d208a!==_0x78d48;},'txpOW':_0x5ec6e8(0x4fb)+_0x5ec6e8(0x52d)+_0x5ec6e8(0x3af),'oudcv':function(_0x395590,_0x27d7fb){return _0x395590!==_0x27d7fb;},'dSgyP':_0x5ec6e8(0x536),'LGTnp':_0x5ec6e8(0x45d)+_0x5ec6e8(0x2f6)+_0x5ec6e8(0x372),'tcBhG':_0x5ec6e8(0x415),'kDvbW':_0x5ec6e8(0x300)+_0x5ec6e8(0x49d)+_0x5ec6e8(0x53b),'MfIrI':_0x5ec6e8(0x23f),'DwJfg':_0x5ec6e8(0x46f),'cUYLZ':_0x5ec6e8(0x378),'TloZS':_0x5ec6e8(0x412),'hZJfH':_0x5ec6e8(0x3a9),'drADQ':function(_0x175f6c,_0x95ef1c){return _0x175f6c(_0x95ef1c);},'XNgxW':_0x5ec6e8(0x24f)+_0x5ec6e8(0x407),'LXDMX':_0x5ec6e8(0x249)+_0x5ec6e8(0x2dc)+_0x5ec6e8(0x5b6),'WkenV':_0x5ec6e8(0x220)+_0x5ec6e8(0x36a),'ITmzA':_0x5ec6e8(0x1f6)+_0x5ec6e8(0x49a),'aCjac':_0x5ec6e8(0x5a2)+'te'};async function _0x47ba04(){const _0xf58eb1=_0x5ec6e8,_0x4667ae={'EQadX':_0x938df1[_0xf58eb1(0x261)],'suRJd':_0x938df1[_0xf58eb1(0x2cf)],'jApaH':function(_0x18b098,_0x5aad1f){const _0x14f024=_0xf58eb1;return _0x938df1[_0x14f024(0x19c)](_0x18b098,_0x5aad1f);},'HaeXw':function(_0x38608,_0x5549d7){const _0x14e26d=_0xf58eb1;return _0x938df1[_0x14e26d(0x3e1)](_0x38608,_0x5549d7);},'YcbuX':function(_0x7b0bce,_0xcd22fa){const _0x351ed8=_0xf58eb1;return _0x938df1[_0x351ed8(0x252)](_0x7b0bce,_0xcd22fa);},'kQBCf':function(_0x1c2d5f,_0x163e9e){const _0x50ee4d=_0xf58eb1;return _0x938df1[_0x50ee4d(0x527)](_0x1c2d5f,_0x163e9e);},'oTXTY':_0x938df1[_0xf58eb1(0x1ea)],'OzIeY':_0x938df1[_0xf58eb1(0x3fd)],'dcsME':_0x938df1[_0xf58eb1(0x357)],'YUydA':_0x938df1[_0xf58eb1(0x2c4)],'CQfmK':_0x938df1[_0xf58eb1(0x398)],'RlNBt':_0x938df1[_0xf58eb1(0x1d8)],'jLMZm':function(_0xcca497,_0x256bf3){const _0xb17d5a=_0xf58eb1;return _0x938df1[_0xb17d5a(0x1df)](_0xcca497,_0x256bf3);},'AAnMm':_0x938df1[_0xf58eb1(0x35e)],'SZGvv':function(_0x1899bd,_0x451ae8){const _0x2bd512=_0xf58eb1;return _0x938df1[_0x2bd512(0x28c)](_0x1899bd,_0x451ae8);},'MvhqO':_0x938df1[_0xf58eb1(0x186)],'NqlpP':function(_0x14a1df,_0x285629){const _0x36e9c1=_0xf58eb1;return _0x938df1[_0x36e9c1(0x2ed)](_0x14a1df,_0x285629);},'xAvkp':_0x938df1[_0xf58eb1(0x44e)],'IIpMs':_0x938df1[_0xf58eb1(0x351)],'nxUrc':_0x938df1[_0xf58eb1(0x307)],'bHWPI':_0x938df1[_0xf58eb1(0x50b)],'iDsBh':_0x938df1[_0xf58eb1(0x311)],'iOCJO':function(_0x10321e){const _0x59306f=_0xf58eb1;return _0x938df1[_0x59306f(0x18d)](_0x10321e);},'EJPMh':_0x938df1[_0xf58eb1(0x318)],'KZQqW':_0x938df1[_0xf58eb1(0x3ab)],'CChGv':_0x938df1[_0xf58eb1(0x2f4)],'eKKJk':function(_0x343cce,_0x4ce771){const _0x48fd7b=_0xf58eb1;return _0x938df1[_0x48fd7b(0x4a1)](_0x343cce,_0x4ce771);},'OBwvN':_0x938df1[_0xf58eb1(0x33b)],'yWBVy':_0x938df1[_0xf58eb1(0x489)],'KSlYR':_0x938df1[_0xf58eb1(0x187)],'SXGsn':_0x938df1[_0xf58eb1(0x4a9)],'PRBVa':_0x938df1[_0xf58eb1(0x2d8)],'sKDiA':function(_0x4d95ad,_0xb77af9){const _0x451551=_0xf58eb1;return _0x938df1[_0x451551(0x458)](_0x4d95ad,_0xb77af9);},'oNRUB':_0x938df1[_0xf58eb1(0x1ee)],'irRyd':_0x938df1[_0xf58eb1(0x251)],'usoLU':_0x938df1[_0xf58eb1(0x276)],'aQoyY':_0x938df1[_0xf58eb1(0x2e1)],'pvzYD':function(_0x318d43,_0x172aaf){const _0x24493a=_0xf58eb1;return _0x938df1[_0x24493a(0x2ed)](_0x318d43,_0x172aaf);},'MwgfD':function(_0x457f51,_0xace1ac){const _0x26be11=_0xf58eb1;return _0x938df1[_0x26be11(0x3ed)](_0x457f51,_0xace1ac);},'VpFBQ':function(_0x920bcc,_0x289e84){const _0x5349ee=_0xf58eb1;return _0x938df1[_0x5349ee(0x3ed)](_0x920bcc,_0x289e84);},'kdWDp':_0x938df1[_0xf58eb1(0x47b)],'ZkvaE':_0x938df1[_0xf58eb1(0x59d)],'OQyva':_0x938df1[_0xf58eb1(0x45a)],'hbTEJ':_0x938df1[_0xf58eb1(0x3f4)],'PlgFQ':function(_0x328aa4,_0x5cf579){const _0x50786d=_0xf58eb1;return _0x938df1[_0x50786d(0x586)](_0x328aa4,_0x5cf579);},'yqAth':_0x938df1[_0xf58eb1(0x3a5)],'UPrkB':_0x938df1[_0xf58eb1(0x2ca)],'shgCE':_0x938df1[_0xf58eb1(0x211)],'qsJlz':_0x938df1[_0xf58eb1(0x363)],'eqkCo':function(_0x532b09,_0x5d562a){const _0xb0a21b=_0xf58eb1;return _0x938df1[_0xb0a21b(0x3f7)](_0x532b09,_0x5d562a);},'dOBeL':_0x938df1[_0xf58eb1(0x5b1)],'RTdjl':_0x938df1[_0xf58eb1(0x482)],'zAVUt':function(_0xb46a3d,_0x14d8ee){const _0x4dfda2=_0xf58eb1;return _0x938df1[_0x4dfda2(0x28c)](_0xb46a3d,_0x14d8ee);},'kEvmL':_0x938df1[_0xf58eb1(0x35d)],'sWlTl':_0x938df1[_0xf58eb1(0x1fe)],'xmNjY':_0x938df1[_0xf58eb1(0x4ac)],'vFxYv':function(_0x22da47,_0x38efbb){const _0x15acdb=_0xf58eb1;return _0x938df1[_0x15acdb(0x3f7)](_0x22da47,_0x38efbb);},'pwrlI':_0x938df1[_0xf58eb1(0x4f5)],'jhKTa':_0x938df1[_0xf58eb1(0x259)],'yzmAI':_0x938df1[_0xf58eb1(0x43d)],'mVolL':function(_0x12520e,_0x5d2333){const _0x61dabc=_0xf58eb1;return _0x938df1[_0x61dabc(0x3ed)](_0x12520e,_0x5d2333);},'fzHrD':_0x938df1[_0xf58eb1(0x36b)],'dRKIi':_0x938df1[_0xf58eb1(0x4da)],'FsvBt':_0x938df1[_0xf58eb1(0x4f3)],'RoZpe':_0x938df1[_0xf58eb1(0x4e2)],'PFnjb':_0x938df1[_0xf58eb1(0x432)],'LONxu':_0x938df1[_0xf58eb1(0x4f9)],'OCYTE':_0x938df1[_0xf58eb1(0x241)],'VATZb':_0x938df1[_0xf58eb1(0x520)],'sehjA':function(_0x10b821,_0x1d08ae){const _0x1b06cb=_0xf58eb1;return _0x938df1[_0x1b06cb(0x204)](_0x10b821,_0x1d08ae);},'XdWZw':_0x938df1[_0xf58eb1(0x460)],'vQdnW':_0x938df1[_0xf58eb1(0x391)],'oUjTu':_0x938df1[_0xf58eb1(0x598)],'CnLcW':_0x938df1[_0xf58eb1(0x470)],'vUTtK':_0x938df1[_0xf58eb1(0x451)],'HQJNZ':_0x938df1[_0xf58eb1(0x227)],'wWZWn':function(_0x276ea9,_0x51922c){const _0x342e81=_0xf58eb1;return _0x938df1[_0x342e81(0x440)](_0x276ea9,_0x51922c);},'OZmsO':_0x938df1[_0xf58eb1(0x321)],'icYgH':_0x938df1[_0xf58eb1(0x431)],'PYUnK':function(_0x2c9a7e,_0x2736d9){const _0x5d4dbb=_0xf58eb1;return _0x938df1[_0x5d4dbb(0x284)](_0x2c9a7e,_0x2736d9);},'BPYOG':_0x938df1[_0xf58eb1(0x512)],'ubCgg':_0x938df1[_0xf58eb1(0x1e9)],'OWOfy':function(_0x54a1e5,_0x4036e8){const _0x75b387=_0xf58eb1;return _0x938df1[_0x75b387(0x3f7)](_0x54a1e5,_0x4036e8);},'hdeaJ':_0x938df1[_0xf58eb1(0x2a2)],'vrNwx':function(_0x5887a9,_0x224b88){const _0x10f94d=_0xf58eb1;return _0x938df1[_0x10f94d(0x440)](_0x5887a9,_0x224b88);},'ofIXA':_0x938df1[_0xf58eb1(0x49f)],'bFJHp':function(_0xf9e685,_0x3c9bc9){const _0xe9d082=_0xf58eb1;return _0x938df1[_0xe9d082(0x4e6)](_0xf9e685,_0x3c9bc9);},'FIpWd':function(_0x2c30a1,_0x20c305){const _0x5f275f=_0xf58eb1;return _0x938df1[_0x5f275f(0x28b)](_0x2c30a1,_0x20c305);},'BOFYg':_0x938df1[_0xf58eb1(0x2dd)],'xatZF':function(_0x1befb9,_0x25fca4){const _0x26effe=_0xf58eb1;return _0x938df1[_0x26effe(0x2ed)](_0x1befb9,_0x25fca4);},'NqYbM':function(_0xc3d87b,_0x4173a4){const _0x3b1498=_0xf58eb1;return _0x938df1[_0x3b1498(0x209)](_0xc3d87b,_0x4173a4);},'MQAZk':_0x938df1[_0xf58eb1(0x354)],'pjfzd':_0x938df1[_0xf58eb1(0x3b5)],'jsNWn':_0x938df1[_0xf58eb1(0x1a8)],'aLtVA':function(_0x411746,_0x2e3657){const _0x55b3d6=_0xf58eb1;return _0x938df1[_0x55b3d6(0x3f7)](_0x411746,_0x2e3657);},'JSHTL':function(_0x21c8b4,_0x35c3ad){const _0x44b2ae=_0xf58eb1;return _0x938df1[_0x44b2ae(0x2b8)](_0x21c8b4,_0x35c3ad);},'XpLsl':_0x938df1[_0xf58eb1(0x498)],'ZDyIw':_0x938df1[_0xf58eb1(0x538)],'ABDYn':_0x938df1[_0xf58eb1(0x56c)],'TohDO':function(_0x3da886,_0x18edbe){const _0x195df4=_0xf58eb1;return _0x938df1[_0x195df4(0x3ed)](_0x3da886,_0x18edbe);},'zpQIF':_0x938df1[_0xf58eb1(0x4b1)],'vlRSy':function(_0x4f510d,_0x404738){const _0x3d1c98=_0xf58eb1;return _0x938df1[_0x3d1c98(0x278)](_0x4f510d,_0x404738);},'SSuKm':_0x938df1[_0xf58eb1(0x4f7)],'fkQQI':function(_0x101f4c,_0x4fd15c){const _0x35aa03=_0xf58eb1;return _0x938df1[_0x35aa03(0x3f7)](_0x101f4c,_0x4fd15c);},'HcNPx':_0x938df1[_0xf58eb1(0x2fb)],'xXZqX':function(_0x34714a,_0x52c060){const _0x36ae9f=_0xf58eb1;return _0x938df1[_0x36ae9f(0x28c)](_0x34714a,_0x52c060);},'zjYWK':function(_0x359929,_0x1822a9){const _0x3d73ef=_0xf58eb1;return _0x938df1[_0x3d73ef(0x209)](_0x359929,_0x1822a9);},'EvdKc':function(_0x145a91,_0x58a6d2){const _0x3ebca7=_0xf58eb1;return _0x938df1[_0x3ebca7(0x2d1)](_0x145a91,_0x58a6d2);},'iIvrI':_0x938df1[_0xf58eb1(0x1e2)],'MOfti':function(_0x128fd6,_0x35820d){const _0xd4d33f=_0xf58eb1;return _0x938df1[_0xd4d33f(0x271)](_0x128fd6,_0x35820d);},'piEWK':function(_0x233954,_0x32903c){const _0x4e9cce=_0xf58eb1;return _0x938df1[_0x4e9cce(0x1c7)](_0x233954,_0x32903c);},'xSiRt':function(_0x527ec5,_0x3f9758){const _0x157155=_0xf58eb1;return _0x938df1[_0x157155(0x3f7)](_0x527ec5,_0x3f9758);},'PfHEm':_0x938df1[_0xf58eb1(0x346)],'JEGKe':function(_0x466c4e,_0x172dc9){const _0x4ac2b2=_0xf58eb1;return _0x938df1[_0x4ac2b2(0x2ef)](_0x466c4e,_0x172dc9);},'zWyJe':function(_0x50023f,_0x592054){const _0x1e9066=_0xf58eb1;return _0x938df1[_0x1e9066(0x4e6)](_0x50023f,_0x592054);},'MjCnY':function(_0x471893,_0x5e8cc6){const _0x430570=_0xf58eb1;return _0x938df1[_0x430570(0x4e6)](_0x471893,_0x5e8cc6);},'FNWaM':function(_0x515043,_0x57a89c){const _0x4c9e16=_0xf58eb1;return _0x938df1[_0x4c9e16(0x3a0)](_0x515043,_0x57a89c);},'xMRLr':function(_0x5d0490,_0x5b3414){const _0x2544ba=_0xf58eb1;return _0x938df1[_0x2544ba(0x4e6)](_0x5d0490,_0x5b3414);},'ObOQY':_0x938df1[_0xf58eb1(0x537)],'uLpyp':function(_0x2abe59,_0x59a4d9,_0xae3a69,_0x6ac089,_0xa88af9){const _0x5889c7=_0xf58eb1;return _0x938df1[_0x5889c7(0x21f)](_0x2abe59,_0x59a4d9,_0xae3a69,_0x6ac089,_0xa88af9);},'dRtkN':function(_0x16e8f6,_0x15166d){const _0x389b58=_0xf58eb1;return _0x938df1[_0x389b58(0x54f)](_0x16e8f6,_0x15166d);},'ZjDLK':_0x938df1[_0xf58eb1(0x495)],'xYRcf':function(_0x173f5b,_0x2cda20){const _0x4406c3=_0xf58eb1;return _0x938df1[_0x4406c3(0x399)](_0x173f5b,_0x2cda20);},'SbQSD':_0x938df1[_0xf58eb1(0x2ad)],'PxWiE':function(_0x24a12d,_0x111a09){const _0x4615f4=_0xf58eb1;return _0x938df1[_0x4615f4(0x370)](_0x24a12d,_0x111a09);},'brodR':_0x938df1[_0xf58eb1(0x2e8)],'vvAwj':function(_0x1fcf91,_0x2b8d9c){const _0x5bf061=_0xf58eb1;return _0x938df1[_0x5bf061(0x1df)](_0x1fcf91,_0x2b8d9c);},'joShj':function(_0x2f6f2d,_0x48dbe5,_0x164b78){const _0x3cbb03=_0xf58eb1;return _0x938df1[_0x3cbb03(0x595)](_0x2f6f2d,_0x48dbe5,_0x164b78);},'AIPxc':_0x938df1[_0xf58eb1(0x22a)],'FmKxy':function(_0x2bc6a6,_0x5694a4){const _0x1464f4=_0xf58eb1;return _0x938df1[_0x1464f4(0x527)](_0x2bc6a6,_0x5694a4);},'DkZSK':function(_0x4e69e7,_0x4f4428){const _0xe41016=_0xf58eb1;return _0x938df1[_0xe41016(0x1df)](_0x4e69e7,_0x4f4428);},'kEuSv':_0x938df1[_0xf58eb1(0x3ef)],'fpEBj':_0x938df1[_0xf58eb1(0x44c)],'nmQAj':function(_0x132345,_0x50fe80){const _0x23f713=_0xf58eb1;return _0x938df1[_0x23f713(0x370)](_0x132345,_0x50fe80);},'xrhWZ':function(_0x2fc7db,_0x19a4e4,_0x15813f){const _0xdfdace=_0xf58eb1;return _0x938df1[_0xdfdace(0x595)](_0x2fc7db,_0x19a4e4,_0x15813f);},'Cuwjr':_0x938df1[_0xf58eb1(0x3e6)],'NOJeh':function(_0x3d52a7,_0x59a154){const _0x29b341=_0xf58eb1;return _0x938df1[_0x29b341(0x336)](_0x3d52a7,_0x59a154);},'qGJmd':function(_0x5d783a,_0x47475e){const _0x30ed41=_0xf58eb1;return _0x938df1[_0x30ed41(0x2f1)](_0x5d783a,_0x47475e);},'QTHto':function(_0x1e25b6,_0x5a29cc){const _0xbde490=_0xf58eb1;return _0x938df1[_0xbde490(0x552)](_0x1e25b6,_0x5a29cc);},'dexCa':function(_0x1aa0fb,_0x112e81){const _0x92a124=_0xf58eb1;return _0x938df1[_0x92a124(0x458)](_0x1aa0fb,_0x112e81);},'fiIvG':_0x938df1[_0xf58eb1(0x4c6)],'AVXCR':_0x938df1[_0xf58eb1(0x545)],'hELVV':function(_0x5b70a5,_0x1efdae){const _0x1f2178=_0xf58eb1;return _0x938df1[_0x1f2178(0x3e1)](_0x5b70a5,_0x1efdae);},'okuWx':_0x938df1[_0xf58eb1(0x4b6)],'ukHUG':_0x938df1[_0xf58eb1(0x46d)],'sMabr':function(_0x340fa3,_0x24e8ca){const _0x555f09=_0xf58eb1;return _0x938df1[_0x555f09(0x5a1)](_0x340fa3,_0x24e8ca);},'lojDK':function(_0x16fbee,_0x5716ae){const _0x420e49=_0xf58eb1;return _0x938df1[_0x420e49(0x200)](_0x16fbee,_0x5716ae);},'rjoIR':function(_0x4d6392,_0xd4bfa1){const _0xe0976c=_0xf58eb1;return _0x938df1[_0xe0976c(0x2f1)](_0x4d6392,_0xd4bfa1);},'tKfhU':_0x938df1[_0xf58eb1(0x272)],'DvuDc':_0x938df1[_0xf58eb1(0x1aa)],'jRbEL':_0x938df1[_0xf58eb1(0x2e7)],'xRwiI':_0x938df1[_0xf58eb1(0x1af)],'XsyeP':_0x938df1[_0xf58eb1(0x4a6)],'SgPgv':_0x938df1[_0xf58eb1(0x364)],'fkpSI':function(_0x3827a3,_0x42828d){const _0x51157d=_0xf58eb1;return _0x938df1[_0x51157d(0x4e6)](_0x3827a3,_0x42828d);},'pzNAL':_0x938df1[_0xf58eb1(0x199)],'fJpAq':function(_0x255a30,_0x422e86){const _0x4fd5fe=_0xf58eb1;return _0x938df1[_0x4fd5fe(0x4ba)](_0x255a30,_0x422e86);},'afoxG':function(_0xef1b2d,_0x3aba50){const _0x2b4e41=_0xf58eb1;return _0x938df1[_0x2b4e41(0x48e)](_0xef1b2d,_0x3aba50);},'eolVb':_0x938df1[_0xf58eb1(0x563)],'rWGFM':function(_0x40feac,_0x6cd09f){const _0x16471a=_0xf58eb1;return _0x938df1[_0x16471a(0x48e)](_0x40feac,_0x6cd09f);},'NBMCP':_0x938df1[_0xf58eb1(0x1e7)],'qarKg':_0x938df1[_0xf58eb1(0x581)],'rGHHF':function(_0x399f34,_0x43fa88){const _0x2c14a7=_0xf58eb1;return _0x938df1[_0x2c14a7(0x3d6)](_0x399f34,_0x43fa88);},'GBTwC':function(_0x1fb970,_0x5b490c){const _0x593277=_0xf58eb1;return _0x938df1[_0x593277(0x19c)](_0x1fb970,_0x5b490c);},'SuIJr':_0x938df1[_0xf58eb1(0x50a)],'oLzCB':_0x938df1[_0xf58eb1(0x1f3)],'oDFxd':_0x938df1[_0xf58eb1(0x30d)],'raHsp':_0x938df1[_0xf58eb1(0x327)],'wBnQF':function(_0x5d00ed,_0x4194a8){const _0x45ae8e=_0xf58eb1;return _0x938df1[_0x45ae8e(0x3ed)](_0x5d00ed,_0x4194a8);},'QRZxu':_0x938df1[_0xf58eb1(0x1d1)],'inYmT':_0x938df1[_0xf58eb1(0x542)],'dZHkY':_0x938df1[_0xf58eb1(0x216)],'BTnzK':_0x938df1[_0xf58eb1(0x3c5)],'aBhJE':_0x938df1[_0xf58eb1(0x2ce)],'exrUs':_0x938df1[_0xf58eb1(0x1cd)],'osfoh':_0x938df1[_0xf58eb1(0x5aa)],'DjXjf':_0x938df1[_0xf58eb1(0x2e3)],'UZFCW':_0x938df1[_0xf58eb1(0x1c9)],'PEwGx':_0x938df1[_0xf58eb1(0x32a)],'gExnZ':function(_0x221832){const _0x1cf394=_0xf58eb1;return _0x938df1[_0x1cf394(0x456)](_0x221832);},'wsyft':function(_0x235ba6,_0x4f0850){const _0x45e458=_0xf58eb1;return _0x938df1[_0x45e458(0x209)](_0x235ba6,_0x4f0850);},'vxJQf':function(_0xc71c53,_0x32a4eb){const _0x2f135b=_0xf58eb1;return _0x938df1[_0x2f135b(0x5a1)](_0xc71c53,_0x32a4eb);},'ECqHu':_0x938df1[_0xf58eb1(0x43a)],'itSxY':function(_0x3e00bf,_0x4a03a9){const _0x100a08=_0xf58eb1;return _0x938df1[_0x100a08(0x4de)](_0x3e00bf,_0x4a03a9);},'RJrEi':_0x938df1[_0xf58eb1(0x30e)],'gInXl':_0x938df1[_0xf58eb1(0x210)],'gsWaA':function(_0x33e08d){const _0x2974a1=_0xf58eb1;return _0x938df1[_0x2974a1(0x507)](_0x33e08d);},'imVUw':function(_0x4af29e,_0x4a60bb){const _0x2e5bf1=_0xf58eb1;return _0x938df1[_0x2e5bf1(0x2b1)](_0x4af29e,_0x4a60bb);},'FmdkJ':_0x938df1[_0xf58eb1(0x2fe)],'kRNIx':function(_0x765c39){const _0x5c7837=_0xf58eb1;return _0x938df1[_0x5c7837(0x507)](_0x765c39);},'pbIaI':_0x938df1[_0xf58eb1(0x2e6)],'WxEYP':_0x938df1[_0xf58eb1(0x464)],'EVCuD':function(_0x2ce30f,_0x14d3a9){const _0x2c7044=_0xf58eb1;return _0x938df1[_0x2c7044(0x2b1)](_0x2ce30f,_0x14d3a9);},'GwuzY':_0x938df1[_0xf58eb1(0x22d)],'JtBWx':_0x938df1[_0xf58eb1(0x207)],'Sldsa':function(_0x3c28b6,_0x44ee64){const _0x17798c=_0xf58eb1;return _0x938df1[_0x17798c(0x3a0)](_0x3c28b6,_0x44ee64);},'txnhf':_0x938df1[_0xf58eb1(0x4ea)],'bmXUH':function(_0x47a1a1,_0x5865bd){const _0x5273c5=_0xf58eb1;return _0x938df1[_0x5273c5(0x4e6)](_0x47a1a1,_0x5865bd);},'UWRdn':_0x938df1[_0xf58eb1(0x5bb)],'RrkoF':_0x938df1[_0xf58eb1(0x1de)],'YKKUE':function(_0x3a5fe2){const _0x45c139=_0xf58eb1;return _0x938df1[_0x45c139(0x5a8)](_0x3a5fe2);},'TvlCM':_0x938df1[_0xf58eb1(0x342)],'AIClL':function(_0x573271,_0x5c020b){const _0x45c2c0=_0xf58eb1;return _0x938df1[_0x45c2c0(0x3a0)](_0x573271,_0x5c020b);},'Xizys':_0x938df1[_0xf58eb1(0x304)],'NPlLd':function(_0x4a77a7,_0x1092c8){const _0x11877e=_0xf58eb1;return _0x938df1[_0x11877e(0x558)](_0x4a77a7,_0x1092c8);},'JkBtc':_0x938df1[_0xf58eb1(0x496)],'GfDGd':_0x938df1[_0xf58eb1(0x352)],'IAXlo':function(_0x2029f3,_0x50d684){const _0xcb47e4=_0xf58eb1;return _0x938df1[_0xcb47e4(0x1c0)](_0x2029f3,_0x50d684);},'JLeHN':_0x938df1[_0xf58eb1(0x550)],'pqSSO':_0x938df1[_0xf58eb1(0x2e9)],'kXxIx':function(_0x243331,_0x33bfdc){const _0x2a1657=_0xf58eb1;return _0x938df1[_0x2a1657(0x283)](_0x243331,_0x33bfdc);},'XmoAM':_0x938df1[_0xf58eb1(0x59c)],'ygBJe':function(_0x497674,_0x5aaac1){const _0x8e9e=_0xf58eb1;return _0x938df1[_0x8e9e(0x576)](_0x497674,_0x5aaac1);},'EIcKL':_0x938df1[_0xf58eb1(0x274)],'SOkcP':function(_0x3fbf07,_0x4be082){const _0x354cd5=_0xf58eb1;return _0x938df1[_0x354cd5(0x28c)](_0x3fbf07,_0x4be082);},'vvPAM':_0x938df1[_0xf58eb1(0x52c)],'Cczli':function(_0x14410a,_0x210f1c){const _0x56453c=_0xf58eb1;return _0x938df1[_0x56453c(0x558)](_0x14410a,_0x210f1c);},'CcVIX':_0x938df1[_0xf58eb1(0x202)],'JtqND':function(_0x23a5f2,_0x384d12){const _0x14bc59=_0xf58eb1;return _0x938df1[_0x14bc59(0x3d6)](_0x23a5f2,_0x384d12);},'QoWLK':_0x938df1[_0xf58eb1(0x2cc)],'xnOoo':function(_0xff6116,_0x31e25b,_0x5ccf7b){const _0x18965f=_0xf58eb1;return _0x938df1[_0x18965f(0x595)](_0xff6116,_0x31e25b,_0x5ccf7b);}},{version:_0x5a6617,isLatest:_0x5391d0}=await(0x1*0x12a9+-0x20b*-0x1+-0x2*0xa5a,baileys_1[_0xf58eb1(0x505)+_0xf58eb1(0x53e)+_0xf58eb1(0x386)])(),{state:_0x3b2bd8,saveCreds:_0x94906b}=await(-0x1d2e+-0x4f*0x29+0x29d5,baileys_1[_0xf58eb1(0x411)+_0xf58eb1(0x506)+'e'])(_0x938df1[_0xf58eb1(0x284)](__dirname,_0x938df1[_0xf58eb1(0x3b3)])),_0x408006={'version':_0x5a6617,'logger':_0x938df1[_0xf58eb1(0x440)](pino,{'level':_0x938df1[_0xf58eb1(0x1a1)]}),'browser':[_0x938df1[_0xf58eb1(0x358)],_0x938df1[_0xf58eb1(0x4fd)],_0x938df1[_0xf58eb1(0x1be)]],'printQRInTerminal':!![],'fireInitQueries':![],'shouldSyncHistoryMessage':!![],'downloadHistory':!![],'syncFullHistory':!![],'generateHighQualityLinkPreview':!![],'markOnlineOnConnect':![],'keepAliveIntervalMs':0x7530,'auth':{'creds':_0x3b2bd8[_0xf58eb1(0x3e7)],'keys':(0x2683*0x1+-0x11a5+-0x14de,baileys_1[_0xf58eb1(0x4d2)+_0xf58eb1(0x3d4)+_0xf58eb1(0x20f)])(_0x3b2bd8[_0xf58eb1(0x1eb)],logger)},'getMessage':async _0x33430c=>{const _0x66b436=_0xf58eb1;if(store){const _0x30791b=await store[_0x66b436(0x2da)+'e'](_0x33430c[_0x66b436(0x3e3)],_0x33430c['id'],undefined);return _0x30791b[_0x66b436(0x1d6)]||undefined;}return{'conversation':_0x4667ae[_0x66b436(0x301)]};}},_0x229866=(-0x633+-0x1f55*0x1+0x2588,baileys_1[_0xf58eb1(0x5a4)])(_0x408006);store[_0xf58eb1(0x185)](_0x229866['ev']),_0x938df1[_0xf58eb1(0x595)](setInterval,()=>{const _0x4bcbe0=_0xf58eb1;store[_0x4bcbe0(0x26e)+'e'](_0x4667ae[_0x4bcbe0(0x3ad)]);},0xbad+0x1f76+-0x1f6b),_0x229866['ev']['on'](_0x938df1[_0xf58eb1(0x342)],async _0x403a04=>{const _0xb52c6d=_0xf58eb1,_0x2f5daa={'lFbrY':function(_0xe70dae,_0xb5b6f5){const _0x5ca47e=_0x2a7d;return _0x4667ae[_0x5ca47e(0x31b)](_0xe70dae,_0xb5b6f5);},'rMOah':function(_0x49d287,_0x577773){const _0x2d8cd3=_0x2a7d;return _0x4667ae[_0x2d8cd3(0x4d3)](_0x49d287,_0x577773);},'HeEjC':function(_0x3d2893,_0x2fbd1d){const _0x1b4e3a=_0x2a7d;return _0x4667ae[_0x1b4e3a(0x32b)](_0x3d2893,_0x2fbd1d);}},{messages:_0x4af6da}=_0x403a04,_0x53da14=_0x4af6da[-0xeb+0x763+-0x678];if(!_0x53da14[_0xb52c6d(0x1d6)])return;const _0x251733=_0x471fcf=>{const _0x4bcfcd=_0xb52c6d;if(!_0x471fcf)return _0x471fcf;if(/:\d+@/gi[_0x4bcfcd(0x317)](_0x471fcf)){let _0x3f3ede=(0x17df*-0x1+-0x75a*0x3+0x2ded,baileys_1[_0x4bcfcd(0x2a9)])(_0x471fcf)||{};return _0x3f3ede[_0x4bcfcd(0x2bf)]&&_0x3f3ede[_0x4bcfcd(0x4f0)]&&_0x2f5daa[_0x4bcfcd(0x577)](_0x2f5daa[_0x4bcfcd(0x577)](_0x3f3ede[_0x4bcfcd(0x2bf)],'@'),_0x3f3ede[_0x4bcfcd(0x4f0)])||_0x471fcf;}else return _0x471fcf;};var _0x58831a=(0x4f*-0x59+-0x53e*-0x4+0x67f,baileys_1[_0xb52c6d(0x31c)+_0xb52c6d(0x265)])(_0x53da14[_0xb52c6d(0x1d6)]),_0x4afdd1=_0x4667ae[_0xb52c6d(0x1dd)](_0x58831a,_0x4667ae[_0xb52c6d(0x453)])?_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x437)+'on']:_0x4667ae[_0xb52c6d(0x4d3)](_0x58831a,_0x4667ae[_0xb52c6d(0x3c7)])?_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x40a)+'ge']?.[_0xb52c6d(0x381)]:_0x4667ae[_0xb52c6d(0x4d3)](_0x58831a,_0x4667ae[_0xb52c6d(0x3cd)])?_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x4c5)+'ge']?.[_0xb52c6d(0x381)]:_0x4667ae[_0xb52c6d(0x1dd)](_0x58831a,_0x4667ae[_0xb52c6d(0x1f4)])?_0x53da14[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)]?.[_0xb52c6d(0x544)]:_0x4667ae[_0xb52c6d(0x1dd)](_0x58831a,_0x4667ae[_0xb52c6d(0x3df)])?_0x53da14?.[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x205)+_0xb52c6d(0x1fc)+'ge']?.[_0xb52c6d(0x492)+_0xb52c6d(0x5af)]:_0x4667ae[_0xb52c6d(0x4d3)](_0x58831a,_0x4667ae[_0xb52c6d(0x560)])?_0x53da14[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x3db)+_0xb52c6d(0x247)]?.[_0xb52c6d(0x3d7)+_0xb52c6d(0x383)]?.[_0xb52c6d(0x4d5)+_0xb52c6d(0x1e5)]:_0x4667ae[_0xb52c6d(0x212)](_0x58831a,_0x4667ae[_0xb52c6d(0x2bd)])?_0x53da14?.[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x205)+_0xb52c6d(0x1fc)+'ge']?.[_0xb52c6d(0x492)+_0xb52c6d(0x5af)]||_0x53da14[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x3db)+_0xb52c6d(0x247)]?.[_0xb52c6d(0x3d7)+_0xb52c6d(0x383)]?.[_0xb52c6d(0x4d5)+_0xb52c6d(0x1e5)]||_0x53da14[_0xb52c6d(0x544)]:'',_0x1cfa23=_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x3e3)],_0xd56685=_0x4667ae[_0xb52c6d(0x2f2)](_0x251733,_0x229866[_0xb52c6d(0x2bf)]['id']),_0x41b2ef=_0xd56685[_0xb52c6d(0x42e)]('@')[0x18*0x12+-0xa*0x194+-0x52*-0x2c];const _0x5aaf1a=_0x1cfa23?.[_0xb52c6d(0x313)](_0x4667ae[_0xb52c6d(0x444)]);var _0x413674=_0x5aaf1a?await _0x229866[_0xb52c6d(0x450)+_0xb52c6d(0x575)](_0x1cfa23):'',_0x4b638f=_0x5aaf1a?_0x413674[_0xb52c6d(0x2ee)]:'',_0x2f1def=_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)]?.[_0xb52c6d(0x36d)+'o']?.[_0xb52c6d(0x47e)+_0xb52c6d(0x419)],_0x4dcc0f=_0x4667ae[_0xb52c6d(0x2f2)](_0x251733,_0x53da14[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)]?.[_0xb52c6d(0x36d)+'o']?.[_0xb52c6d(0x288)+'t']),_0x1d840f=_0x53da14[_0xb52c6d(0x1d6)]?.[_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)]?.[_0xb52c6d(0x36d)+'o']?.[_0xb52c6d(0x38d)+'id'],_0x440eee=_0x1d840f?_0x1d840f:_0x2f1def?_0x4dcc0f:'',_0xdee490=_0x5aaf1a?_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x288)+'t']?_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x288)+'t']:_0x53da14[_0xb52c6d(0x288)+'t']:_0x1cfa23;_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x320)]&&(_0xdee490=_0xd56685);var _0x12f726=_0x5aaf1a?_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x288)+'t']:'';const {getAllSudoNumbers:_0xe5c6a9}=_0x4667ae[_0xb52c6d(0x1fb)](require,_0x4667ae[_0xb52c6d(0x258)]),_0x275bfc=_0x53da14[_0xb52c6d(0x436)],_0x20b326=_0x4667ae[_0xb52c6d(0x56a)],_0x9fb110=_0x4667ae[_0xb52c6d(0x18c)],_0xe4250e=_0x4667ae[_0xb52c6d(0x2ba)],_0x4452ef=_0x4667ae[_0xb52c6d(0x58c)],_0x35869b=await _0x4667ae[_0xb52c6d(0x5c1)](_0xe5c6a9),_0x388bc0=[_0x41b2ef,_0x20b326,_0x9fb110,_0xe4250e,_0x4452ef,conf[_0xb52c6d(0x4e1)+'ER']][_0xb52c6d(0x57d)](_0x1fcaf1=>_0x1fcaf1[_0xb52c6d(0x31e)](/[^0-9]/g)+(_0xb52c6d(0x275)+_0xb52c6d(0x366))),_0x16bc8e=_0x388bc0[_0xb52c6d(0x430)](_0x35869b),_0x62d3b2=_0x16bc8e[_0xb52c6d(0x448)](_0xdee490);var _0x565fd9=[_0x20b326,_0x9fb110,_0xe4250e,_0x4452ef][_0xb52c6d(0x57d)](_0xc252a3=>_0xc252a3[_0xb52c6d(0x31e)](/[^0-9]/g)+(_0xb52c6d(0x275)+_0xb52c6d(0x366)))[_0xb52c6d(0x448)](_0xdee490);function _0x166886(_0x26fab5){const _0x3f1662=_0xb52c6d;_0x229866[_0x3f1662(0x19e)+'e'](_0x1cfa23,{'text':_0x26fab5},{'quoted':_0x53da14});}console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x522)]),console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x521)]);_0x5aaf1a&&console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x31b)](_0x4667ae[_0xb52c6d(0x500)],_0x4b638f));console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x31b)](_0x4667ae[_0xb52c6d(0x31b)](_0x4667ae[_0xb52c6d(0x31b)](_0x4667ae[_0xb52c6d(0x22b)](_0x4667ae[_0xb52c6d(0x31b)](_0x4667ae[_0xb52c6d(0x583)],'['),_0x275bfc),_0x4667ae[_0xb52c6d(0x2f5)]),_0xdee490[_0xb52c6d(0x42e)](_0x4667ae[_0xb52c6d(0x32c)])[-0xdb4+0x1dfc+-0x1048]),'\x20]')),console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x22b)](_0x4667ae[_0xb52c6d(0x293)],_0x58831a)),console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x2fc)]),console[_0xb52c6d(0x4eb)](_0x4afdd1);function _0x32ecd6(_0x463cb2){const _0x29d279=_0xb52c6d;let _0x713210=[];for(_0x403a04 of _0x463cb2){if(_0x2f5daa[_0x29d279(0x191)](_0x403a04[_0x29d279(0x469)],null))continue;_0x713210[_0x29d279(0x3b6)](_0x403a04['id']);}return _0x713210;}var _0xec6250=conf[_0xb52c6d(0x1b3)];if(_0x4667ae[_0xb52c6d(0x2b0)](_0xec6250,0x2*0x2a6+-0xbde+0x9*0xbb))await _0x229866[_0xb52c6d(0x343)+_0xb52c6d(0x524)](_0x4667ae[_0xb52c6d(0x3d3)],_0x1cfa23);else{if(_0x4667ae[_0xb52c6d(0x1dd)](_0xec6250,0xf77+0x21f1+0x1*-0x3166))await _0x229866[_0xb52c6d(0x343)+_0xb52c6d(0x524)](_0x4667ae[_0xb52c6d(0x35a)],_0x1cfa23);else _0x4667ae[_0xb52c6d(0x2b0)](_0xec6250,0x1101+-0xca3*0x2+-0x2*-0x424)?await _0x229866[_0xb52c6d(0x343)+_0xb52c6d(0x524)](_0x4667ae[_0xb52c6d(0x452)],_0x1cfa23):await _0x229866[_0xb52c6d(0x343)+_0xb52c6d(0x524)](_0x4667ae[_0xb52c6d(0x3be)],_0x1cfa23);}const _0x5830a4=_0x5aaf1a?await _0x413674[_0xb52c6d(0x288)+'ts']:'';let _0x50ab27=_0x5aaf1a?_0x4667ae[_0xb52c6d(0x3f9)](_0x32ecd6,_0x5830a4):'';const _0x41009f=_0x5aaf1a?_0x50ab27[_0xb52c6d(0x448)](_0xdee490):![];var _0x2a08f3=_0x5aaf1a?_0x50ab27[_0xb52c6d(0x448)](_0xd56685):![];const _0x2c8eef=_0x4afdd1?_0x4afdd1[_0xb52c6d(0x2a1)]()[_0xb52c6d(0x42e)](/ +/)[_0xb52c6d(0x31d)](-0x34*-0xa+-0x94*-0x41+-0x279b*0x1):null,_0x99872f=_0x4afdd1?_0x4afdd1[_0xb52c6d(0x34c)](prefixe):![],_0x309a84=_0x99872f?_0x4afdd1[_0xb52c6d(0x31d)](-0x9d1+-0x15a*-0x13+0x14*-0xcb)[_0xb52c6d(0x2a1)]()[_0xb52c6d(0x42e)](/ +/)[_0xb52c6d(0x1ca)]()[_0xb52c6d(0x2be)+'e']():![],_0x4ae24b=conf[_0xb52c6d(0x1cc)][_0xb52c6d(0x42e)](',');function _0x5ea089(){const _0x3a174e=_0xb52c6d,_0x3c0da6=Math[_0x3a174e(0x359)](_0x2f5daa[_0x3a174e(0x539)](Math[_0x3a174e(0x3c4)](),_0x4ae24b[_0x3a174e(0x49c)])),_0x1cd791=_0x4ae24b[_0x3c0da6];return _0x1cd791;}var _0x230d90={'superUser':_0x62d3b2,'dev':_0x565fd9,'verifGroupe':_0x5aaf1a,'mbre':_0x5830a4,'membreGroupe':_0x12f726,'verifAdmin':_0x41009f,'infosGroupe':_0x413674,'nomGroupe':_0x4b638f,'auteurMessage':_0xdee490,'nomAuteurMessage':_0x275bfc,'idBot':_0xd56685,'verifZokouAdmin':_0x2a08f3,'prefixe':prefixe,'arg':_0x2c8eef,'repondre':_0x166886,'mtype':_0x58831a,'groupeAdmin':_0x32ecd6,'msgRepondu':_0x2f1def,'auteurMsgRepondu':_0x4dcc0f,'ms':_0x53da14,'mybotpic':_0x5ea089};if(_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x38b)+_0xb52c6d(0x1a9)]&&_0x4667ae[_0xb52c6d(0x503)](_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x38b)+_0xb52c6d(0x1a9)][_0xb52c6d(0x324)],0x1a60+0x208f+-0x8d*0x6b)&&_0x4667ae[_0xb52c6d(0x58a)](conf[_0xb52c6d(0x1c8)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x56e)])){if(_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x320)]||_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x38b)+_0xb52c6d(0x1a9)][_0xb52c6d(0x3b4)][_0xb52c6d(0x320)]){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x319)]);return;}console[_0xb52c6d(0x4eb)](_0xb52c6d(0x1a7)+_0xb52c6d(0x5c3));let _0x33cb31=_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x38b)+_0xb52c6d(0x1a9)][_0xb52c6d(0x3b4)];try{let _0x49ab0c=_0x4667ae[_0xb52c6d(0x1e6)];const _0x4cb2b1=fs[_0xb52c6d(0x4bb)+'nc'](_0x49ab0c,_0x4667ae[_0xb52c6d(0x1d3)]),_0x992871=JSON[_0xb52c6d(0x471)](_0x4cb2b1);let _0xd583dc=_0x992871[_0xb52c6d(0x578)][_0x33cb31[_0xb52c6d(0x3e3)]],_0x2b0bda;for(let _0x483465=-0x8af+0x5e7+-0x2*-0x164;_0x4667ae[_0xb52c6d(0x3b7)](_0x483465,_0xd583dc[_0xb52c6d(0x49c)]);_0x483465++){if(_0x4667ae[_0xb52c6d(0x58a)](_0xd583dc[_0x483465][_0xb52c6d(0x3b4)]['id'],_0x33cb31['id'])){_0x2b0bda=_0xd583dc[_0x483465];break;}}if(_0x4667ae[_0xb52c6d(0x58a)](_0x2b0bda,null)||!_0x2b0bda||_0x4667ae[_0xb52c6d(0x58a)](_0x2b0bda,_0x4667ae[_0xb52c6d(0x5bf)])){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x2d5)]);return;}await _0x229866[_0xb52c6d(0x19e)+'e'](_0xd56685,{'image':{'url':_0x4667ae[_0xb52c6d(0x4c9)]},'caption':_0xb52c6d(0x27e)+_0xb52c6d(0x347)+_0xb52c6d(0x43c)+_0xb52c6d(0x4a3)+_0xb52c6d(0x547)+_0x2b0bda[_0xb52c6d(0x3b4)][_0xb52c6d(0x288)+'t'][_0xb52c6d(0x42e)]('@')[0x754+0x2bd+-0xa11*0x1]+'​','mentions':[_0x2b0bda[_0xb52c6d(0x3b4)][_0xb52c6d(0x288)+'t']]})[_0xb52c6d(0x3cf)](()=>{const _0x5c2596=_0xb52c6d;_0x229866[_0x5c2596(0x19e)+'e'](_0xd56685,{'forward':_0x2b0bda},{'quoted':_0x2b0bda});});}catch(_0x116ea2){console[_0xb52c6d(0x4eb)](_0x116ea2);}}_0x53da14[_0xb52c6d(0x3b4)]&&_0x4667ae[_0xb52c6d(0x58a)](_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x3e3)],_0x4667ae[_0xb52c6d(0x4db)])&&_0x4667ae[_0xb52c6d(0x37b)](conf[_0xb52c6d(0x24d)+_0xb52c6d(0x267)],_0x4667ae[_0xb52c6d(0x56e)])&&await _0x229866[_0xb52c6d(0x535)+'es']([_0x53da14[_0xb52c6d(0x3b4)]]);if(_0x53da14[_0xb52c6d(0x3b4)]&&_0x4667ae[_0xb52c6d(0x503)](_0x53da14[_0xb52c6d(0x3b4)][_0xb52c6d(0x3e3)],_0x4667ae[_0xb52c6d(0x4db)])&&_0x4667ae[_0xb52c6d(0x58a)](conf[_0xb52c6d(0x42f)+_0xb52c6d(0x1bb)],_0x4667ae[_0xb52c6d(0x56e)])){if(_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)]){var _0xfb81ba=_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x3e9)+_0xb52c6d(0x2cd)][_0xb52c6d(0x544)];await _0x229866[_0xb52c6d(0x19e)+'e'](_0xd56685,{'text':_0xfb81ba},{'quoted':_0x53da14});}else{if(_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x40a)+'ge']){var _0x16940d=_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x40a)+'ge'][_0xb52c6d(0x381)],_0x2726f2=await _0x229866[_0xb52c6d(0x516)+_0xb52c6d(0x566)+_0xb52c6d(0x296)](_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x40a)+'ge']);await _0x229866[_0xb52c6d(0x19e)+'e'](_0xd56685,{'image':{'url':_0x2726f2},'caption':_0x16940d},{'quoted':_0x53da14});}else{if(_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x4c5)+'ge']){var _0x16940d=_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x4c5)+'ge'][_0xb52c6d(0x381)],_0x2f0e76=await _0x229866[_0xb52c6d(0x516)+_0xb52c6d(0x566)+_0xb52c6d(0x296)](_0x53da14[_0xb52c6d(0x1d6)][_0xb52c6d(0x4c5)+'ge']);await _0x229866[_0xb52c6d(0x19e)+'e'](_0xd56685,{'video':{'url':_0x2f0e76},'caption':_0x16940d},{'quoted':_0x53da14});}}}}if(!_0x565fd9&&_0x4667ae[_0xb52c6d(0x2b0)](_0x1cfa23,_0x4667ae[_0xb52c6d(0x4d1)]))return;if(_0x4afdd1&&_0xdee490[_0xb52c6d(0x313)](_0x4667ae[_0xb52c6d(0x429)])){const {ajouterOuMettreAJourUserData:_0x4f8717}=_0x4667ae[_0xb52c6d(0x423)](require,_0x4667ae[_0xb52c6d(0x2c5)]);try{await _0x4667ae[_0xb52c6d(0x2f2)](_0x4f8717,_0xdee490);}catch(_0x511d56){console[_0xb52c6d(0x59b)](_0x511d56);}}try{if(_0x53da14[_0xb52c6d(0x1d6)][_0x58831a][_0xb52c6d(0x36d)+'o'][_0xb52c6d(0x38d)+'id']&&(_0x53da14[_0xb52c6d(0x1d6)][_0x58831a][_0xb52c6d(0x36d)+'o'][_0xb52c6d(0x38d)+'id'][_0xb52c6d(0x448)](_0xd56685)||_0x53da14[_0xb52c6d(0x1d6)][_0x58831a][_0xb52c6d(0x36d)+'o'][_0xb52c6d(0x38d)+'id'][_0xb52c6d(0x448)](_0x4667ae[_0xb52c6d(0x22b)](conf[_0xb52c6d(0x4e1)+'ER'],_0x4667ae[_0xb52c6d(0x32c)])))){if(_0x4667ae[_0xb52c6d(0x2b0)](_0x1cfa23,_0x4667ae[_0xb52c6d(0x4d1)]))return;;if(_0x62d3b2){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x396)]);return;}let _0x3f75d4=_0x4667ae[_0xb52c6d(0x1fb)](require,_0x4667ae[_0xb52c6d(0x18a)]),_0x31c5bd=await _0x3f75d4[_0xb52c6d(0x459)+_0xb52c6d(0x579)+_0xb52c6d(0x326)](),_0x15fe8a=_0x31c5bd[-0x974+0x205c+-0x16e8];if(_0x4667ae[_0xb52c6d(0x308)](_0x15fe8a[_0xb52c6d(0x551)],_0x4667ae[_0xb52c6d(0x1b5)])){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x46a)]);return;}let _0x9d8faa;if(_0x4667ae[_0xb52c6d(0x58a)](_0x15fe8a[_0xb52c6d(0x324)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x572)]))_0x9d8faa={'image':{'url':_0x15fe8a[_0xb52c6d(0x28e)]},'caption':_0x15fe8a[_0xb52c6d(0x1d6)]};else{if(_0x4667ae[_0xb52c6d(0x44b)](_0x15fe8a[_0xb52c6d(0x324)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x325)]))_0x9d8faa={'video':{'url':_0x15fe8a[_0xb52c6d(0x28e)]},'caption':_0x15fe8a[_0xb52c6d(0x1d6)]};else{if(_0x4667ae[_0xb52c6d(0x503)](_0x15fe8a[_0xb52c6d(0x324)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x3c2)])){let _0xb431a8=new Sticker(_0x15fe8a[_0xb52c6d(0x28e)],{'pack':conf[_0xb52c6d(0x260)],'type':StickerTypes[_0xb52c6d(0x3b2)],'categories':['🤩','🎉'],'id':_0x4667ae[_0xb52c6d(0x2d7)],'quality':0x46,'background':_0x4667ae[_0xb52c6d(0x504)]});const _0x42c1cf=await _0xb431a8[_0xb52c6d(0x3fb)]();_0x9d8faa={'sticker':_0x42c1cf};}else _0x4667ae[_0xb52c6d(0x503)](_0x15fe8a[_0xb52c6d(0x324)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x56d)])&&(_0x9d8faa={'audio':{'url':_0x15fe8a[_0xb52c6d(0x28e)]},'mimetype':_0x4667ae[_0xb52c6d(0x2b9)]});}}_0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,_0x9d8faa,{'quoted':_0x53da14});}}catch(_0x79ac37){}try{const _0x254ea1=await _0x4667ae[_0xb52c6d(0x423)](verifierEtatJid,_0x1cfa23);if(_0x4afdd1[_0xb52c6d(0x448)](_0x4667ae[_0xb52c6d(0x526)])&&_0x5aaf1a&&_0x254ea1){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x55a)]);var _0x5f230d=_0x5aaf1a?_0x50ab27[_0xb52c6d(0x448)](_0xd56685):![];if(_0x4667ae[_0xb52c6d(0x21e)](_0x62d3b2,_0x41009f)||!_0x5f230d){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x1db)]);return;};const _0x329e89={'remoteJid':_0x1cfa23,'fromMe':![],'id':_0x53da14[_0xb52c6d(0x3b4)]['id'],'participant':_0xdee490};var _0x43dd2f=_0x4667ae[_0xb52c6d(0x568)];const _0x44947a=_0x4667ae[_0xb52c6d(0x4ff)];var _0x25f72b=new Sticker(_0x44947a,{'pack':_0x4667ae[_0xb52c6d(0x3e4)],'author':conf[_0xb52c6d(0x31a)],'type':StickerTypes[_0xb52c6d(0x3b2)],'categories':['🤩','🎉'],'id':_0x4667ae[_0xb52c6d(0x2d7)],'quality':0x32,'background':_0x4667ae[_0xb52c6d(0x4c4)]});await _0x25f72b[_0xb52c6d(0x348)](_0x4667ae[_0xb52c6d(0x2f7)]);var _0x5e06a8=await _0x4667ae[_0xb52c6d(0x2cb)](recupererActionJid,_0x1cfa23);if(_0x4667ae[_0xb52c6d(0x308)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x3d1)])){const _0x53c3c7=_0x4667ae[_0xb52c6d(0x1f7)][_0xb52c6d(0x42e)]('|');let _0xd2a836=0xf2+0x25*-0xc0+0x1*0x1ace;while(!![]){switch(_0x53c3c7[_0xd2a836++]){case'0':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'sticker':fs[_0xb52c6d(0x4bb)+'nc'](_0x4667ae[_0xb52c6d(0x2f7)])});continue;case'1':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x329e89});continue;case'2':_0x43dd2f+=_0xb52c6d(0x5b9)+_0xb52c6d(0x58f)+_0xdee490[_0xb52c6d(0x42e)]('@')[-0x4ff*0x1+-0x767+0xc66]+(_0xb52c6d(0x240)+_0xb52c6d(0x592));continue;case'3':await fs[_0xb52c6d(0x5b2)](_0x4667ae[_0xb52c6d(0x2f7)]);continue;case'4':(0xb7f+0xa1d+-0x39a*0x6,baileys_1[_0xb52c6d(0x26f)])(-0x305+0x43*-0x83+-0x73*-0x5a);continue;case'5':try{await _0x229866[_0xb52c6d(0x502)+_0xb52c6d(0x285)+_0xb52c6d(0x40d)](_0x1cfa23,[_0xdee490],_0x4667ae[_0xb52c6d(0x3d1)]);}catch(_0xa625d3){_0x4667ae[_0xb52c6d(0x2b3)](console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x242)]),_0xa625d3);}continue;case'6':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x43dd2f,'mentions':[_0xdee490]},{'quoted':_0x53da14});continue;}break;}}else{if(_0x4667ae[_0xb52c6d(0x44b)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x510)]))_0x43dd2f+=_0xb52c6d(0x518)+'@'+_0xdee490[_0xb52c6d(0x42e)]('@')[0xa8e*0x1+0xb*0x133+-0x17bf]+(_0xb52c6d(0x425)+_0xb52c6d(0x4f1)+_0xb52c6d(0x3fc)+_0xb52c6d(0x3bc)+_0xb52c6d(0x4e8)),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x43dd2f,'mentions':[_0xdee490]},{'quoted':_0x53da14}),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x329e89}),await fs[_0xb52c6d(0x5b2)](_0x4667ae[_0xb52c6d(0x2f7)]);else{if(_0x4667ae[_0xb52c6d(0x53d)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x50d)])){const {getWarnCountByJID:_0x373e2e,ajouterUtilisateurAvecWarnCount:_0x2bcc36}=_0x4667ae[_0xb52c6d(0x295)](require,_0x4667ae[_0xb52c6d(0x19f)]);let _0x17013d=await _0x4667ae[_0xb52c6d(0x24c)](_0x373e2e,_0xdee490),_0x1444ec=conf[_0xb52c6d(0x486)];if(_0x4667ae[_0xb52c6d(0x384)](_0x17013d,_0x1444ec)){var _0x5313c1=_0xb52c6d(0x3aa)+_0xb52c6d(0x1e1)+_0xb52c6d(0x30f)+_0xb52c6d(0x2c6)+_0xb52c6d(0x499)+_0xb52c6d(0x593)+_0xb52c6d(0x269);await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x5313c1,'mentions':[_0xdee490]},{'quoted':_0x53da14}),await _0x229866[_0xb52c6d(0x502)+_0xb52c6d(0x285)+_0xb52c6d(0x40d)](_0x1cfa23,[_0xdee490],_0x4667ae[_0xb52c6d(0x3d1)]),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x329e89});}else{const _0x528e02=_0x4667ae[_0xb52c6d(0x297)][_0xb52c6d(0x42e)]('|');let _0xe82644=0x1326+-0x5*-0x50b+-0x2c5d;while(!![]){switch(_0x528e02[_0xe82644++]){case'0':await _0x4667ae[_0xb52c6d(0x33c)](_0x2bcc36,_0xdee490);continue;case'1':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x27e37c,'mentions':[_0xdee490]},{'quoted':_0x53da14});continue;case'2':var _0x27e37c=_0xb52c6d(0x1f0)+_0xb52c6d(0x404)+_0xb52c6d(0x355)+_0xb52c6d(0x36e)+_0xb52c6d(0x3de)+_0xb52c6d(0x1bd)+_0x2ace17+'\x20';continue;case'3':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x329e89});continue;case'4':var _0x2ace17=_0x4667ae[_0xb52c6d(0x514)](_0x1444ec,_0x17013d);continue;}break;}}}}}}}catch(_0x16f505){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x22b)](_0x4667ae[_0xb52c6d(0x3dc)],_0x16f505));}try{const _0x238caa=_0x53da14[_0xb52c6d(0x3b4)]?.['id']?.[_0xb52c6d(0x34c)](_0x4667ae[_0xb52c6d(0x51c)])&&_0x4667ae[_0xb52c6d(0x44b)](_0x53da14[_0xb52c6d(0x3b4)]?.['id']?.[_0xb52c6d(0x49c)],-0x5b6*0x3+0x8d5+-0x1*-0x85d),_0xaf85e9=_0x53da14[_0xb52c6d(0x3b4)]?.['id']?.[_0xb52c6d(0x34c)](_0x4667ae[_0xb52c6d(0x23a)])&&_0x4667ae[_0xb52c6d(0x4fa)](_0x53da14[_0xb52c6d(0x3b4)]?.['id']?.[_0xb52c6d(0x49c)],0x649*-0x5+0xbcf*-0x3+0x42ea);if(_0x4667ae[_0xb52c6d(0x33e)](_0x238caa,_0xaf85e9)){if(_0x4667ae[_0xb52c6d(0x308)](_0x58831a,_0x4667ae[_0xb52c6d(0x4cb)])){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x3bb)]);return;};const _0x2a3324=await _0x4667ae[_0xb52c6d(0x3f9)](atbverifierEtatJid,_0x1cfa23);if(!_0x2a3324)return;;if(_0x41009f||_0x4667ae[_0xb52c6d(0x37b)](_0xdee490,_0xd56685)){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x1db)]);return;};const _0x5ad273={'remoteJid':_0x1cfa23,'fromMe':![],'id':_0x53da14[_0xb52c6d(0x3b4)]['id'],'participant':_0xdee490};var _0x43dd2f=_0x4667ae[_0xb52c6d(0x266)];const _0x256a0f=_0x4667ae[_0xb52c6d(0x4ff)];var _0x25f72b=new Sticker(_0x256a0f,{'pack':_0x4667ae[_0xb52c6d(0x3e4)],'author':conf[_0xb52c6d(0x31a)],'type':StickerTypes[_0xb52c6d(0x3b2)],'categories':['🤩','🎉'],'id':_0x4667ae[_0xb52c6d(0x2d7)],'quality':0x32,'background':_0x4667ae[_0xb52c6d(0x4c4)]});await _0x25f72b[_0xb52c6d(0x348)](_0x4667ae[_0xb52c6d(0x2f7)]);var _0x5e06a8=await _0x4667ae[_0xb52c6d(0x3f9)](atbrecupererActionJid,_0x1cfa23);if(_0x4667ae[_0xb52c6d(0x2f3)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x3d1)])){const _0x20ce6e=_0x4667ae[_0xb52c6d(0x5c4)][_0xb52c6d(0x42e)]('|');let _0x4d237f=0x123c+0x2395+-0x35d1;while(!![]){switch(_0x20ce6e[_0x4d237f++]){case'0':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x5ad273});continue;case'1':_0x43dd2f+=_0xb52c6d(0x5b9)+_0xb52c6d(0x58f)+_0xdee490[_0xb52c6d(0x42e)]('@')[-0x193*0x7+-0x123*-0x1e+-0x1715]+(_0xb52c6d(0x240)+_0xb52c6d(0x592));continue;case'2':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'sticker':fs[_0xb52c6d(0x4bb)+'nc'](_0x4667ae[_0xb52c6d(0x2f7)])});continue;case'3':(-0x8*0x464+-0x27*0x29+-0x7*-0x5e9,baileys_1[_0xb52c6d(0x26f)])(-0x12df+0x5a*-0x37+-0x1*-0x2955);continue;case'4':try{await _0x229866[_0xb52c6d(0x502)+_0xb52c6d(0x285)+_0xb52c6d(0x40d)](_0x1cfa23,[_0xdee490],_0x4667ae[_0xb52c6d(0x3d1)]);}catch(_0x443408){_0x4667ae[_0xb52c6d(0x30a)](console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x533)]),_0x443408);}continue;case'5':await fs[_0xb52c6d(0x5b2)](_0x4667ae[_0xb52c6d(0x2f7)]);continue;case'6':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x43dd2f,'mentions':[_0xdee490]},{'quoted':_0x53da14});continue;}break;}}else{if(_0x4667ae[_0xb52c6d(0x503)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x510)]))_0x43dd2f+=_0xb52c6d(0x5b9)+_0xb52c6d(0x4b4)+_0xdee490[_0xb52c6d(0x42e)]('@')[0x22d*-0x2+-0x1*0x2429+0x2883*0x1]+(_0xb52c6d(0x22e)+_0xb52c6d(0x2ae)),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x43dd2f,'mentions':[_0xdee490]},{'quoted':_0x53da14}),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x5ad273}),await fs[_0xb52c6d(0x5b2)](_0x4667ae[_0xb52c6d(0x2f7)]);else{if(_0x4667ae[_0xb52c6d(0x468)](_0x5e06a8,_0x4667ae[_0xb52c6d(0x50d)])){const {getWarnCountByJID:_0x35644b,ajouterUtilisateurAvecWarnCount:_0x4f0302}=_0x4667ae[_0xb52c6d(0x295)](require,_0x4667ae[_0xb52c6d(0x19f)]);let _0x38ebf5=await _0x4667ae[_0xb52c6d(0x3f9)](_0x35644b,_0xdee490),_0x19d11b=conf[_0xb52c6d(0x486)];if(_0x4667ae[_0xb52c6d(0x384)](_0x38ebf5,_0x19d11b)){var _0x5313c1=_0xb52c6d(0x356)+_0xb52c6d(0x59e)+_0xb52c6d(0x417)+_0xb52c6d(0x32f)+_0xb52c6d(0x5a6)+_0xb52c6d(0x55e)+_0xb52c6d(0x3ce);await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x5313c1,'mentions':[_0xdee490]},{'quoted':_0x53da14}),await _0x229866[_0xb52c6d(0x502)+_0xb52c6d(0x285)+_0xb52c6d(0x40d)](_0x1cfa23,[_0xdee490],_0x4667ae[_0xb52c6d(0x3d1)]),await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x5ad273});}else{const _0x2adfca=_0x4667ae[_0xb52c6d(0x1a4)][_0xb52c6d(0x42e)]('|');let _0x131766=-0xf*0x35+0x245a+-0x1*0x213f;while(!![]){switch(_0x2adfca[_0x131766++]){case'0':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'delete':_0x5ad273});continue;case'1':await _0x4667ae[_0xb52c6d(0x2c8)](_0x4f0302,_0xdee490);continue;case'2':var _0x27e37c=_0xb52c6d(0x356)+_0xb52c6d(0x46b)+_0xb52c6d(0x36c)+_0xb52c6d(0x2d6)+_0xb52c6d(0x57c)+_0xb52c6d(0x344)+_0x2ace17+'\x20';continue;case'3':await _0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x27e37c,'mentions':[_0xdee490]},{'quoted':_0x53da14});continue;case'4':var _0x2ace17=_0x4667ae[_0xb52c6d(0x2e5)](_0x19d11b,_0x38ebf5);continue;}break;}}}}}}}catch(_0x1c1479){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x239)](_0x4667ae[_0xb52c6d(0x2ff)],_0x1c1479));}if(_0x99872f){const _0x2363b5=evt['cm'][_0xb52c6d(0x5a5)](_0xb125da=>_0xb125da[_0xb52c6d(0x3b0)]===_0x309a84);if(_0x2363b5)try{if(_0x4667ae[_0xb52c6d(0x291)](conf[_0xb52c6d(0x235)][_0xb52c6d(0x3e8)+_0xb52c6d(0x4af)](),_0x4667ae[_0xb52c6d(0x56e)])&&!_0x62d3b2)return;if(!_0x62d3b2&&_0x4667ae[_0xb52c6d(0x1d5)](_0x1cfa23,_0xdee490)&&_0x4667ae[_0xb52c6d(0x5c2)](conf[_0xb52c6d(0x4d6)],_0x4667ae[_0xb52c6d(0x56e)])){_0x4667ae[_0xb52c6d(0x1fb)](_0x166886,_0x4667ae[_0xb52c6d(0x334)]);return;}if(_0x4667ae[_0xb52c6d(0x2fd)](!_0x62d3b2,_0x5aaf1a)){let _0x1f47ce=await _0x4667ae[_0xb52c6d(0x4fc)](isGroupBanned,_0x1cfa23);if(_0x1f47ce)return;}if(_0x4667ae[_0xb52c6d(0x2fd)](!_0x41009f,_0x5aaf1a)){let _0x28c187=await _0x4667ae[_0xb52c6d(0x310)](isGroupOnlyAdmin,_0x1cfa23);if(_0x28c187)return;}if(!_0x62d3b2){let _0x100b13=await _0x4667ae[_0xb52c6d(0x3a6)](isUserBanned,_0xdee490);if(_0x100b13){_0x4667ae[_0xb52c6d(0x433)](_0x166886,_0x4667ae[_0xb52c6d(0x23e)]);return;}}_0x4667ae[_0xb52c6d(0x215)](reagir,_0x1cfa23,_0x229866,_0x53da14,_0x2363b5[_0xb52c6d(0x2c3)]),_0x2363b5[_0xb52c6d(0x365)](_0x1cfa23,_0x229866,_0x230d90);}catch(_0x3c3a21){console[_0xb52c6d(0x4eb)](_0x4667ae[_0xb52c6d(0x4b3)](_0x4667ae[_0xb52c6d(0x51d)],_0x3c3a21)),_0x229866[_0xb52c6d(0x19e)+'e'](_0x1cfa23,{'text':_0x4667ae[_0xb52c6d(0x4a5)](_0x4667ae[_0xb52c6d(0x51d)],_0x3c3a21)},{'quoted':_0x53da14});}}});const {recupevents:_0x504636}=_0x938df1[_0xf58eb1(0x29a)](require,_0x938df1[_0xf58eb1(0x40e)]);_0x229866['ev']['on'](_0x938df1[_0xf58eb1(0x531)],async _0x21d95b=>{const _0x1a8dc6=_0xf58eb1;console[_0x1a8dc6(0x4eb)](_0x21d95b);let _0x42ef1c;try{_0x42ef1c=await _0x229866[_0x1a8dc6(0x257)+_0x1a8dc6(0x34a)](_0x21d95b['id'],_0x4667ae[_0x1a8dc6(0x572)]);}catch{_0x42ef1c=_0x4667ae[_0x1a8dc6(0x41f)];}try{const _0x2bacf0=await _0x229866[_0x1a8dc6(0x450)+_0x1a8dc6(0x575)](_0x21d95b['id']);if(_0x4667ae[_0x1a8dc6(0x1ec)](_0x21d95b[_0x1a8dc6(0x416)],_0x4667ae[_0x1a8dc6(0x406)])&&_0x4667ae[_0x1a8dc6(0x20d)](await _0x4667ae[_0x1a8dc6(0x4b7)](_0x504636,_0x21d95b['id'],_0x4667ae[_0x1a8dc6(0x5ba)]),'on')){let _0x4f02b7=_0x1a8dc6(0x2e4)+'◇\x0a',_0x519e46=_0x21d95b[_0x1a8dc6(0x288)+'ts'];for(let _0x2cf5f7 of _0x519e46){_0x4f02b7+=_0x1a8dc6(0x4bc)+_0x2cf5f7[_0x1a8dc6(0x42e)]('@')[-0x1*-0x1e8e+-0x3c3*0x6+-0x124*0x7]+'\x0a';}_0x4f02b7+=_0x1a8dc6(0x316)+_0x1a8dc6(0x54a)+_0x1a8dc6(0x250)+_0x1a8dc6(0x45f)+_0x1a8dc6(0x223)+_0x1a8dc6(0x58e)+_0x1a8dc6(0x434)+_0x1a8dc6(0x519)+_0x1a8dc6(0x333)+_0x1a8dc6(0x49b)+_0x1a8dc6(0x382)+_0x1a8dc6(0x25c)+_0x1a8dc6(0x402)+_0x1a8dc6(0x41e)+_0x1a8dc6(0x481)+_0x1a8dc6(0x198)+_0x1a8dc6(0x438)+_0x1a8dc6(0x184)+_0x2bacf0[_0x1a8dc6(0x340)]+(_0x1a8dc6(0x393)+_0x1a8dc6(0x590)+_0x1a8dc6(0x335)),_0x229866[_0x1a8dc6(0x19e)+'e'](_0x21d95b['id'],{'image':{'url':_0x42ef1c},'caption':_0x4f02b7,'mentions':_0x519e46});}else{if(_0x4667ae[_0x1a8dc6(0x56f)](_0x21d95b[_0x1a8dc6(0x416)],_0x4667ae[_0x1a8dc6(0x3d1)])&&_0x4667ae[_0x1a8dc6(0x219)](await _0x4667ae[_0x1a8dc6(0x4b7)](_0x504636,_0x21d95b['id'],_0x4667ae[_0x1a8dc6(0x349)]),'on')){let _0x5bc36c=_0x1a8dc6(0x3ac)+_0x1a8dc6(0x51f)+_0x1a8dc6(0x4d7)+_0x1a8dc6(0x2c9)+_0x1a8dc6(0x42b)+_0x1a8dc6(0x18b),_0x1e3026=_0x21d95b[_0x1a8dc6(0x288)+'ts'];for(let _0x115696 of _0x1e3026){_0x5bc36c+='@'+_0x115696[_0x1a8dc6(0x42e)]('@')[-0x98f+-0x7a+0x1*0xa09]+'\x0a';}_0x229866[_0x1a8dc6(0x19e)+'e'](_0x21d95b['id'],{'text':_0x5bc36c,'mentions':_0x1e3026});}else{if(_0x4667ae[_0x1a8dc6(0x1ec)](_0x21d95b[_0x1a8dc6(0x416)],_0x4667ae[_0x1a8dc6(0x395)])&&_0x4667ae[_0x1a8dc6(0x449)](await _0x4667ae[_0x1a8dc6(0x5ad)](_0x504636,_0x21d95b['id'],_0x4667ae[_0x1a8dc6(0x47d)]),'on')){if(_0x4667ae[_0x1a8dc6(0x397)](_0x21d95b[_0x1a8dc6(0x599)],_0x2bacf0[_0x1a8dc6(0x19d)])||_0x4667ae[_0x1a8dc6(0x1ff)](_0x21d95b[_0x1a8dc6(0x599)],_0x4667ae[_0x1a8dc6(0x4cd)](conf[_0x1a8dc6(0x4e1)+'ER'],_0x4667ae[_0x1a8dc6(0x32c)]))||_0x4667ae[_0x1a8dc6(0x2b0)](_0x21d95b[_0x1a8dc6(0x599)],_0x4667ae[_0x1a8dc6(0x2cb)](decodeJid,_0x229866[_0x1a8dc6(0x2bf)]['id']))||_0x4667ae[_0x1a8dc6(0x466)](_0x21d95b[_0x1a8dc6(0x599)],_0x21d95b[_0x1a8dc6(0x288)+'ts'][-0x5*0x6be+-0x740+0x28f6])){console[_0x1a8dc6(0x4eb)](_0x4667ae[_0x1a8dc6(0x371)]);return;};await _0x229866[_0x1a8dc6(0x502)+_0x1a8dc6(0x285)+_0x1a8dc6(0x40d)](_0x21d95b['id'],[_0x21d95b[_0x1a8dc6(0x599)],_0x21d95b[_0x1a8dc6(0x288)+'ts'][-0x1be9+-0xb3*0x19+0x53*0x8c]],_0x4667ae[_0x1a8dc6(0x30c)]),_0x229866[_0x1a8dc6(0x19e)+'e'](_0x21d95b['id'],{'text':'@'+_0x21d95b[_0x1a8dc6(0x599)][_0x1a8dc6(0x42e)]('@')[-0xe35*-0x1+0x7*0x3ed+-0x29b0]+(_0x1a8dc6(0x281)+_0x1a8dc6(0x488)+_0x1a8dc6(0x490)+_0x1a8dc6(0x2bc)+_0x1a8dc6(0x493)+_0x1a8dc6(0x1c5))+_0x21d95b[_0x1a8dc6(0x599)][_0x1a8dc6(0x42e)]('@')[0x6*0x2ab+-0x1*0xfb+-0xf07*0x1]+_0x1a8dc6(0x2ec)+_0x21d95b[_0x1a8dc6(0x288)+'ts'][0x1aa+-0x26f2+0x952*0x4][_0x1a8dc6(0x42e)]('@')[0x691+0xa4c+-0x10dd]+(_0x1a8dc6(0x4c3)+_0x1a8dc6(0x240)+_0x1a8dc6(0x21a)+_0x1a8dc6(0x53f)+_0x1a8dc6(0x509)),'mentions':[_0x21d95b[_0x1a8dc6(0x599)],_0x21d95b[_0x1a8dc6(0x288)+'ts'][-0x291+0x2384+-0x23*0xf1]]});}else{if(_0x4667ae[_0x1a8dc6(0x1e3)](_0x21d95b[_0x1a8dc6(0x416)],_0x4667ae[_0x1a8dc6(0x30c)])&&_0x4667ae[_0x1a8dc6(0x466)](await _0x4667ae[_0x1a8dc6(0x4b7)](_0x504636,_0x21d95b['id'],_0x4667ae[_0x1a8dc6(0x38c)]),'on')){const _0x18b3e3=_0x4667ae[_0x1a8dc6(0x4ab)][_0x1a8dc6(0x42e)]('|');let _0x1c63a5=-0x5db*-0x1+0x4f9+0x9*-0x134;while(!![]){switch(_0x18b3e3[_0x1c63a5++]){case'0':_0x229866[_0x1a8dc6(0x19e)+'e'](_0x21d95b['id'],{'text':'@'+_0x21d95b[_0x1a8dc6(0x599)][_0x1a8dc6(0x42e)]('@')[-0x1f0c+-0x11*0x15b+0x3617]+(_0x1a8dc6(0x281)+_0x1a8dc6(0x488)+_0x1a8dc6(0x3b9)+_0x1a8dc6(0x4bd)+_0x1a8dc6(0x47a))+_0x21d95b[_0x1a8dc6(0x288)+'ts'][0x1*-0x1e7f+0x974+-0x150b*-0x1][_0x1a8dc6(0x42e)]('@')[-0x1f38+0x2be+0xf*0x1e6]+(_0x1a8dc6(0x35c)+_0x1a8dc6(0x3d5)+_0x1a8dc6(0x294)+_0x1a8dc6(0x34f)+_0x1a8dc6(0x1ab)+_0x1a8dc6(0x3f3)+'s.'),'mentions':[_0x21d95b[_0x1a8dc6(0x599)],_0x21d95b[_0x1a8dc6(0x288)+'ts'][0x8f3+0x26e4+-0x2fd7]]});continue;case'1':;continue;case'2':await _0x229866[_0x1a8dc6(0x502)+_0x1a8dc6(0x285)+_0x1a8dc6(0x40d)](_0x21d95b['id'],[_0x21d95b[_0x1a8dc6(0x599)]],_0x4667ae[_0x1a8dc6(0x30c)]);continue;case'3':if(_0x4667ae[_0x1a8dc6(0x580)](_0x21d95b[_0x1a8dc6(0x599)],_0x2bacf0[_0x1a8dc6(0x19d)])||_0x4667ae[_0x1a8dc6(0x2b4)](_0x21d95b[_0x1a8dc6(0x599)],_0x4667ae[_0x1a8dc6(0x31b)](conf[_0x1a8dc6(0x4e1)+'ER'],_0x4667ae[_0x1a8dc6(0x32c)]))||_0x4667ae[_0x1a8dc6(0x401)](_0x21d95b[_0x1a8dc6(0x599)],_0x4667ae[_0x1a8dc6(0x33c)](decodeJid,_0x229866[_0x1a8dc6(0x2bf)]['id']))||_0x4667ae[_0x1a8dc6(0x20d)](_0x21d95b[_0x1a8dc6(0x599)],_0x21d95b[_0x1a8dc6(0x288)+'ts'][-0x1*0x19ef+0x53*0x15+0x1320])){console[_0x1a8dc6(0x4eb)](_0x4667ae[_0x1a8dc6(0x371)]);return;}continue;case'4':await _0x229866[_0x1a8dc6(0x502)+_0x1a8dc6(0x285)+_0x1a8dc6(0x40d)](_0x21d95b['id'],[_0x21d95b[_0x1a8dc6(0x288)+'ts'][0x6e6+-0xfc4*-0x1+-0xb55*0x2]],_0x4667ae[_0x1a8dc6(0x395)]);continue;}break;}}}}}}catch(_0x45eab8){console[_0x1a8dc6(0x59b)](_0x45eab8);}});async function _0xb48e0c(){const _0x4766af=_0xf58eb1,_0xdb51d7={'hRyuX':_0x4667ae[_0x4766af(0x556)],'vnAxk':_0x4667ae[_0x4766af(0x3d8)],'CKNFV':_0x4667ae[_0x4766af(0x54e)]},_0x10ef35=_0x4667ae[_0x4766af(0x33c)](require,_0x4667ae[_0x4766af(0x5a9)]),{getCron:_0x56fba5}=_0x4667ae[_0x4766af(0x3c6)](require,_0x4667ae[_0x4766af(0x553)]);let _0x40024e=await _0x4667ae[_0x4766af(0x5c1)](_0x56fba5);console[_0x4766af(0x4eb)](_0x40024e);if(_0x4667ae[_0x4766af(0x232)](_0x40024e[_0x4766af(0x49c)],-0x210e+-0x4ff*-0x4+0xd12))for(let _0x85d8ba=0x1*0xb5d+-0x1c0b+0x10ae;_0x4667ae[_0x4766af(0x3b7)](_0x85d8ba,_0x40024e[_0x4766af(0x49c)]);_0x85d8ba++){if(_0x4667ae[_0x4766af(0x473)](_0x40024e[_0x85d8ba][_0x4766af(0x2a3)],null)){let _0x331561=_0x40024e[_0x85d8ba][_0x4766af(0x2a3)][_0x4766af(0x42e)](':');console[_0x4766af(0x4eb)](_0x4766af(0x2e2)+_0x4766af(0x589)+_0x4766af(0x4a4)+_0x4766af(0x3bf)+_0x40024e[_0x85d8ba][_0x4766af(0x28a)]+_0x4766af(0x439)+_0x331561[0x235f+0x1*0x1f4d+-0x44*0xfb]+_0x4766af(0x462)+_0x331561[-0x144d+0x1a57+-0x609]),_0x10ef35[_0x4766af(0x353)](_0x331561[-0x5fc+-0x1*-0x19b+-0x231*-0x2]+'\x20'+_0x331561[0x1*0x11e7+0x5*0x765+-0x8*0x6dc]+_0x4766af(0x1a0),async()=>{const _0x5d2bae=_0x4766af;await _0x229866[_0x5d2bae(0x4b9)+_0x5d2bae(0x2f8)](_0x40024e[_0x85d8ba][_0x5d2bae(0x28a)],_0x4667ae[_0x5d2bae(0x3fe)]),_0x229866[_0x5d2bae(0x19e)+'e'](_0x40024e[_0x85d8ba][_0x5d2bae(0x28a)],{'image':{'url':_0x4667ae[_0x5d2bae(0x3d8)]},'caption':_0x4667ae[_0x5d2bae(0x3a8)]});},{'timezone':_0x4667ae[_0x4766af(0x345)]});}if(_0x4667ae[_0x4766af(0x37e)](_0x40024e[_0x85d8ba][_0x4766af(0x487)],null)){let _0x9f468c=_0x40024e[_0x85d8ba][_0x4766af(0x487)][_0x4766af(0x42e)](':');console[_0x4766af(0x4eb)](_0x4766af(0x2e2)+_0x4766af(0x589)+_0x4766af(0x2c7)+_0x4766af(0x229)+_0x9f468c[0x146*0xa+0x20ac*0x1+-0x2d68*0x1]+_0x4766af(0x462)+_0x9f468c[0x7af+0x1*-0xf02+0x754]+'\x20'),_0x10ef35[_0x4766af(0x353)](_0x9f468c[-0xce9+0x191*-0xb+0x1e25]+'\x20'+_0x9f468c[0x1f69+-0x1e81+-0xe8]+_0x4766af(0x1a0),async()=>{const _0x1b8951=_0x4766af;await _0x229866[_0x1b8951(0x4b9)+_0x1b8951(0x2f8)](_0x40024e[_0x85d8ba][_0x1b8951(0x28a)],_0xdb51d7[_0x1b8951(0x1cb)]),_0x229866[_0x1b8951(0x19e)+'e'](_0x40024e[_0x85d8ba][_0x1b8951(0x28a)],{'image':{'url':_0xdb51d7[_0x1b8951(0x574)]},'caption':_0xdb51d7[_0x1b8951(0x501)]});},{'timezone':_0x4667ae[_0x4766af(0x345)]});}}else console[_0x4766af(0x4eb)](_0x4667ae[_0x4766af(0x1d4)]);return;}return _0x229866['ev']['on'](_0x938df1[_0xf58eb1(0x2a4)],async _0x4146dd=>{const _0x28b748=_0xf58eb1,_0x192c3a=_0x426778=>{const _0x51642c=_0x2a7d;for(const _0x5f5038 of _0x426778){store[_0x51642c(0x508)][_0x5f5038['id']]?Object[_0x51642c(0x1da)](store[_0x51642c(0x508)][_0x5f5038['id']],_0x5f5038):store[_0x51642c(0x508)][_0x5f5038['id']]=_0x5f5038;}return;};_0x938df1[_0x28b748(0x440)](_0x192c3a,_0x4146dd);}),_0x229866['ev']['on'](_0x938df1[_0xf58eb1(0x541)],async _0x4c727d=>{const _0xc88035=_0xf58eb1,_0x2539ae={'flRWy':function(_0x19158e,_0x5108b8){const _0x7a3fa8=_0x2a7d;return _0x4667ae[_0x7a3fa8(0x401)](_0x19158e,_0x5108b8);},'KHydo':_0x4667ae[_0xc88035(0x4fe)],'mKLWA':function(_0x33965e,_0x3c7b30){const _0xb8fd91=_0xc88035;return _0x4667ae[_0xb8fd91(0x233)](_0x33965e,_0x3c7b30);},'PqxWH':function(_0x253750,_0x733ff){const _0x5053db=_0xc88035;return _0x4667ae[_0x5053db(0x555)](_0x253750,_0x733ff);},'wzOqR':_0x4667ae[_0xc88035(0x361)],'mENHw':_0x4667ae[_0xc88035(0x477)]},{lastDisconnect:_0x4e0982,connection:_0x41c12a}=_0x4c727d;if(_0x4667ae[_0xc88035(0x58a)](_0x41c12a,_0x4667ae[_0xc88035(0x475)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x5be)]);else{if(_0x4667ae[_0xc88035(0x479)](_0x41c12a,_0x4667ae[_0xc88035(0x4cf)])){console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x4e7)]),console[_0xc88035(0x4eb)]('--'),await(-0x7*0x495+-0x1886+-0x3899*-0x1,baileys_1[_0xc88035(0x26f)])(0x1*-0x2663+0xc1*-0xd+-0x187c*-0x2),console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x34b)]),await(0x12a6+0x13*0x29+-0x15b1,baileys_1[_0xc88035(0x26f)])(-0x1777+0xe*-0x1f7+0x1*0x3425),console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x221)]),console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x2a0)]),console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x192)]),fs[_0xc88035(0x280)+'c'](_0x4667ae[_0xc88035(0x31b)](__dirname,_0x4667ae[_0xc88035(0x2a6)]))[_0xc88035(0x246)](_0x46887a=>{const _0x123c4a=_0xc88035;if(_0x2539ae[_0x123c4a(0x2bb)](path[_0x123c4a(0x226)](_0x46887a)[_0x123c4a(0x2be)+'e'](),_0x2539ae[_0x123c4a(0x48d)])){try{_0x2539ae[_0x123c4a(0x4ae)](require,_0x2539ae[_0x123c4a(0x4c7)](_0x2539ae[_0x123c4a(0x4c7)](__dirname,_0x2539ae[_0x123c4a(0x3ea)]),_0x46887a)),console[_0x123c4a(0x4eb)](_0x2539ae[_0x123c4a(0x4c7)](_0x46887a,_0x2539ae[_0x123c4a(0x4e3)]));}catch(_0x4e6281){console[_0x123c4a(0x4eb)](_0x46887a+(_0x123c4a(0x3fa)+_0x123c4a(0x23b)+_0x123c4a(0x1e8)+_0x123c4a(0x1b0)+_0x123c4a(0x24e)+_0x123c4a(0x344))+_0x4e6281);}(-0x545*-0x3+-0x169b+0x6cc,baileys_1[_0x123c4a(0x26f)])(-0x2*0x7ba+-0x3d2+0x1472);}}),(-0x19b8+0x3*0x47+0x18e3,baileys_1[_0xc88035(0x26f)])(-0x13af+-0x2219+-0x4*-0xe21);var _0x34f149;if(_0x4667ae[_0xc88035(0x53d)](conf[_0xc88035(0x235)][_0xc88035(0x3e8)+_0xc88035(0x4af)](),_0x4667ae[_0xc88035(0x56e)]))_0x34f149=_0x4667ae[_0xc88035(0x217)];else _0x4667ae[_0xc88035(0x4fa)](conf[_0xc88035(0x235)][_0xc88035(0x3e8)+_0xc88035(0x4af)](),'no')?_0x34f149=_0x4667ae[_0xc88035(0x2c0)]:_0x34f149=_0x4667ae[_0xc88035(0x5bf)];console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x4b5)]),await _0x4667ae[_0xc88035(0x594)](_0xb48e0c);if(_0x4667ae[_0xc88035(0x58a)](conf['DP'][_0xc88035(0x2be)+'e'](),_0x4667ae[_0xc88035(0x56e)])){let _0x3101a3=_0xc88035(0x426)+_0xc88035(0x27a)+_0xc88035(0x2a5)+_0xc88035(0x24a)+_0xc88035(0x478)+_0xc88035(0x27c)+_0xc88035(0x2ac)+prefixe+(_0xc88035(0x264)+':')+_0x34f149+_0xc88035(0x548)+temps+(_0xc88035(0x525)+'\x20')+date+(_0xc88035(0x22c)+_0xc88035(0x2de))+evt['cm'][_0xc88035(0x49c)]+(_0xc88035(0x52f)+'\x20')+s[_0xc88035(0x31a)]+_0xc88035(0x4aa)+_0x4667ae[_0xc88035(0x295)](format,_0x4667ae[_0xc88035(0x45e)](os[_0xc88035(0x30b)](),os[_0xc88035(0x571)]()))+'/'+_0x4667ae[_0xc88035(0x423)](format,os[_0xc88035(0x30b)]())+(_0xc88035(0x20b)+_0xc88035(0x585))+os[_0xc88035(0x1cf)]()+(_0xc88035(0x400)+_0xc88035(0x3b8)+_0xc88035(0x1b9)+_0xc88035(0x410)+_0xc88035(0x2b5)+_0xc88035(0x39e)+_0xc88035(0x4ed)+_0xc88035(0x420)+_0xc88035(0x32e));await _0x229866[_0xc88035(0x19e)+'e'](_0x229866[_0xc88035(0x2bf)]['id'],{'text':_0x3101a3});}}else{if(_0x4667ae[_0xc88035(0x3c1)](_0x41c12a,_0x4667ae[_0xc88035(0x341)])){let _0x29ed20=new boom_1[(_0xc88035(0x40b))](_0x4e0982?.[_0xc88035(0x59b)])?.[_0xc88035(0x50e)][_0xc88035(0x193)];if(_0x4667ae[_0xc88035(0x2ea)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)][_0xc88035(0x447)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x3cb)]);else{if(_0x4667ae[_0xc88035(0x44b)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)][_0xc88035(0x1f6)+_0xc88035(0x206)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x298)]),_0x4667ae[_0xc88035(0x51e)](_0x47ba04);else{if(_0x4667ae[_0xc88035(0x238)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)][_0xc88035(0x1f6)+_0xc88035(0x3f6)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x50f)]),_0x4667ae[_0xc88035(0x596)](_0x47ba04);else{if(_0x4667ae[_0xc88035(0x44b)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)]?.[_0xc88035(0x1f6)+_0xc88035(0x2c2)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x3cc)]);else{if(_0x4667ae[_0xc88035(0x4fa)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)][_0xc88035(0x270)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x350)]);else{if(_0x4667ae[_0xc88035(0x2e0)](_0x29ed20,baileys_1[_0xc88035(0x49e)+_0xc88035(0x2af)][_0xc88035(0x31f)+_0xc88035(0x5b3)]))console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x253)]),_0x4667ae[_0xc88035(0x594)](_0x47ba04);else{console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x39a)],_0x29ed20);const {exec:_0xf58bc9}=_0x4667ae[_0xc88035(0x480)](require,_0x4667ae[_0xc88035(0x5a3)]);_0x4667ae[_0xc88035(0x5b0)](_0xf58bc9,_0x4667ae[_0xc88035(0x515)]);}}}}}}console[_0xc88035(0x4eb)](_0x4667ae[_0xc88035(0x2b3)](_0x4667ae[_0xc88035(0x263)],_0x41c12a)),_0x4667ae[_0xc88035(0x39f)](_0x47ba04);}}}}),_0x229866['ev']['on'](_0x938df1[_0xf58eb1(0x1ad)],_0x94906b),_0x229866[_0xf58eb1(0x516)+_0xf58eb1(0x566)+_0xf58eb1(0x296)]=async(_0x3928f1,_0x4c2be6='',_0x48d2cc=!![])=>{const _0x3c00ec=_0xf58eb1;let _0x11d866=_0x3928f1[_0x3c00ec(0x2f0)]?_0x3928f1[_0x3c00ec(0x2f0)]:_0x3928f1,_0x16453b=(_0x3928f1[_0x3c00ec(0x2f0)]||_0x3928f1)[_0x3c00ec(0x222)]||'',_0x2304d2=_0x3928f1[_0x3c00ec(0x52a)]?_0x3928f1[_0x3c00ec(0x52a)][_0x3c00ec(0x31e)](/Message/gi,''):_0x16453b[_0x3c00ec(0x42e)]('/')[-0x1*0x5c9+0xa9b*-0x1+0x1064];const _0x29b8ea=await(-0x1b02+-0x4*0x315+0x2756,baileys_1[_0x3c00ec(0x306)+_0x3c00ec(0x286)+_0x3c00ec(0x47f)])(_0x11d866,_0x2304d2);let _0x400761=Buffer[_0x3c00ec(0x374)]([]);for await(const _0x45093a of _0x29b8ea){_0x400761=Buffer[_0x3c00ec(0x430)]([_0x400761,_0x45093a]);}let _0x38e564=await FileType[_0x3c00ec(0x3c9)](_0x400761),_0xb73099=_0x938df1[_0x3c00ec(0x552)](_0x938df1[_0x3c00ec(0x552)](_0x938df1[_0x3c00ec(0x552)]('./',_0x4c2be6),'.'),_0x38e564[_0x3c00ec(0x388)]);return await fs[_0x3c00ec(0x4d4)+_0x3c00ec(0x4f4)](_0xb73099,_0x400761),_0xb73099;},_0x229866[_0xf58eb1(0x408)+_0xf58eb1(0x1a9)]=async(_0x15731a={})=>{const _0x5660c1=_0xf58eb1,_0x1392d1={'xXRFq':function(_0x1a2fb6,_0x165608){const _0x3e7eff=_0x2a7d;return _0x938df1[_0x3e7eff(0x458)](_0x1a2fb6,_0x165608);},'QrGuG':_0x938df1[_0x5660c1(0x362)],'lqDjw':_0x938df1[_0x5660c1(0x186)],'zknDo':_0x938df1[_0x5660c1(0x363)],'rnjTi':function(_0x1bef52,_0x5537ef){const _0x3538c9=_0x5660c1;return _0x938df1[_0x3538c9(0x204)](_0x1bef52,_0x5537ef);},'epccR':function(_0x441ae5,_0xf8f41b){const _0x8c8240=_0x5660c1;return _0x938df1[_0x8c8240(0x458)](_0x441ae5,_0xf8f41b);},'SeVno':function(_0x381aa6,_0x2a514b){const _0xdd8b38=_0x5660c1;return _0x938df1[_0xdd8b38(0x2ed)](_0x381aa6,_0x2a514b);},'iamZx':_0x938df1[_0x5660c1(0x342)],'VUBxz':function(_0x2f0c2d,_0x25d81d){const _0x5f3c66=_0x5660c1;return _0x938df1[_0x5f3c66(0x2ed)](_0x2f0c2d,_0x25d81d);},'PEnze':function(_0x466270,_0x127a5a){const _0x268b84=_0x5660c1;return _0x938df1[_0x268b84(0x4e6)](_0x466270,_0x127a5a);}};return new Promise((_0x525d57,_0x4980a1)=>{const _0x57f466=_0x5660c1,_0x3626a4={'XbMuX':_0x4667ae[_0x57f466(0x54b)],'sQvsX':function(_0x43b4d2,_0x261886){const _0x1a193b=_0x57f466;return _0x4667ae[_0x1a193b(0x213)](_0x43b4d2,_0x261886);},'eIYco':_0x4667ae[_0x57f466(0x328)]};if(_0x4667ae[_0x57f466(0x28d)](typeof _0x15731a,_0x4667ae[_0x57f466(0x25b)]))_0x4667ae[_0x57f466(0x2cb)](_0x4980a1,new Error(_0x4667ae[_0x57f466(0x38a)]));if(_0x4667ae[_0x57f466(0x3bd)](typeof _0x15731a[_0x57f466(0x4e9)],_0x4667ae[_0x57f466(0x5a7)]))_0x4667ae[_0x57f466(0x1fb)](_0x4980a1,new Error(_0x4667ae[_0x57f466(0x244)]));if(_0x4667ae[_0x57f466(0x3c0)](typeof _0x15731a[_0x57f466(0x461)],_0x4667ae[_0x57f466(0x5a7)]))_0x4667ae[_0x57f466(0x480)](_0x4980a1,new Error(_0x4667ae[_0x57f466(0x53a)]));if(_0x15731a[_0x57f466(0x1c1)]&&_0x4667ae[_0x57f466(0x2d3)](typeof _0x15731a[_0x57f466(0x1c1)],_0x4667ae[_0x57f466(0x20c)]))_0x4667ae[_0x57f466(0x2a8)](_0x4980a1,new Error(_0x4667ae[_0x57f466(0x1c2)]));if(_0x15731a[_0x57f466(0x483)]&&_0x4667ae[_0x57f466(0x497)](typeof _0x15731a[_0x57f466(0x483)],_0x4667ae[_0x57f466(0x309)]))_0x4667ae[_0x57f466(0x55f)](_0x4980a1,new Error(_0x4667ae[_0x57f466(0x40c)]));const _0x2761a2=_0x15731a?.[_0x57f466(0x1c1)]||undefined,_0x258037=_0x15731a?.[_0x57f466(0x483)]||(()=>!![]);let _0x18a72c=undefined,_0x4065a9=_0xfedb69=>{const _0x56ed5b=_0x57f466;let {type:_0x2f75aa,messages:_0x46ffe7}=_0xfedb69;if(_0x1392d1[_0x56ed5b(0x332)](_0x2f75aa,_0x1392d1[_0x56ed5b(0x428)]))for(let _0x410fb3 of _0x46ffe7){const _0x56c9ca=_0x410fb3[_0x56ed5b(0x3b4)][_0x56ed5b(0x320)],_0x4fd450=_0x410fb3[_0x56ed5b(0x3b4)][_0x56ed5b(0x3e3)],_0x3aaa25=_0x4fd450[_0x56ed5b(0x313)](_0x1392d1[_0x56ed5b(0x32d)]),_0x351add=_0x1392d1[_0x56ed5b(0x332)](_0x4fd450,_0x1392d1[_0x56ed5b(0x3ee)]),_0x146d88=_0x56c9ca?_0x229866[_0x56ed5b(0x2bf)]['id'][_0x56ed5b(0x31e)](/:.*@/g,'@'):_0x1392d1[_0x56ed5b(0x27f)](_0x3aaa25,_0x351add)?_0x410fb3[_0x56ed5b(0x3b4)][_0x56ed5b(0x288)+'t'][_0x56ed5b(0x31e)](/:.*@/g,'@'):_0x4fd450;_0x1392d1[_0x56ed5b(0x47c)](_0x146d88,_0x15731a[_0x56ed5b(0x4e9)])&&_0x1392d1[_0x56ed5b(0x332)](_0x4fd450,_0x15731a[_0x56ed5b(0x461)])&&_0x1392d1[_0x56ed5b(0x52e)](_0x258037,_0x410fb3)&&(_0x229866['ev'][_0x56ed5b(0x1e0)](_0x1392d1[_0x56ed5b(0x214)],_0x4065a9),_0x1392d1[_0x56ed5b(0x421)](clearTimeout,_0x18a72c),_0x1392d1[_0x56ed5b(0x21c)](_0x525d57,_0x410fb3));}};_0x229866['ev']['on'](_0x4667ae[_0x57f466(0x54b)],_0x4065a9),_0x2761a2&&(_0x18a72c=_0x4667ae[_0x57f466(0x387)](setTimeout,()=>{const _0x551575=_0x57f466;_0x229866['ev'][_0x551575(0x1e0)](_0x3626a4[_0x551575(0x2d0)],_0x4065a9),_0x3626a4[_0x551575(0x3f2)](_0x4980a1,new Error(_0x3626a4[_0x551575(0x4a2)]));},_0x2761a2));});},_0x229866;}let _0xa9129a=require[_0x5ec6e8(0x26c)](__filename);fs[_0x5ec6e8(0x4e4)](_0xa9129a,()=>{const _0x75129c=_0x5ec6e8;fs[_0x75129c(0x39d)+'e'](_0xa9129a),console[_0x75129c(0x4eb)](_0x75129c(0x484)+'r\x20'+__filename),delete require[_0x75129c(0x457)][_0xa9129a],_0x938df1[_0x75129c(0x28c)](require,_0xa9129a);}),_0x938df1[_0x5ec6e8(0x507)](_0x47ba04);},-0x10*0xa4+-0x63*-0x33+0xa0f);
+"use strict";
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+  var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc);
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const baileys_1 = __importStar(require("@whiskeysockets/baileys"));
+const logger_1 = __importDefault(require("@whiskeysockets/baileys/lib/Utils/logger"));
+const logger = logger_1.default.child({});
+logger.level = 'silent';
+const pino = require("pino");
+const boom_1 = require("@hapi/boom");
+const conf = require("./set");
+const axios = require("axios");
+let fs = require("fs-extra");
+let path = require("path");
+const FileType = require('file-type');
+const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
+//import chalk from 'chalk'
+const { verifierEtatJid , recupererActionJid } = require("./bdd/antilien");
+const { atbverifierEtatJid , atbrecupererActionJid } = require("./bdd/antibot");
+let evt = require(__dirname + "/framework/zokou");
+const {isUserBanned , addUserToBanList , removeUserFromBanList} = require("./bdd/banUser");
+const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd/banGroup");
+const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
+//const //{loadCmd}=require("/framework/mesfonctions")
+let { reagir } = require(__dirname + "/framework/app");
+var session = conf.session.replace(/MASTER;;;=>/g,"");
+const prefixe = conf.PREFIXE;
+
+
+async function authentification() {
+    try {
+       
+        //console.log("le data "+data)
+        if (!fs.existsSync(__dirname + "/auth/creds.json")) {
+            console.log("connexion en cour ...");
+            await fs.writeFileSync(__dirname + "/auth/creds.json", atob(session), "utf8");
+            //console.log(session)
+        }
+        else if (fs.existsSync(__dirname + "/auth/creds.json") && session != "zokk") {
+            await fs.writeFileSync(__dirname + "/auth/creds.json", atob(session), "utf8");
+        }
+    }
+    catch (e) {
+        console.log("Session Invalide " + e);
+        return;
+    }
+}
+authentification();
+const store = (0, baileys_1.makeInMemoryStore)({
+    logger: pino().child({ level: "silent", stream: "store" }),
+});
+setTimeout(() => {
+    async function main() {
+        const { version, isLatest } = await (0, baileys_1.fetchLatestBaileysVersion)();
+        const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)(__dirname + "/auth");
+        const sockOptions = {
+            version,
+            logger: pino({ level: "silent" }),
+            browser: ['Flash-Md', "safari", "1.0.0"],
+            printQRInTerminal: true,
+            fireInitQueries: false,
+            shouldSyncHistoryMessage: true,
+            downloadHistory: true,
+            syncFullHistory: true,
+            generateHighQualityLinkPreview: true,
+            markOnlineOnConnect: false,
+            keepAliveIntervalMs: 30_000,
+            /* auth: state*/ auth: {
+                creds: state.creds,
+                /** caching makes the store faster to send/recv messages */
+                keys: (0, baileys_1.makeCacheableSignalKeyStore)(state.keys, logger),
+            },
+            //////////
+            getMessage: async (key) => {
+                if (store) {
+                    const msg = await store.loadMessage(key.remoteJid, key.id, undefined);
+                    return msg.message || undefined;
+                }
+                return {
+                    conversation: 'An Error Occurred, Repeat Command!'
+                };
+            }
+            ///////
+        };
+        const zk = (0, baileys_1.default)(sockOptions);
+        store.bind(zk.ev);
+        setInterval(() => { store.writeToFile("store.json"); }, 3000);
+        zk.ev.on("messages.upsert", async (m) => {
+            const { messages } = m;
+            const ms = messages[0];
+            if (!ms.message)
+                return;
+            const decodeJid = (jid) => {
+                if (!jid)
+                    return jid;
+                if (/:\d+@/gi.test(jid)) {
+                    let decode = (0, baileys_1.jidDecode)(jid) || {};
+                    return decode.user && decode.server && decode.user + '@' + decode.server || jid;
+                }
+                else
+                    return jid;
+            };
+            var mtype = (0, baileys_1.getContentType)(ms.message);
+            var texte = mtype == "conversation" ? ms.message.conversation : mtype == "imageMessage" ? ms.message.imageMessage?.caption : mtype == "videoMessage" ? ms.message.videoMessage?.caption : mtype == "extendedTextMessage" ? ms.message?.extendedTextMessage?.text : mtype == "buttonsResponseMessage" ?
+                ms?.message?.buttonsResponseMessage?.selectedButtonId : mtype == "listResponseMessage" ?
+                ms.message?.listResponseMessage?.singleSelectReply?.selectedRowId : mtype == "messageContextInfo" ?
+                (ms?.message?.buttonsResponseMessage?.selectedButtonId || ms.message?.listResponseMessage?.singleSelectReply?.selectedRowId || ms.text) : "";
+            var origineMessage = ms.key.remoteJid;
+            var idBot = decodeJid(zk.user.id);
+            var servBot = idBot.split('@')[0];
+            /* const FranceKing='254757835036';
+             const FranceKing1='254751284190';
+             const FranceKing2='254750948696'*/
+            /*  var superUser=[servBot,FranceKing,FranceKing1,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
+              var dev =[FranceKing,FranceKing1,FranceKing2].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
+            const verifGroupe = origineMessage?.endsWith("@g.us");
+            var infosGroupe = verifGroupe ? await zk.groupMetadata(origineMessage) : "";
+            var nomGroupe = verifGroupe ? infosGroupe.subject : "";
+            var msgRepondu = ms.message.extendedTextMessage?.contextInfo?.quotedMessage;
+            var auteurMsgRepondu = decodeJid(ms.message?.extendedTextMessage?.contextInfo?.participant);
+            //ms.message.extendedTextMessage?.contextInfo?.mentionedJid
+            // ms.message.extendedTextMessage?.contextInfo?.quotedMessage.
+            var mr = ms.message?.extendedTextMessage?.contextInfo?.mentionedJid;
+            var utilisateur = mr ? mr : msgRepondu ? auteurMsgRepondu : "";
+            var auteurMessage = verifGroupe ? (ms.key.participant ? ms.key.participant : ms.participant) : origineMessage;
+            if (ms.key.fromMe) {
+                auteurMessage = idBot;
+            }
+            
+            var membreGroupe = verifGroupe ? ms.key.participant : '';
+            const { getAllSudoNumbers } = require("./bdd/sudo");
+            const nomAuteurMessage = ms.pushName;
+            const FranceKing = '254757835036';
+            const FranceKing1 = '254751284190';
+            const FranceKing2 = "254750948696";
+            const FranceKing3 = '254742063632';
+            const sudo = await getAllSudoNumbers();
+            const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
+            const allAllowedNumbers = superUserNumbers.concat(sudo);
+            const superUser = allAllowedNumbers.includes(auteurMessage);
+            
+            var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
+            console.log("\t [][]...{MASTER-MD}...[][]");
+            console.log("=========== New message ===========");
+            if (verifGroupe) {
+                console.log("message from the group : " + nomGroupe);
+            }
+            console.log("message sent By : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
+            console.log("message type : " + mtype);
+            console.log("------ message content ------");
+            console.log(texte);
+            /**  */
+            function groupeAdmin(membreGroupe) {
+                let admin = [];
+                for (m of membreGroupe) {
+                    if (m.admin == null)
+                        continue;
+                    admin.push(m.id);
+                }
+                // else{admin= false;}
+                return admin;
+            }
+
+            var etat =conf.ETAT;
+            if(etat==1)
+            {await zk.sendPresenceUpdate("available",origineMessage);}
+            else if(etat==2)
+            {await zk.sendPresenceUpdate("composing",origineMessage);}
+            else if(etat==3)
+            {
+            await zk.sendPresenceUpdate("recording",origineMessage);
+            }
+            else
+            {
+                await zk.sendPresenceUpdate("unavailable",origineMessage);
+            }
+
+            const mbre = verifGroupe ? await infosGroupe.participants : '';
+            //  const verifAdmin = verifGroupe ? await mbre.filter(v => v.admin !== null).map(v => v.id) : ''
+            let admins = verifGroupe ? groupeAdmin(mbre) : '';
+            const verifAdmin = verifGroupe ? admins.includes(auteurMessage) : false;
+            var verifZokouAdmin = verifGroupe ? admins.includes(idBot) : false;
+            /** ** */
+            /** ***** */
+            const arg = texte ? texte.trim().split(/ +/).slice(1) : null;
+            const verifCom = texte ? texte.startsWith(prefixe) : false;
+            const com = verifCom ? texte.slice(1).trim().split(/ +/).shift().toLowerCase() : false;
+           
+         
+            const lien = conf.URL.split(',')  
+
+            
+            // Utiliser une boucle for...of pour parcourir les liens
+function mybotpic() {
+    // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
+     // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
+     const indiceAleatoire = Math.floor(Math.random() * lien.length);
+     // Récupérer le lien correspondant à l'indice aléatoire
+     const lienAleatoire = lien[indiceAleatoire];
+     return lienAleatoire;
+  }
+            var commandeOptions = {
+                superUser, dev,
+                verifGroupe,
+                mbre,
+                membreGroupe,
+                verifAdmin,
+                infosGroupe,
+                nomGroupe,
+                auteurMessage,
+                nomAuteurMessage,
+                idBot,
+                verifZokouAdmin,
+                prefixe,
+                arg,
+                repondre,
+                mtype,
+                groupeAdmin,
+                msgRepondu,
+                auteurMsgRepondu,
+                ms,
+                mybotpic
+            
+            };
+
+
+            /************************ anti-delete-message */
+
+            if(ms.message.protocolMessage && ms.message.protocolMessage.type === 0 && (conf.ADM).toLocaleLowerCase() === 'yes' ) {
+
+                if(ms.key.fromMe || ms.message.protocolMessage.key.fromMe) { console.log('Message supprimer me concernant') ; return }
+        
+                                console.log(`Message supprimer`)
+                                let key =  ms.message.protocolMessage.key ;
+                                
+        
+                               try {
+        
+                                  let st = './store.json' ;
+        
+                                const data = fs.readFileSync(st, 'utf8');
+        
+                                const jsonData = JSON.parse(data);
+        
+                                    let message = jsonData.messages[key.remoteJid] ;
+                                
+                                    let msg ;
+        
+                                    for (let i = 0 ; i < message.length ; i++) {
+        
+                                        if (message[i].key.id === key.id) {
+                                            
+                                            msg = message[i] ;
+        
+                                            break 
+                                        }
+        
+                                    } 
+        
+                                  //  console.log(msg)
+        
+                                    if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
+        
+                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        😈Anti-delete-message😈\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
+                                .then( () => {
+                                    zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
+                                })
+                               
+                              
+        
+                               } catch (e) {
+                                    console.log(e)
+                               }
+                            }
+        
+            /** ****** gestion auto-status  */
+            if (ms.key && ms.key.remoteJid === "status@broadcast" && conf.AUTO_READ_STATUS === "yes") {
+                await zk.readMessages([ms.key]);
+            }
+            if (ms.key && ms.key.remoteJid === 'status@broadcast' && conf.AUTO_DOWNLOAD_STATUS === "yes") {
+                /* await zk.readMessages([ms.key]);*/
+                if (ms.message.extendedTextMessage) {
+                    var stTxt = ms.message.extendedTextMessage.text;
+                    await zk.sendMessage(idBot, { text: stTxt }, { quoted: ms });
+                }
+                else if (ms.message.imageMessage) {
+                    var stMsg = ms.message.imageMessage.caption;
+                    var stImg = await zk.downloadAndSaveMediaMessage(ms.message.imageMessage);
+                    await zk.sendMessage(idBot, { image: { url: stImg }, caption: stMsg }, { quoted: ms });
+                }
+                else if (ms.message.videoMessage) {
+                    var stMsg = ms.message.videoMessage.caption;
+                    var stVideo = await zk.downloadAndSaveMediaMessage(ms.message.videoMessage);
+                    await zk.sendMessage(idBot, {
+                        video: { url: stVideo }, caption: stMsg
+                    }, { quoted: ms });
+                }
+                /** *************** */
+                // console.log("*nouveau status* ");
+            }
+            /** ******fin auto-status */
+            if (!dev && origineMessage == "120363158701337904@g.us") {
+                return;
+            }
+            
+ //---------------------------------------rang-count--------------------------------
+             if (texte && auteurMessage.endsWith("s.whatsapp.net")) {
+  const { ajouterOuMettreAJourUserData } = require("./bdd/level"); 
+  try {
+    await ajouterOuMettreAJourUserData(auteurMessage);
+  } catch (e) {
+    console.error(e);
+  }
+              }
+            
+                /////////////////////////////   Mentions /////////////////////////////////////////
+         
+              try {
+        
+                if (ms.message[mtype].contextInfo.mentionedJid && (ms.message[mtype].contextInfo.mentionedJid.includes(idBot) ||  ms.message[mtype].contextInfo.mentionedJid.includes(conf.NUMERO_OWNER + '@s.whatsapp.net'))    /*texte.includes(idBot.split('@')[0]) || texte.includes(conf.NUMERO_OWNER)*/) {
+            
+                    if (origineMessage == "120363158701337904@g.us") {
+                        return;
+                    } ;
+            
+                    if(superUser) {console.log('hummm') ; return ;} 
+                    
+                    let mbd = require('./bdd/mention') ;
+            
+                    let alldata = await mbd.recupererToutesLesValeurs() ;
+            
+                        let data = alldata[0] ;
+            
+                    if ( data.status === 'non') { console.log('mention pas actifs') ; return ;}
+            
+                    let msg ;
+            
+                    if (data.type.toLocaleLowerCase() === 'image') {
+            
+                        msg = {
+                                image : { url : data.url},
+                                caption : data.message
+                        }
+                    } else if (data.type.toLocaleLowerCase() === 'video' ) {
+            
+                            msg = {
+                                    video : {   url : data.url},
+                                    caption : data.message
+                            }
+            
+                    } else if (data.type.toLocaleLowerCase() === 'sticker') {
+            
+                        let stickerMess = new Sticker(data.url, {
+                            pack: conf.NOM_OWNER,
+                            type: StickerTypes.FULL,
+                            categories: ["🤩", "🎉"],
+                            id: "12345",
+                            quality: 70,
+                            background: "transparent",
+                          });
+            
+                          const stickerBuffer2 = await stickerMess.toBuffer();
+            
+                          msg = {
+                                sticker : stickerBuffer2 
+                          }
+            
+                    }  else if (data.type.toLocaleLowerCase() === 'audio' ) {
+            
+                            msg = {
+            
+                                audio : { url : data.url } ,
+                                mimetype:'audio/mp4',
+                                 }
+                        
+                    }
+            
+                    zk.sendMessage(origineMessage,msg,{quoted : ms})
+            
+                }
+            } catch (error) {
+                
+            } 
+
+
+     //anti-lien
+     try {
+        const yes = await verifierEtatJid(origineMessage)
+        if (texte.includes('https://') && verifGroupe &&  yes  ) {
+
+         console.log("lien detecté")
+            var verifZokAdmin = verifGroupe ? admins.includes(idBot) : false;
+            
+             if(superUser || verifAdmin || !verifZokAdmin  ) { console.log('je fais rien'); return};
+                        
+                                    const key = {
+                                        remoteJid: origineMessage,
+                                        fromMe: false,
+                                        id: ms.key.id,
+                                        participant: auteurMessage
+                                    };
+                                    var txt = "link detected, \n";
+                                   // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
+                                    const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+                                    var sticker = new Sticker(gifLink, {
+                                        pack: 'Master-Md',
+                                        author: conf.OWNER_NAME,
+                                        type: StickerTypes.FULL,
+                                        categories: ['🤩', '🎉'],
+                                        id: '12345',
+                                        quality: 50,
+                                        background: '#000000'
+                                    });
+                                    await sticker.toFile("st1.webp");
+                                    // var txt = `@${auteurMsgRepondu.split("@")[0]} a été rétiré du groupe..\n`
+                                    var action = await recupererActionJid(origineMessage);
+
+                                      if (action === 'remove') {
+
+                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group.`;
+
+                                    await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
+                                    (0, baileys_1.delay)(800);
+                                    await zk.sendMessage(origineMessage, { text: txt, mentions: [auteurMessage] }, { quoted: ms });
+                                    try {
+                                        await zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove");
+                                    }
+                                    catch (e) {
+                                        console.log("antiien ") + e;
+                                    }
+                                    await zk.sendMessage(origineMessage, { delete: key });
+                                    await fs.unlink("st1.webp"); } 
+                                        
+                                       else if (action === 'delete') {
+                                        txt += `Goodbye \n @${auteurMessage.split("@")[0]} Sending other group links here is prohibited!.`;
+                                        // await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") }, { quoted: ms });
+                                       await zk.sendMessage(origineMessage, { text: txt, mentions: [auteurMessage] }, { quoted: ms });
+                                       await zk.sendMessage(origineMessage, { delete: key });
+                                       await fs.unlink("st1.webp");
+
+                                    } else if(action === 'warn') {
+                                        const {getWarnCountByJID ,ajouterUtilisateurAvecWarnCount} = require('./bdd/warn') ;
+
+                            let warn = await getWarnCountByJID(auteurMessage) ; 
+                            let warnlimit = conf.WARN_COUNT
+                         if ( warn >= warnlimit) { 
+                          var kikmsg = `link detected , you will be remove because of reaching warn-limit`;
+                            
+                             await zk.sendMessage(origineMessage, { text: kikmsg , mentions: [auteurMessage] }, { quoted: ms }) ;
+
+
+                             await zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove");
+                             await zk.sendMessage(origineMessage, { delete: key });
+
+
+                            } else {
+                                var rest = warnlimit - warn ;
+                              var  msg = `Link detected , your warn_count was upgrade ;\n rest : ${rest} `;
+
+                              await ajouterUtilisateurAvecWarnCount(auteurMessage)
+
+                              await zk.sendMessage(origineMessage, { text: msg , mentions: [auteurMessage] }, { quoted: ms }) ;
+                              await zk.sendMessage(origineMessage, { delete: key });
+
+                            }
+                                    }
+                                }
+                                
+                            }
+                        
+                    
+                
+            
+        
+    
+    catch (e) {
+        console.log("bdd err " + e);
+    }
+    
+
+
+    /** *************************anti-bot******************************************** */
+    try {
+        const botMsg = ms.key?.id?.startsWith('BAES') && ms.key?.id?.length === 16;
+        const baileysMsg = ms.key?.id?.startsWith('BAE5') && ms.key?.id?.length === 16;
+        if (botMsg || baileysMsg) {
+
+            if (mtype === 'reactionMessage') { console.log('Je ne reagis pas au reactions') ; return} ;
+            const antibotactiver = await atbverifierEtatJid(origineMessage);
+            if(!antibotactiver) {return};
+
+            if( verifAdmin || auteurMessage === idBot  ) { console.log('je fais rien'); return};
+                        
+            const key = {
+                remoteJid: origineMessage,
+                fromMe: false,
+                id: ms.key.id,
+                participant: auteurMessage
+            };
+            var txt = "bot detected, \n";
+           // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
+            const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
+            var sticker = new Sticker(gifLink, {
+                pack: 'Master-Md',
+                author: conf.OWNER_NAME,
+                type: StickerTypes.FULL,
+                categories: ['🤩', '🎉'],
+                id: '12345',
+                quality: 50,
+                background: '#000000'
+            });
+            await sticker.toFile("st1.webp");
+            // var txt = `@${auteurMsgRepondu.split("@")[0]} a été rétiré du groupe..\n`
+            var action = await atbrecupererActionJid(origineMessage);
+
+              if (action === 'remove') {
+
+                txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group.`;
+
+            await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
+            (0, baileys_1.delay)(800);
+            await zk.sendMessage(origineMessage, { text: txt, mentions: [auteurMessage] }, { quoted: ms });
+            try {
+                await zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove");
+            }
+            catch (e) {
+                console.log("antibot ") + e;
+            }
+            await zk.sendMessage(origineMessage, { delete: key });
+            await fs.unlink("st1.webp"); } 
+                
+               else if (action === 'delete') {
+                txt += `message delete \n @${auteurMessage.split("@")[0]} Avoid sending link.`;
+                //await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") }, { quoted: ms });
+               await zk.sendMessage(origineMessage, { text: txt, mentions: [auteurMessage] }, { quoted: ms });
+               await zk.sendMessage(origineMessage, { delete: key });
+               await fs.unlink("st1.webp");
+
+            } else if(action === 'warn') {
+                const {getWarnCountByJID ,ajouterUtilisateurAvecWarnCount} = require('./bdd/warn') ;
+
+    let warn = await getWarnCountByJID(auteurMessage) ; 
+    let warnlimit = conf.WARN_COUNT
+ if ( warn >= warnlimit) { 
+  var kikmsg = `bot detected ;you will be remove because of reaching warn-limit`;
+    
+     await zk.sendMessage(origineMessage, { text: kikmsg , mentions: [auteurMessage] }, { quoted: ms }) ;
+
+
+     await zk.groupParticipantsUpdate(origineMessage, [auteurMessage], "remove");
+     await zk.sendMessage(origineMessage, { delete: key });
+
+
+    } else {
+        var rest = warnlimit - warn ;
+      var  msg = `bot detected , your warn_count was upgrade ;\n rest : ${rest} `;
+
+      await ajouterUtilisateurAvecWarnCount(auteurMessage)
+
+      await zk.sendMessage(origineMessage, { text: msg , mentions: [auteurMessage] }, { quoted: ms }) ;
+      await zk.sendMessage(origineMessage, { delete: key });
+
+    }
+                }
+        }
+    }
+    catch (er) {
+        console.log('.... ' + er);
+    }        
+             
+         
+            /////////////////////////
+            
+            //execution des commandes   
+            if (verifCom) {
+                //await await zk.readMessages(ms.key);
+                const cd = evt.cm.find((zokou) => zokou.nomCom === (com));
+                if (cd) {
+                    try {
+
+            if ((conf.MODE).toLocaleLowerCase() != 'yes' && !superUser) {
+                return;
+            }
+
+                         /******************* PM_PERMT***************/
+
+            if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
+                repondre("You don't have acces to commands here") ; return }
+            ///////////////////////////////
+
+             
+            /*****************************banGroup  */
+            if (!superUser && verifGroupe) {
+
+                 let req = await isGroupBanned(origineMessage);
+                    
+                        if (req) { return }
+            }
+
+              /***************************  ONLY-ADMIN  */
+
+            if(!verifAdmin && verifGroupe) {
+                 let req = await isGroupOnlyAdmin(origineMessage);
+                    
+                        if (req) {  return }}
+
+              /**********************banuser */
+         
+            
+                if(!superUser) {
+                    let req = await isUserBanned(auteurMessage);
+                    
+                        if (req) {repondre("You are banned from bot commands"); return}
+                    
+
+                } 
+
+                        reagir(origineMessage, zk, ms, cd.reaction);
+                        cd.fonction(origineMessage, zk, commandeOptions);
+                    }
+                    catch (e) {
+                        console.log("😡😡 " + e);
+                        zk.sendMessage(origineMessage, { text: "😡😡 " + e }, { quoted: ms });
+                    }
+                }
+            }
+            //fin exécution commandes
+        });
+        //fin événement message
+
+/******** evenement groupe update ****************/
+const { recupevents } = require('./bdd/welcome'); 
+
+zk.ev.on('group-participants.update', async (group) => {
+    console.log(group);
+
+    let ppgroup;
+    try {
+        ppgroup = await zk.profilePictureUrl(group.id, 'image');
+    } catch {
+        ppgroup = 'https://telegra.ph/file/ebdb1b88647fd8de9551f.jpg';
+    }
+
+    try {
+        const metadata = await zk.groupMetadata(group.id);
+
+        if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
+            let msg = `◇MASTER-MD◇
+`;
+             
+            let membres = group.participants;
+            for (let membre of membres) {
+                msg += `Hello @${membre.split("@")[0]}\n`;
+            }
+
+            msg += `*You are welcomed here.* 
+            
+*You MAY read the group description FOR more info and Avoid getting removed*
+            
+     
+            
+ ◇ *GROUP DESCRIPTION*  ◇
+
+${metadata.desc}
+
+*© 𝐂ʀᴇᴀᴛᴇᴅ 𝐁ʏ 𝐌ʀ 𝐒ᴀʜᴀɴ 𝐎ꜰᴄ*`;
+
+            zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
+        } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
+            let msg = ` *සමුහයෙන් එක් අයෙකු පිට විය... 📌 [POWER BY MASTER MIND]*\n`;
+
+            let membres = group.participants;
+            for (let membre of membres) {
+                msg += `@${membre.split("@")[0]}\n`;
+            }
+
+            zk.sendMessage(group.id, { text: msg, mentions: membres });
+
+        } else if (group.action == 'promote' && (await recupevents(group.id, "antipromote") == 'on') ) {
+            //  console.log(zk.user.id)
+          if (group.author == metadata.owner || group.author  == conf.NUMERO_OWNER + '@s.whatsapp.net' || group.author == decodeJid(zk.user.id)  || group.author == group.participants[0]) { console.log('Cas de superUser je fais rien') ;return ;} ;
+
+
+         await   zk.groupParticipantsUpdate(group.id ,[group.author,group.participants[0]],"demote") ;
+
+         zk.sendMessage(
+              group.id,
+              {
+                text : `@${(group.author).split("@")[0]} has violated the anti-promotion rule, therefore both ${group.author.split("@")[0]} and @${(group.participants[0]).split("@")[0]} have been removed from administrative rights.`,
+                mentions : [group.author,group.participants[0]]
+              }
+         )
+
+        } else if (group.action == 'demote' && (await recupevents(group.id, "antidemote") == 'on') ) {
+
+            if (group.author == metadata.owner || group.author ==  conf.NUMERO_OWNER + '@s.whatsapp.net' || group.author == decodeJid(zk.user.id) || group.author == group.participants[0]) { console.log('Cas de superUser je fais rien') ;return ;} ;
+
+
+           await  zk.groupParticipantsUpdate(group.id ,[group.author],"demote") ;
+           await zk.groupParticipantsUpdate(group.id , [group.participants[0]] , "promote")
+
+           zk.sendMessage(
+                group.id,
+                {
+                  text : `@${(group.author).split("@")[0]} has violated the anti-demotion rule by removing @${(group.participants[0]).split("@")[0]}. Consequently, he has been stripped of administrative rights.` ,
+                  mentions : [group.author,group.participants[0]]
+                }
+           )
+
+     } 
+
+    } catch (e) {
+        console.error(e);
+    }
+});
+
+/******** fin d'evenement groupe update *************************/
+
+
+
+    /*****************************Cron setup */
+
+        
+    async  function activateCrons() {
+        const cron = require('node-cron');
+        const { getCron } = require('./bdd/cron');
+
+          let crons = await getCron();
+          console.log(crons);
+          if (crons.length > 0) {
+        
+            for (let i = 0; i < crons.length; i++) {
+        
+              if (crons[i].mute_at != null) {
+                let set = crons[i].mute_at.split(':');
+
+                console.log(`etablissement d'un automute pour ${crons[i].group_id} a ${set[0]} H ${set[1]}`)
+
+                cron.schedule(`${set[1]} ${set[0]} * * *`, async () => {
+                  await zk.groupSettingUpdate(crons[i].group_id, 'announcement');
+                  zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
+
+                }, {
+                    timezone: "Africa/Nairobi"
+                  });
+              }
+        
+              if (crons[i].unmute_at != null) {
+                let set = crons[i].unmute_at.split(':');
+
+                console.log(`etablissement d'un autounmute pour ${set[0]} H ${set[1]} `)
+        
+                cron.schedule(`${set[1]} ${set[0]} * * *`, async () => {
+
+                  await zk.groupSettingUpdate(crons[i].group_id, 'not_announcement');
+
+                  zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Good morning; It's time to open the group." });
+
+                 
+                },{
+                    timezone: "Africa/Nairobi"
+                  });
+              }
+        
+            }
+          } else {
+            console.log('Les crons n\'ont pas été activés');
+          }
+
+          return
+        }
+
+        
+        //événement contact
+        zk.ev.on("contacts.upsert", async (contacts) => {
+            const insertContact = (newContact) => {
+                for (const contact of newContact) {
+                    if (store.contacts[contact.id]) {
+                        Object.assign(store.contacts[contact.id], contact);
+                    }
+                    else {
+                        store.contacts[contact.id] = contact;
+                    }
+                }
+                return;
+            };
+            insertContact(contacts);
+        });
+        //fin événement contact 
+        //événement connexion
+        zk.ev.on("connection.update", async (con) => {
+            const { lastDisconnect, connection } = con;
+            if (connection === "connecting") {
+                console.log("ℹ️ Connexion en cours...");
+            }
+            else if (connection === 'open') {
+                console.log("✅ connexion reussie! ☺️");
+                console.log("--");
+                await (0, baileys_1.delay)(200);
+                console.log("------");
+                await (0, baileys_1.delay)(300);
+                console.log("------------------/-----");
+                console.log("le bot est en ligne 🕸\n\n");
+                //chargement des commandes 
+                console.log("chargement des commandes ...\n");
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
+                    if (path.extname(fichier).toLowerCase() == (".js")) {
+                        try {
+                            require(__dirname + "/commandes/" + fichier);
+                            console.log(fichier + " installé ✔️");
+                        }
+                        catch (e) {
+                            console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
+                        } /* require(__dirname + "/commandes/" + fichier);
+                         console.log(fichier + " installé ✔️")*/
+                        (0, baileys_1.delay)(300);
+                    }
+                });
+                (0, baileys_1.delay)(700);
+                var md;
+                if ((conf.MODE).toLocaleLowerCase() === "yes") {
+                    md = "public";
+                }
+                else if ((conf.MODE).toLocaleLowerCase() === "no") {
+                    md = "private";
+                }
+                else {
+                    md = "undefined";
+                }
+                console.log("chargement des commandes terminé ✅");
+
+                await activateCrons();
+                
+                if((conf.DP).toLowerCase() === 'yes') {     
+                let cmsg = `
+*MASTER-MD IS CONNECTED ✅*
+
+     
+║❒Creator: *SAHAN*
+║❒Prefix : [ ${prefixe} ]
+║❒Mode :${md}
+║❒Time : ${temps} 
+║❒Date : ${date}
+║❒Total Commands : ${evt.cm.length}︎
+║❒User : ${s.OWNER_NAME}
+║❒Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+║❒Platform : ${os.platform()}
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+║❒ Supported : Hemal veenath
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+     *MASTER-MD*`;
+                await zk.sendMessage(zk.user.id, { text: cmsg });
+                }
+            }
+            else if (connection == "close") {
+                let raisonDeconnexion = new boom_1.Boom(lastDisconnect?.error)?.output.statusCode;
+                if (raisonDeconnexion === baileys_1.DisconnectReason.badSession) {
+                    console.log('Session id érronée veuillez rescanner le qr svp ...');
+                }
+                else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionClosed) {
+                    console.log('!!! connexion fermée, reconnexion en cours ...');
+                    main();
+                }
+                else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
+                    console.log('connexion au serveur perdue 😞 ,,, reconnexion en cours ... ');
+                    main();
+                }
+                else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
+                    console.log('connexion réplacée ,,, une sesssion est déjà ouverte veuillez la fermer svp !!!');
+                }
+                else if (raisonDeconnexion === baileys_1.DisconnectReason.loggedOut) {
+                    console.log('vous êtes déconnecté,,, veuillez rescanner le code qr svp');
+                }
+                else if (raisonDeconnexion === baileys_1.DisconnectReason.restartRequired) {
+                    console.log('redémarrage en cours ▶️');
+                    main();
+                }   else {
+
+                    console.log('redemarrage sur le coup de l\'erreur  ',raisonDeconnexion) ;         
+                    //repondre("* Redémarrage du bot en cour ...*");
+
+                                const {exec}=require("child_process") ;
+
+                                exec("pm2 restart all");            
+                }
+                // sleep(50000)
+                console.log("hum " + connection);
+                main(); //console.log(session)
+            }
+        });
+        //fin événement connexion
+        //événement authentification 
+        zk.ev.on("creds.update", saveCreds);
+        //fin événement authentification 
+        //
+        /** ************* */
+        //fonctions utiles
+        zk.downloadAndSaveMediaMessage = async (message, filename = '', attachExtension = true) => {
+            let quoted = message.msg ? message.msg : message;
+            let mime = (message.msg || message).mimetype || '';
+            let messageType = message.mtype ? message.mtype.replace(/Message/gi, '') : mime.split('/')[0];
+            const stream = await (0, baileys_1.downloadContentFromMessage)(quoted, messageType);
+            let buffer = Buffer.from([]);
+            for await (const chunk of stream) {
+                buffer = Buffer.concat([buffer, chunk]);
+            }
+            let type = await FileType.fromBuffer(buffer);
+            let trueFileName = './' + filename + '.' + type.ext;
+            // save to file
+            await fs.writeFileSync(trueFileName, buffer);
+            return trueFileName;
+        };
+
+
+        zk.awaitForMessage = async (options = {}) =>{
+            return new Promise((resolve, reject) => {
+                if (typeof options !== 'object') reject(new Error('Options must be an object'));
+                if (typeof options.sender !== 'string') reject(new Error('Sender must be a string'));
+                if (typeof options.chatJid !== 'string') reject(new Error('ChatJid must be a string'));
+                if (options.timeout && typeof options.timeout !== 'number') reject(new Error('Timeout must be a number'));
+                if (options.filter && typeof options.filter !== 'function') reject(new Error('Filter must be a function'));
+        
+                const timeout = options?.timeout || undefined;
+                const filter = options?.filter || (() => true);
+                let interval = undefined
+        
+                /**
+                 * 
+                 * @param {{messages: Baileys.proto.IWebMessageInfo[], type: Baileys.MessageUpsertType}} data 
+                 */
+                let listener = (data) => {
+                    let { type, messages } = data;
+                    if (type == "notify") {
+                        for (let message of messages) {
+                            const fromMe = message.key.fromMe;
+                            const chatId = message.key.remoteJid;
+                            const isGroup = chatId.endsWith('@g.us');
+                            const isStatus = chatId == 'status@broadcast';
+        
+                            const sender = fromMe ? zk.user.id.replace(/:.*@/g, '@') : (isGroup || isStatus) ? message.key.participant.replace(/:.*@/g, '@') : chatId;
+                            if (sender == options.sender && chatId == options.chatJid && filter(message)) {
+                                zk.ev.off('messages.upsert', listener);
+                                clearTimeout(interval);
+                                resolve(message);
+                            }
+                        }
+                    }
+                }
+                zk.ev.on('messages.upsert', listener);
+                if (timeout) {
+                    interval = setTimeout(() => {
+                        zk.ev.off('messages.upsert', listener);
+                        reject(new Error('Timeout'));
+                    }, timeout);
+                }
+            });
+        }
+
+
+
+        // fin fonctions utiles
+        /** ************* */
+        return zk;
+    }
+    let fichier = require.resolve(__filename);
+    fs.watchFile(fichier, () => {
+        fs.unwatchFile(fichier);
+        console.log(`mise à jour ${__filename}`);
+        delete require.cache[fichier];
+        require(fichier);
+    });
+    main();
+}, 5000);
