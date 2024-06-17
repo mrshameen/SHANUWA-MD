@@ -1,20 +1,4 @@
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                    //
-//                                             W H A T S A P P _ U S E R _ BOT                                        //
-//                                                                                                                    //
-//                                                     V E R S I O N：１.0                                             //
-//                                                                                                                    //
-//            ███╗░░░███╗░░█████╗░░███████╗░█████████░░███████╗░████████╗░░░░░░░░░░░░███╗░░░███╗░░██████╗░░░░░        //   
-//            ████╗░████║░██╔══██╗░██╔════╝░╚══██║═══╝░██║════╝░██╔═══██╗░░░░░░░░░░░░████╗ ████║░░██╔══██╗░░░░        //
-//            ██╔████╔██║░███████║░███████╗░░░░██║░░░░░███████║░███████╔╝░░███████░░░██╔████╔██║░░██║░░██║░░░░        // 
-//            ██║░██║╚██║░██╔══██║░╚════██║░░░░██║░░░░░██║════╝░██╔═══██╗░░╚══════╝░░██║░██░░██║░░██║░░██║░░░░        //
-//            ██║░╚═╝░██║░██║░░██║░███████║░░░░██║░░░░░███████║░██║░░░░██░░░░░░░░░░░░██║░╚═╝░██║░░██████╔╝░░░░        //
-//            ╚═╝░░░░░╚═╝░╚═╝░░╚═╝░╚══════╝░░░░╚═╝░░░░░╚══════╝░╚═╝░░░░╚═╝░░░░░░░░░░░╚═╝░░░░░╚═╝░░╚═════╝░░░░░        //
-//                                                                                                                    //
-//                                 C R E A T E D _ B Y _ M R _ S A H A N _ O F C _ S L _ R G                          //  
-//                                                                                                                    //
-//                                                                                                                    //
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
+
 const { zokou } = require("../framework/zokou");
 const { getytlink, ytdwn } = require("../framework/ytdl-core");
 const yts = require("yt-search");
@@ -38,7 +22,7 @@ zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, 
     for (let i = 0; i < 10; i++) {
       captions += `----------------\nTitle: ${resultat[i].title}\nTime : ${resultat[i].timestamp}\nUrl: ${resultat[i].url}\n`;
     }
-    captions += "\n======\n*Created by MASTER-MD*";
+    captions += "\n======\n*Created by SHANUWA-MD*";
 
     // repondre(captions)
     zk.sendMessage(dest, { image: { url: resultat[0].thumbnail }, caption: captions }, { quoted: ms });
@@ -94,7 +78,7 @@ _*En cours de téléchargement...*_\n\n`
 
     fileStream.on('finish', () => {
       // Envoi du fichier vidéo en utilisant l'URL du fichier local
-      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *Sahan-MD*", gifPlayback: false }, { quoted: ms });
+      zk.sendMessage(origineMessage, { video: { url: `./${filename}` }, caption: "Powered by *Shanuwa-MD*", gifPlayback: false }, { quoted: ms });
 
     });
 
