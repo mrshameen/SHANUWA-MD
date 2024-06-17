@@ -31,7 +31,7 @@ SHANUWA-MD whatsapp bot is,
 **`𝑺𝑯𝑨𝑵𝑼𝑾𝑨 𝑴𝑫 𝑩𝑶𝑻`**
 
 ##  PAIRING CODE SCAN
-<a href ="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href ="https://master-session-v1-and-v2-3d9c0dcfa05b.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 ## QR CODE SCAN
