@@ -1,20 +1,4 @@
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                    //
-//                                             W H A T S A P P _ U S E R _ BOT                                        //
-//                                                                                                                    //
-//                                                     V E R S I O N：１.0                                             //
-//                                                                                                                    //
-//            ███╗░░░███╗░░█████╗░░███████╗░█████████░░███████╗░████████╗░░░░░░░░░░░░███╗░░░███╗░░██████╗░░░░░        //   
-//            ████╗░████║░██╔══██╗░██╔════╝░╚══██║═══╝░██║════╝░██╔═══██╗░░░░░░░░░░░░████╗ ████║░░██╔══██╗░░░░        //
-//            ██╔████╔██║░███████║░███████╗░░░░██║░░░░░███████║░███████╔╝░░███████░░░██╔████╔██║░░██║░░██║░░░░        // 
-//            ██║░██║╚██║░██╔══██║░╚════██║░░░░██║░░░░░██║════╝░██╔═══██╗░░╚══════╝░░██║░██░░██║░░██║░░██║░░░░        //
-//            ██║░╚═╝░██║░██║░░██║░███████║░░░░██║░░░░░███████║░██║░░░░██░░░░░░░░░░░░██║░╚═╝░██║░░██████╔╝░░░░        //
-//            ╚═╝░░░░░╚═╝░╚═╝░░╚═╝░╚══════╝░░░░╚═╝░░░░░╚══════╝░╚═╝░░░░╚═╝░░░░░░░░░░░╚═╝░░░░░╚═╝░░╚═════╝░░░░░        //
-//                                                                                                                    //
-//                                 C R E A T E D _ B Y _ M R _ S A H A N _ O F C _ S L _ R G                          //  
-//                                                                                                                    //
-//                                                                                                                    //
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
+
 const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { default: axios } = require('axios');
@@ -28,9 +12,9 @@ zokou({
     },
     async(Void, citel) => {
         var inital = new Date().getTime();
-        const { key } = await Void.sendMessage(citel.chat, {text: '```PING MASTER MD```'});
+        const { key } = await Void.sendMessage(citel.chat, {text: '```PING SHANUWA MD```'});
         var final = new Date().getTime();
        // await Secktor.sleep(1000)
-       return await Void.sendMessage(citel.chat, {text: '_MASTER-MD PONG_\n *' + (final - inital) + ' ms* ', edit: key});
+       return await Void.sendMessage(citel.chat, {text: '_SHANUWA-MD PONG_\n *' + (final - inital) + ' ms* ', edit: key});
     }
 );
