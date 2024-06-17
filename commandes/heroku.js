@@ -1,20 +1,4 @@
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                                                    //
-//                                             W H A T S A P P _ U S E R _ BOT                                        //
-//                                                                                                                    //
-//                                                     V E R S I O N：１.0                                             //
-//                                                                                                                    //
-//            ███╗░░░███╗░░█████╗░░███████╗░█████████░░███████╗░████████╗░░░░░░░░░░░░███╗░░░███╗░░██████╗░░░░░        //   
-//            ████╗░████║░██╔══██╗░██╔════╝░╚══██║═══╝░██║════╝░██╔═══██╗░░░░░░░░░░░░████╗ ████║░░██╔══██╗░░░░        //
-//            ██╔████╔██║░███████║░███████╗░░░░██║░░░░░███████║░███████╔╝░░███████░░░██╔████╔██║░░██║░░██║░░░░        // 
-//            ██║░██║╚██║░██╔══██║░╚════██║░░░░██║░░░░░██║════╝░██╔═══██╗░░╚══════╝░░██║░██░░██║░░██║░░██║░░░░        //
-//            ██║░╚═╝░██║░██║░░██║░███████║░░░░██║░░░░░███████║░██║░░░░██░░░░░░░░░░░░██║░╚═╝░██║░░██████╔╝░░░░        //
-//            ╚═╝░░░░░╚═╝░╚═╝░░╚═╝░╚══════╝░░░░╚═╝░░░░░╚══════╝░╚═╝░░░░╚═╝░░░░░░░░░░░╚═╝░░░░░╚═╝░░╚═════╝░░░░░        //
-//                                                                                                                    //
-//                                 C R E A T E D _ B Y _ M R _ S A H A N _ O F C _ S L _ R G                          //  
-//                                                                                                                    //
-//                                                                                                                    //
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
+
 const { zokou } = require('../framework/zokou');
 const s = require('../set')
 
@@ -28,7 +12,7 @@ zokou(
        const {ms,repondre,superUser , arg} = commandeOptions ;
        
        if(!superUser){repondre('only Mods can use this commande');return};
-       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME=MASTER MIND');return};
+       if(!arg[0] || !(arg.join('').split('='))) {repondre('Bad format ; Exemple of using :\nSetvar OWNER_NAME=SHANUWA MIND');return};
      
     const text = arg.join(" ")
      const Heroku = require("heroku-client");
@@ -43,7 +27,7 @@ zokou(
                   [text.split('=')[0]]: text.split('=')[1],
           },
         });
-        await repondre('*That Heroku var is changing,THE MASTER-MD IS REBOOTING....*')
+        await repondre('*That Heroku var is changing,THE SHANUWA-MD IS REBOOTING....*')
     }
 );
 
