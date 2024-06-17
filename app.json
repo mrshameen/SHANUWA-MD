@@ -1,9 +1,9 @@
 {
-  "name":"MASTER-MD",
+  "name":"SHANUWA-MD",
   "description":"An easy and simple WhatsApp bot developed by Sahan Maduwantha",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
-  "repository":"https://github.com/MrMasterOfc/MASTER-MD/",
+  "logo":"https://telegra.ph/file/4d65e21eef13fc469d2ca.jpg",
+  "repository":"https://github.com/mrshameen/SHANUWA-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MASTER-MD",
+      "value":"SHANUWA-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/74b612f51b7a5750191af.jpg",
+      "value":"https://telegra.ph/file/dddcc6c76f2b07627d327.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "📌 Dont change (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "MASTER_MIND"
+    "value": "SHANUWA_MIND"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "📌 Dont change (වෙනස් කරන්න එපා)",
     "required":false,
-    "value": "94720797915"
+    "value": "94724389699"
   },
     "WARN_COUNT":
   {
