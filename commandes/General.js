@@ -4,7 +4,7 @@ const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
 zokou({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
-    const { ms , Mybotpic } = commandeOptions;
+    const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
 
