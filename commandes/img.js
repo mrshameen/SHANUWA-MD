@@ -1,5 +1,5 @@
 
-const {Zokou} = require('../framework/zokou');
+const {zokou} = require('../framework/zokou');
 var gis = require('g-i-s');
 
 
