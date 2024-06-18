@@ -3,7 +3,7 @@ const fs = require('fs');
 const getFBInfo = require("@xaviabot/fb-downloader");
 const { default: axios } = require('axios');
 
-zokou({nomCom : "insta" , categorie : "Download"},async (dest , zk , commandeOptions)=>{
+Zokou({nomCom : "insta" , categorie : "Download"},async (dest , zk , commandeOptions)=>{
   const {ms,repondre,arg} = commandeOptions ;
 
   let link = arg.join(' ')
