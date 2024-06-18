@@ -1,5 +1,5 @@
 
-import fetch from "Node-fetch";
+import fetch from "node-fetch";
 
 import ytdl from 'youtubedl-core';
 
