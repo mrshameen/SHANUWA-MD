@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/MASTER;;;=>/g,"");
+var session = conf.session.replace(/SHANUWA;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{MASTER-MD}...[][]");
+            console.log("\t [][]...{SHANUWA-MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Master-Md',
+                                        pack: 'Shanuwa-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Master-Md',
+                pack: 'Shanuwa-Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -670,7 +670,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `◇MASTER-MD◇
+            let msg = `◇SHANUWA-MD◇
 `;
              
             let membres = group.participants;
@@ -692,7 +692,7 @@ ${metadata.desc}
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = ` *සමුහයෙන් එක් අයෙකු පිට විය... 📌 [POWER BY MASTER MIND]*\n`;
+            let msg = ` *සමුහයෙන් එක් අයෙකු පිට විය... 📌 [POWER BY SHANUWA MIND]*\n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -858,10 +858,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*MASTER-MD IS CONNECTED ✅*
+*SHANUWA-MD IS CONNECTED ✅*
 
      
-║❒Creator: *SAHAN*
+║❒Creator: *Shanuwa*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Time : ${temps} 
@@ -871,10 +871,10 @@ ${metadata.desc}
 ║❒Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║❒Platform : ${os.platform()}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-║❒ Supported : Hemal veenath
+║❒ Supported : Mastar Mind
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-     *MASTER-MD*`;
+     *SHANUWA-MD*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
