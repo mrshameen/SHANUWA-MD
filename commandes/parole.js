@@ -1,5 +1,5 @@
 
-const {zokou} =require("../framework/zokou");
+const {Zokou} =require("../framework/zokou");
 const axios =require("axios");
 
 
