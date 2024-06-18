@@ -1,4 +1,4 @@
-"use strict";
+"use Strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.reaction = exports.recept_message = exports.getBuffer = exports.zJson = exports.apiWaifu = exports.format = exports.fruit = exports.tabCmd = exports.police = exports.styletext = exports.xlab = exports.ajouterCommande = void 0;
 const axios = require('axios');
