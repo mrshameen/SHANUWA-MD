@@ -1,5 +1,5 @@
  // Credits to Neeraj-X0
-const Unicode = require("./unicode");
+const unicode = require("./unicode");
 var style = unicode;
 style.tools.creepify.options.maxHeight = 10;
 
