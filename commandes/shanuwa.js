@@ -1,1 +1,1 @@
-├✤ SHANUWA-Md ✤┤
+├✤ SHANUWA-MD ✤┤
