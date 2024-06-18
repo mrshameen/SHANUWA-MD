@@ -1,5 +1,5 @@
 // Importez dotenv et chargez les variables d'environnement depuis le fichier .env
-require("dotenv").config();
+require("Dotenv").config();
 
 const { Pool } = require("pg");
 
