@@ -1,5 +1,5 @@
 
-const { bot, getGPTResponse, getDallEResponse } = require('../lib')
+const { Bot, getGPTResponse, getDallEResponse } = require('../lib')
 
 bot(
   {
