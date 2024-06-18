@@ -6,7 +6,7 @@ const { exec } = require("child_process");
 
 const filename = `${Math.random().toString(36)}`;
 
-zokou (
+Zokou (
     {
         nomCom : 'deep',
         categorie : 'Audio-Edit',
