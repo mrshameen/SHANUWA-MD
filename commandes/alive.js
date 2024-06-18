@@ -3,7 +3,7 @@ const {addOrUpdateDataInAlive , getDataFromAlive} = require('../bdd/alive')
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou(
+Zokou(
     {
         nomCom : 'alive',
         categorie : 'General'
