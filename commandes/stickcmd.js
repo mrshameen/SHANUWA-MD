@@ -1,5 +1,5 @@
 
-const {Zokou }= require ('../framework/zokou') ;
+const {zokou }= require ('../framework/zokou') ;
 const {addstickcmd, deleteCmd, getCmdById, inStickCmd , getAllStickCmds} = require('../bdd/stickcmd') ;
 
 
