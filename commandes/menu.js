@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
 │🍄 *𝐌ᴏᴅᴇ* : *${mode}*
 │🍄 *𝐂ᴏᴍᴍᴀɴᴅꜱ* : *${cm.length}*
 │🍄 *𝐃ᴀᴛᴇ* : *${date}*
-│🍄*𝐓ɪᴍᴇ* : *${temps}* 
+│🍄 *𝐓ɪᴍᴇ* : *${temps}* 
 │🍄 *𝐑ᴀᴍ* : *${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}*
 │🍄 *𝐏ʟᴀᴛꜰᴏʀᴍ* : *${os.platform()}*
 │🍄 *𝐃ᴇᴠᴇʟᴏᴘᴇʀ* : *Shanuwa*
