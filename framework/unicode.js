@@ -1,4 +1,4 @@
-module.Exports = new StyleText();
+module.exports = new StyleText();
 function StyleText() {
   this.tools = {
     flip: {
