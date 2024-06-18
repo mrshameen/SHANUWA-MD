@@ -1,5 +1,5 @@
 
-const googleTTS = Require('google-tts-api');
+const googleTTS = require('google-tts-api');
 const {zokou} = require("../framework/zokou");
 
 
