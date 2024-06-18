@@ -33,17 +33,17 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╒═══💀SHANUWA-MD💀═══════⫸
-│🥷🏻 *𝐏ʀᴇꜰɪx* : *${s.PREFIXE}*
-│🥷🏻 *𝐔ꜱᴇʀ* : *${s.OWNER_NAME}*
-│🥷🏻 *𝐌ᴏᴅᴇ* : *${mode}*
-│🥷🏻 *𝐂ᴏᴍᴍᴀɴᴅꜱ* : *${cm.length}*
-│🥷🏻 *𝐃ᴀᴛᴇ* : *${date}*
-│🥷🏻 *𝐓ɪᴍᴇ* : *${temps}* 
-│🥷🏻 *𝐑ᴀᴍ* : *${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}*
-│🥷🏻 *𝐏ʟᴀᴛꜰᴏʀᴍ* : *${os.platform()}*
-│🥷🏻 *𝐃ᴇᴠᴇʟᴏᴘᴇʀ* : *Shanuwa*
-│🥷🏻 *𝐕ᴇʀꜱɪᴏɴ* : *V1.0*
-│🥷🏻 *𝐆ɪᴛʜᴜʙ* : *mrshameen*
+│🔥 *𝐏ʀᴇꜰɪx* : *${s.PREFIXE}*
+│🔥 *𝐔ꜱᴇʀ* : *${s.OWNER_NAME}*
+│🔥 *𝐌ᴏᴅᴇ* : *${mode}*
+│🔥 *𝐂ᴏᴍᴍᴀɴᴅꜱ* : *${cm.length}*
+│🔥 *𝐃ᴀᴛᴇ* : *${date}*
+│🔥 *𝐓ɪᴍᴇ* : *${temps}* 
+│🔥 *𝐑ᴀᴍ* : *${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}*
+│🔥 *𝐏ʟᴀᴛꜰᴏʀᴍ* : *${os.platform()}*
+│🔥 *𝐃ᴇᴠᴇʟᴏᴘᴇʀ* : *Shanuwa*
+│🔥 *𝐕ᴇʀꜱɪᴏɴ* : *V1.0*
+│🔥 *𝐆ɪᴛʜᴜʙ* : *mrshameen*
 ╘═══💀SHANUWA-MD💀═══⫸`;
 
   let menuMsg=`  
