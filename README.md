@@ -1,64 +1,67 @@
+MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
 
-## <p align="center"> SHANUWA-MD WHATSAPP BOT
+<div align="center">
+    ✨<b>MASTER-MD USER BOT</b>✨</b> 
+
+
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MASTER+MD" alt="Typing SVG" /></a>   
+</p> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center">
+<a href="https://github.com/MrMasterOfc">
+    <img src="https://telegra.ph/file/74b612f51b7a5750191af.jpg" width="900px">
+  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+MASTER-MD WHATSAPP USER BOT
+
+      MASTER-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+      
+MASTER-MD DEPLOY TEMPLATE
+
+        https://heroku.com/deploy?template=
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+
+  <a aria-label="WhatsApp Supported Channel" href="https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M" target="_blank">
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <p align="center">
+<a href="https://github.com/MrMasterOfc/MASTER-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://master-session-v1-and-v2-3d9c0dcfa05b.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION-black" alt="GET SESSION" width="250"></a>
+
 <br>
 
-<p <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SHANUWA+MD" alt="Typing SVG" /></a>
-</p>
+<a href="https://heroku.com/deploy?template=https://github.com/MrMasterOfc/MASTER-MD"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://mr-sahan-ofc.vercel.app/"><img src="https://img.shields.io/badge/MY-SITE-black" alt="MY SITE" width="100"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://telegra.ph/file/dddcc6c76f2b07627d327.jpg" width="900px"/>
-</p>         
+### Contact My Main Owner
+ <p align="center">
+
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94720797915?text=Hey_Sahan_🔥" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-⚔ 𝙎𝙃𝘼𝙉𝙐𝙒𝘼 𝙈𝘿⚔
+<h2 align="center"> 
+My First WhatsApp User Bot Project</h2>
 
-SHANUWA-MD whatsapp bot is,
+`Thanks To,`
 
-      SHANUWA-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  SHANUWA-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
-
-      
-### Setup
-
-**📌DEPLOY ON HEROKU**
-   - ***Click [`FORK`](https://github.com/mrshameen/SHANUWA-MD/fork) and `Star ⭐ Repository` for Courage.***
-   - You will get a session ID in WhatsApp, copy the ID only.
-   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
-</p>
-
-**`𝑺𝑯𝑨𝑵𝑼𝑾𝑨 𝑴𝑫 𝑩𝑶𝑻`**
-
-##  PAIRING CODE SCAN
-<a href ="https://master-session-v1-and-v2-3d9c0dcfa05b.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
-
-
-## QR CODE SCAN
-
-<a href="https://qr-dexter-md-b3cdc18409e4.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
-## DEPLOY IN HEROKU
-
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mrshameen/SHANUWA-MD/)
-
-   </details>
-</P>
-
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurnageethanjana%2FCLEOPATRA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-![forks](https://img.shields.io/github/forks/mrshameen/SHANUWA-MD?label=Forks&style=social)
-
-
-
-## Contributions
-
-Contributions to Cleopatra-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-The SHANUWA-MD is released.
-
-Enjoy the diverse features of the SHANUWA-MD  to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developer:
-- [**WhatsApp**](https://wa.me/94724389699)
+1: [`Me_😂🧛‍♂️`](https://wa.me/+94720797915)
