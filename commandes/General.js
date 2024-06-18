@@ -58,9 +58,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "👨‍💻" }, as
     const devs = [
       { nom: " *✔️.Creater :Shanuwa* ", numero: "94724389699" },
       { nom: " *✔️.Co Leader : Hemal Veenath* ", numero: "94719552053" },
-        { nom: " *✔️.Bug Test : Kanishka de Silva* ", numero: "94722477361" },
-        { nom: " *✔️.Test : Cyber Buddy* ", numero: "94728103228" },
-         { nom: " *✔️.Designer : Ishan* ", numero: "94774721911" },
+        { nom: " *✔️. Ideas : Sahan Maduwantha* ", numero: "94720797915" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -107,6 +105,13 @@ zokou({ nomCom: "shanuwa", categorie: "Developer" }, async (dest, zk, commandeOp
  
   repondre("💀 *SHANUWA-MD BOT CREATED BY SHANUWA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALLE💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *..👨‍💻* ")
   await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94724389699?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+
+});   
+zokou({ nomCom: "sahan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, auteurMessage, } = commandeOptions; 
+ 
+  repondre("💀 *SHANUWA-MD BOT* 💀 \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALEWELA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 18 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *..👨‍💻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Ideas Link https://wa.me/94720797915?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });   
 zokou({ nomCom: "ping" }, async (dest, zk, commandeOptions) => {
