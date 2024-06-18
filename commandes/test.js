@@ -1,5 +1,5 @@
 
-"use Strict";
+"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "repo", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
