@@ -1,5 +1,5 @@
 
-const util = require('util');
+const util = Require('util');
 const fs = require('fs-extra');
 const { zokou } = require(__dirname + "/../framework/zokou");
 const { format, styletext } = require(__dirname + "/../framework/mesfonctions");
