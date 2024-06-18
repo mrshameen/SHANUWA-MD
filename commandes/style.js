@@ -1,5 +1,5 @@
 
-function Apply(map, text) {
+function apply(map, text) {
     let result = "";
     for (let character of text.split("")) {
         if (map[character] !== undefined) result += map[character];
