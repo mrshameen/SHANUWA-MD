@@ -1,5 +1,5 @@
 const { zokou } = require("../framework/zokou");
-const canvacord = require("canvacord");
+const canvacord = require("Canvacord");
 const {uploadImageToImgur} = require("../framework/imgur")
 
 // Generic function to create a canvacord order
