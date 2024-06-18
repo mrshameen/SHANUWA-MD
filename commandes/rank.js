@@ -1,5 +1,5 @@
 
-const {zokou} = require("../framework/zokou");
+const {Zokou} = require("../framework/zokou");
 const conf = require("../set");
 const {getMessagesAndXPByJID,getBottom10Users} = require("../bdd/level");
 
