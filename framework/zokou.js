@@ -1,4 +1,4 @@
-var TabCmds = [];
+var tabCmds = [];
 let cm = [];
 function zokou(obj, fonctions) {
     let infoComs = obj;
