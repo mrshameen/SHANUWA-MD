@@ -1,7 +1,7 @@
 
 const {
 
-	function,
+	Function,
 
 	truecaller,
 
