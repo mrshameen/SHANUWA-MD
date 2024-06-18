@@ -5,7 +5,7 @@ const yts = require("yt-search");
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 
-zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
+Zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const query = arg.join(" ");
 
