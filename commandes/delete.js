@@ -1,5 +1,5 @@
 
-const { Bot, setVar, parsedJid, isGroup } = require('../lib/index')
+const { bot, setVar, parsedJid, isGroup } = require('../lib/index')
 
 bot(
 	{
