@@ -1,4 +1,4 @@
-const translatte = require('translatte');
+const Translatte = require('translatte');
 
 async function traduire(text, options) {
   try {
