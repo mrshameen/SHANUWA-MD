@@ -110,8 +110,8 @@ zokou({ nomCom: "shanuwa", categorie: "Developer" }, async (dest, zk, commandeOp
 zokou({ nomCom: "sahan", categorie: "Developer" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *SHANUWA-MD BOT* 💀 \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALEWELA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 18 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Ideas Link https://wa.me/94720797915?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+  repondre("💀 *SHANUWA-MD BOT* 💀 \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALLE💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 *..👨‍💻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Ideas Link https://wa.me/94724389699?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });   
 zokou({ nomCom: "ping" }, async (dest, zk, commandeOptions) => {
