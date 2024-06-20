@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "shanuwa", reaction: "📷", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'MASTERMIND-HD-PHOTO \n\n ' + "is  back";
+    let z = 'SHANUWAMIND-HD-PHOTO \n\n ' + "is  back";
     let d = ' #SHANUWA'S';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/4532847cf319742c78054.jpg';
