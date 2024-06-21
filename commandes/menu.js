@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 │🍄 *𝐑ᴀᴍ* : *${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}*
 │🍄 *𝐏ʟᴀᴛꜰᴏʀᴍ* : *${os.platform()}*
 │🍄 *𝐃ᴇᴠᴇʟᴏᴘᴇʀ* : *Shanuwa*
-│🍄*𝐕ᴇʀꜱɪᴏɴ* : *V1.0*
+│🍄 *𝐕ᴇʀꜱɪᴏɴ* : *V1.0*
 │🍄 *𝐆ɪᴛʜᴜʙ* : *mrshameen*
 ╘═══💀SHANUWA-MD💀═══⫸`;
 
