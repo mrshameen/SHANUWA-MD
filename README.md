@@ -78,4 +78,4 @@ The SHANUWA-MD is released.
 Enjoy the diverse features of the SHANUWA-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94724389699)
+- [**WhatsApp**](https://wa.me/94724389699_├✤┤)
